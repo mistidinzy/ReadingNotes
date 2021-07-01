@@ -1,2 +1,2 @@
-# learning-journal
-## 102-Learning Journal 
+# reading-notes
+## 102-Reading Notes
