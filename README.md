@@ -3,7 +3,7 @@
 ## About Me 
 **My name is Misti Dawn Dinzy.** I'm 28 years old, born and raised in Cedar Rapids, Iowa. 
 I'm currently a student, exploring opportunities to find my \"niche" in the world. 
-My passions are in animal rescue, all forms of art, organization and yoga.  
+My passions are in animal rescue, all forms of art, organization, reading and yoga.  
 I'm very excited and grateful to exist at the same time as this ever-changing digital world, where we can reach others all over the world and create great things together. 
 Nice to meet you! ☀️
 
