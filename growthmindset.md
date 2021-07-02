@@ -25,6 +25,7 @@ Growth mindset is like a muscle, it requires ongoing maintenance and practice in
 ## **Table of Contents**
 - 🏡[Home](/README.md)
 - 💭[Growth Mindset](/growthmindset.md)
+- ✍️[Learning Markdown](/learningmarkdown.md)
 - [Markdown Examples from Class One - 102](/markdownexamples.md)
 - [Markdown Examples from Class Two - 102](/markdownexamples.md)
 - [Markdown Examples from Class Three - 102](/markdownexamples.md)
