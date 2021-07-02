@@ -6,6 +6,8 @@ Let's start with GitHub.
 It's kind of like a storage locker that you can choose to share the key to. 
 Whoever you share the key with would then be able to see the contents and change them if they'd like, or add their own code as well. 
 
+> GitHub is the locker, my code's just living in it. 
+
 **Markdown** is one variety within a group of programming languages known as lightweight markup language \(LML).  
 It can be used for a lot of things in a lot of different places.  
 
@@ -18,3 +20,19 @@ As any language, Markdown is composed of words and symbols that come together to
 
 > **Syntax**: A set of rules that govern how words are combined to form longer strings of meaning. 
 
+### Markdown Resources
+ - [Markdown Examples](/markdownexamples.md)
+ - [Resource 2]
+ - [Resource 3]
+ - [Resource 4]
+ - [Resource 5]
+
+
+## **Table of Contents**
+- 🏡[Home](/README.md)
+- 💭[Growth Mindset](/growthmindset.md)
+- ✍️[Learning Markdown](/learningmarkdown.md)
+- [Markdown Examples from Class One - 102](/markdownexamples.md)
+- [Markdown Examples from Class Two - 102](/markdownexamples.md)
+- [Markdown Examples from Class Three - 102](/markdownexamples.md)
+- 📚[My GitHub Page](https://github.com/mistidinzy)
