@@ -1,6 +1,6 @@
 # Markdown Examples.
 
--[Go To Read Me - 102](/readme.md)
+-[Go To Read Me - 102](/README.md)
 
 ## This is the second heading.
 ### This is some practice Markdown.
