@@ -1,7 +1,7 @@
-# Reading Notes
-## DeltaV Code 102 
+# About Me
+## Hello
 
-**Hi, my name is Misti.**
+**My name is Misti.**
 
 - Here is an example of a table of contents for a learning journal. 
 
