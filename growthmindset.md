@@ -8,7 +8,7 @@ When you are in a growth mindset, you use challenges and obstacles as opportunit
 Growth mindset is like a muscle, it requires ongoing maintenance and practice in order to avoid falling into a fixed mindset. 
 
 ## How can you help yourself get into a growth mindset and stay there? 
-**1. Practice self-awareness, be critical of yourself. Record everything!**
+**1. Practice self-awareness. Be critical of yourself. Record everything!**
   - What do you want to be proud of? What are you not so proud of? 
   - What worked? What didn't?
   - What else can I try? Set SMART goals. 
