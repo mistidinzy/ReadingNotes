@@ -11,6 +11,7 @@ Nice to meet you! ☀️
 ## **Table of Contents**
 - 🏡[Home](/README.md)
 - 💭[Growth Mindset](/growthmindset.md)
+- ✍️[Learning Markdown](/learningmarkdown.md)
 - [Markdown Examples from Class One - 102](/markdownexamples.md)
 - [Markdown Examples from Class Two - 102](/markdownexamples.md)
 - [Markdown Examples from Class Three - 102](/markdownexamples.md)
