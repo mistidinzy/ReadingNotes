@@ -14,3 +14,4 @@ Nice to meet you! ☀️
 - [Markdown Examples from Class One - 102](/markdownexamples.md)
 - [Markdown Examples from Class Two - 102](/markdownexamples.md)
 - [Markdown Examples from Class Three - 102](/markdownexamples.md)
+- [My GitHub Page](www.github.com/mistidinzy)
