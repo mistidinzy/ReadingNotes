@@ -21,3 +21,11 @@ Growth mindset is like a muscle, it requires ongoing maintenance and practice in
   - Ask peers & instructors for help and criticism. 
   - Keep a collection of things that help you stay on track. \(e.g., productivity/mindfullness blogs such as Atlassian)  
   - Always keep an eye out for new tools, techniques and inspiration.  
+
+## **Table of Contents**
+- 🏡[Home](/README.md)
+- 💭[Growth Mindset](/growthmindset.md)
+- [Markdown Examples from Class One - 102](/markdownexamples.md)
+- [Markdown Examples from Class Two - 102](/markdownexamples.md)
+- [Markdown Examples from Class Three - 102](/markdownexamples.md)
+- 📚[My GitHub Page](www.github.com/mistidinzy)
