@@ -10,8 +10,9 @@ Nice to meet you! ☀️
 
  
 ## **Table of Contents**
-- 💭[Growth Mindset](/growthmindset.md)💭
+- 🏡[Home](/README.md)
+- 💭[Growth Mindset](/growthmindset.md)
 - [Markdown Examples from Class One - 102](/markdownexamples.md)
 - [Markdown Examples from Class Two - 102](/markdownexamples.md)
 - [Markdown Examples from Class Three - 102](/markdownexamples.md)
-- [My GitHub Page](www.github.com/mistidinzy)
+- 📚[My GitHub Page](www.github.com/mistidinzy)
