@@ -1,8 +1,7 @@
-# reading-notes
-## 102-Reading Notes
+# Reading Notes
+## DeltaV Code 102 
 
 **Hi, my name is Misti.**
-
 
 - Here is an example of a table of contents for a learning journal. 
 
