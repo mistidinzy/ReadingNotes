@@ -1,4 +1,4 @@
-# Markdown Examples.
+# Markdown Examples
 
 [Go Back Home](/README.md)
 
