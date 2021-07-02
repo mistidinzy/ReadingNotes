@@ -28,4 +28,4 @@ Growth mindset is like a muscle, it requires ongoing maintenance and practice in
 - [Markdown Examples from Class One - 102](/markdownexamples.md)
 - [Markdown Examples from Class Two - 102](/markdownexamples.md)
 - [Markdown Examples from Class Three - 102](/markdownexamples.md)
-- 📚[My GitHub Page](www.github.com/mistidinzy)
+- 📚[My GitHub Page](https://github.com/mistidinzy)
