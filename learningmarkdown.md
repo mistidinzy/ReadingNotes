@@ -21,11 +21,12 @@ As any language, Markdown is composed of words and symbols that come together to
 > **Syntax**: A set of rules that govern how words are combined to form longer strings of meaning. 
 
 ### Markdown Resources
+ - [John Gruber's Guide to Markdown](/https://daringfireball.net/projects/markdown/)
+ - [What Is Markdown & How Do You Use It](/https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
  - [Markdown Examples](/markdownexamples.md)
- - [Resource 2]
- - [Resource 3]
- - [Resource 4]
- - [Resource 5]
+ - [Markdown Cheat Sheet](/https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+ - [Markdown Tools](/https://www.markdownguide.org/tools/)
+ - [Online Markdown Editor](/https://dillinger.io/)
 
 
 ## **Table of Contents**
