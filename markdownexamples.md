@@ -1,7 +1,5 @@
 # Markdown Examples
 
-[Go Back Home](/README.md)
-
 ## This is the second heading.
 ### This is some practice Markdown.
 
