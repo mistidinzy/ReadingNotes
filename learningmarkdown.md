@@ -6,12 +6,8 @@ Let's start with GitHub.
 It's kind of like a storage locker that you can choose to share the key to. 
 Whoever you share the key with would then be able to see the contents and change them if they'd like, or add their own code as well. 
 
-> GitHub is the locker, my code's just living in it. 
-
 **Markdown** is one variety within a group of programming languages known as lightweight markup language \(LML).  
-It can be used for a lot of things in a lot of different places.  
-
-> Markdown is a low-fat programming language ice cream, and it comes in many flavors. 
+It can be used for a lot of things in a lot of different places.   
 
 In GitHub, we create **Markdown files** \(the ones that end in .md) to change the way this \"storage locker" and its contents are presented. 
 We can add headers, lists, tables, make the font *italic* or **bold**, etc. to make it easier to navigate, or just better to look at. 
