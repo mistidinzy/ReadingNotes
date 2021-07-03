@@ -14,3 +14,12 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+
+## **Table of Contents**
+- 🏡[Home](/README.md)
+- 💭[Growth Mindset](/growthmindset.md)
+- ✍️[Learning Markdown](/learningmarkdown.md)
+- 4️⃣[Nav Link](/learningmarkdown.md)
+- 5️⃣[Nav Link](/learningmarkdown.md)
+- 📚[My GitHub Page](https://github.com/mistidinzy)
