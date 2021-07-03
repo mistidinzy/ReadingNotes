@@ -13,6 +13,20 @@ __This will also be bold__
 
 _You **can** combine them_
 
+## Making Lists
+
+### Using \-
+- Item One
+- Item Two
+
+### Using \*
+* Item One
+* Item Two
+
+### Using \+
++ Item One
++ Item Two
+
 
 ## **Table of Contents**
 - 🏡[Home](/README.md)
