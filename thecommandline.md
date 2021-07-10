@@ -13,20 +13,24 @@ It's kind of like the command is saying "do this", and the arguments are saying 
 
 ## Options 
 
-> An *option* is a type of argument that comes before all other kinds of arguments. It modifies the behavior of the command. <br>
+> One kind of argument is an **Option**. <br>
+> An *option* is a single letter code that modifies the behavior of the command. <br>
 > Options are typically defined by beginning with a hyphen (-). <br>
->  (e.g.) **-l** commonly means "long", **-v** "verbose". **-lv** are *two* options combined in a *single* argument.
+>
+> Example: <br>
+>    "**-l**" is an option that commonly means 'long', "**-v**" is another option that means 'verbose'. <br>
+>  Together, "**-lv**" are *two* options combined to make a *single* argument.
 
 _____
 
-# The Shell
+### Here are a few resources I found helpful: 
 
-_____
-
-
-
-
-
+* [The Shell Definition](/http://www.linfo.org/shell.html)
+* [Command Definition](/http://www.linfo.org/command.html)
+* [Index of Linux Commands](/https://ss64.com/bash/)
+* [Argument Definition](/http://www.linfo.org/argument.html)
+* [Option Definition](/http://www.linfo.org/option.html)
+* [Bash Reference Manual](/https://www.gnu.org/software/bash/manual/bash.html)
 
 _____
 
