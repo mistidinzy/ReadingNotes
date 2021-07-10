@@ -17,7 +17,7 @@ It's kind of like the command is saying "do this", and the arguments are saying 
 > Options are typically defined by beginning with a hyphen (-). <br>
 >  (e.g.) **-l** commonly means "long", **-v** "verbose". **-lv** are *two* options combined in a *single* argument.
 
-______
+_____
 
 # The Shell
 
@@ -35,6 +35,7 @@ _____
 > * [Basic Navigation](/basicnavigation.md)
   
 > * [More About Files](/moreaboutfiles.md)
+
 _____
 
 ### [Back Home](/readme.md)
