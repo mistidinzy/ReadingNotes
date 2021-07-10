@@ -1,13 +1,15 @@
-# Text Editor vs. Source Code Editor vs. IDE
+# Choosing a Text Editor
 
+
+Text Editor vs. Source Code Editor vs. IDE
 
 ## Text Editor
 A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website. 
   
 Examples:
->  * Notepad 
->  * Google Docs 
+>  * Notepad  
 >  * Apple Pages
+>  * Google Docs
 
 ## Code-Specific Text Editor
 Also known as "source code editor". 
@@ -30,13 +32,15 @@ Examples:
 >  * NetBeans
 >  * Komodo IDE
 
-## Choosing a Text Editor
+_____
+
+## How to Choose? 
 
 Developers should be thoughtful when choosing a text editor because it is one of the most important tools they will use. 
 You want it to be one that you will be happy and comfortable using for several hours a day. 
 Choosing a text editor with the right features will writing and managing your code much easier and faster. 
 
-Important Features to Look For:  
+Useful Features to Look For:  
 > * code completion
 > * syntax highlighting  
 > * variety of theme options
