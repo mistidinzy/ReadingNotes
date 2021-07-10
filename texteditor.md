@@ -49,7 +49,9 @@ Useful Features to Look For:
 > * variety of theme options
 > * variety of extensions to add on 
 > * Emmet shorthand
+
 _____
+
 
 * [Back to Coder's Computer](/coderscomputer.md)
 * [Back Home](/readme.md)
