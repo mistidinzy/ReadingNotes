@@ -1,9 +1,9 @@
 # Choosing a Text Editor
 
 
-Text Editor vs. Source Code Editor vs. IDE
+## Text Editor vs. Source Code Editor vs. IDE
 
-## Text Editor
+### Text Editor
 A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website. 
   
 Examples:
@@ -11,7 +11,7 @@ Examples:
 >  * Apple Pages
 >  * Google Docs
 
-## Code-Specific Text Editor
+### Code-Specific Text Editor
 Also known as "source code editor". 
 These are different from the above text editors, because they are designed specifically to make it easier and better to write, edit and manage code. 
 
@@ -22,7 +22,7 @@ Examples:
 >  * Sublime Text
 >  * Brackets
 
-## IDE (Integrated Development Environment)
+### IDE (Integrated Development Environment)
 An Integrated Development Environment is a package of programs & tools that includes a text editor, but also other useful software for developers. 
 These tools might also include a compiler, debugger, build automation tools, a class browser, an object browser, etc. 
 
@@ -46,6 +46,4 @@ Useful Features to Look For:
 > * variety of theme options
 > * variety of extensions to add on 
 > * Emmet shorthand
-
-
 
