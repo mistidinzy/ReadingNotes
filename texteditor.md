@@ -52,6 +52,17 @@ Useful Features to Look For:
 
 _____
 
+## Next: 
 
-* [Back to Coder's Computer](/coderscomputer.md)
-* [Back Home](/readme.md)
+> * [The Command Line](/thecommandline.md)
+  
+> * [Basic Navigation](/basicnavigation.md)
+  
+> * [More About Files](/moreaboutfiles.md)
+
+_____
+
+### [Back Home](/readme.md)
+
+
+
