@@ -1,7 +1,10 @@
 # Choosing a Text Editor
 
+_____
 
 ## Text Editor vs. Source Code Editor vs. IDE
+
+_____
 
 ### Text Editor
 A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website. 
@@ -46,4 +49,7 @@ Useful Features to Look For:
 > * variety of theme options
 > * variety of extensions to add on 
 > * Emmet shorthand
+_____
 
+* [Back to Coder's Computer](/coderscomputer.md)
+* [Back Home](/readme.md)
