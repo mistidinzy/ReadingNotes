@@ -25,12 +25,13 @@ _____
 
 ### Here are a few resources I found helpful: 
 
-* [The Shell Definition](/http://www.linfo.org/shell.html)
-* [Command Definition](/http://www.linfo.org/command.html)
-* [Index of Linux Commands](/https://ss64.com/bash/)
-* [Argument Definition](/http://www.linfo.org/argument.html)
-* [Option Definition](/http://www.linfo.org/option.html)
-* [Bash Reference Manual](/https://www.gnu.org/software/bash/manual/bash.html)
+* [The Shell Definition](http://www.linfo.org/shell.html)
+* [Command Definition](http://www.linfo.org/command.html)
+* [Index of Windows CMD Commands](https://ss64.com/nt/)
+* [Index of Linux Commands](https://ss64.com/bash/)
+* [Argument Definition](http://www.linfo.org/argument.html)
+* [Option Definition](http://www.linfo.org/option.html)
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 _____
 
