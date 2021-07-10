@@ -36,10 +36,10 @@ cat ~/.gitconfig
 ```
 
 
-### Choosing a Text Editor
+### [Choosing a Text Editor](/texteditor.md) 
   
-### The Command Line
+### [The Command Line](/thecommandline.md)
   
-### Basic Navigation
+### [Basic Navigation](/basicnavigation.md)
   
-### About Files  
+### [More About Files](/moreaboutfiles.md)
