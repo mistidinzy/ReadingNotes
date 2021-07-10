@@ -1,8 +1,11 @@
 # Coder's Computer 
   
-## Installfest  
-  Class 02 is all about optimizing my computer for coding. I installed several programs to help me get started.<br> 
-  First I setup my Terminal. 
+_____  
+  
+## InstallFest  
+  Class 02 is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started. 
+  
+  
   **The Terminal I am using is called Windows Powershell ISE.**
   It is an "integrated scripting environment" within Windows that allows me to input code that will make changes on my computer.  
       
@@ -23,7 +26,9 @@
   
   **VSCode:** A code editor made by Microsoft, loaded with helpful extensions I can install that make coding faster, easier, more accurate, etc. 
   
-### After Installfest, I ran the following codes to verify that everything was setup correctly:
+_____  
+  
+### After InstallFest, I ran the following codes to verify that everything was setup correctly:
 ```
 code --version 
 git --version 
@@ -35,6 +40,9 @@ echo $PS1
 cat ~/.gitconfig
 ```
 
+_____
+
+## Next: 
 
 ### [Choosing a Text Editor](/texteditor.md) 
   
@@ -43,3 +51,8 @@ cat ~/.gitconfig
 ### [Basic Navigation](/basicnavigation.md)
   
 ### [More About Files](/moreaboutfiles.md)
+
+_____
+
+* [Back Home](/readme.md)
+
