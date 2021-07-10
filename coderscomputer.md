@@ -44,13 +44,13 @@ _____
 
 ## Next: 
 
-### [Choosing a Text Editor](/texteditor.md) 
+> * [Choosing a Text Editor](/texteditor.md) 
   
-### [The Command Line](/thecommandline.md)
+> * [The Command Line](/thecommandline.md)
   
-### [Basic Navigation](/basicnavigation.md)
+> * [Basic Navigation](/basicnavigation.md)
   
-### [More About Files](/moreaboutfiles.md)
+> * [More About Files](/moreaboutfiles.md)
 
 _____
 
