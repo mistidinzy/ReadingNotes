@@ -5,6 +5,7 @@ _____
 > **pwd** = (print working directory) path where you currently are within the terminal <br>
 > **ls** = list contents of the current directory (shows where you can go from where you are) <br>
 > **-l** = (long) a command line option that gives a longer listing with more details
+> **ls -a** = list contents including hidden files
 > **cd** = change directory <br>
 > **cd ..** = go back <br>
 > **mkdir** = make new directory folder <br>
