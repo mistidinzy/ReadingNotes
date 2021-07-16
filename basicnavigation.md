@@ -4,17 +4,17 @@ _____
 
 > **pwd** = (print working directory) path where you currently are within the terminal <br>
 > **ls** = list contents of the current directory (shows where you can go from where you are) <br>
-> **-l** = (long) a command line option that gives a longer listing with more details
-> **ls -a** = list contents including hidden files
+> **-l** = (long) a command line option that gives a longer listing with more details <br>
+> **ls -a** = list contents including hidden files <br>
 > **cd** = change directory <br>
 > **cd ..** = go back <br>
 > **mkdir** = make new directory folder <br>
 > **rmdir** = (remove) delete a directory <br>
-> **touch filenamehere** = create a blank file 
-> **cp** = copy a file or directory
-> **mv** = move a file or directory
-> **mv filenamehere** = rename a file
-> **rm** = (remove) delete a file
+> **touch filenamehere** = create a blank file <br>
+> **cp** = copy a file or directory <br>
+> **mv** = move a file or directory <br>
+> **mv filenamehere** = rename a file <br>
+> **rm** = (remove) delete a file <br>
 _____
 
 ### Paths
