@@ -9,7 +9,12 @@ _____
 > **cd** = change directory <br>
 > **cd ..** = go back <br>
 > **mkdir** = make new directory folder <br>
-
+> **rmdir** = (remove) delete a directory <br>
+> **touch filenamehere** = create a blank file 
+> **cp** = copy a file or directory
+> **mv** = move a file or directory
+> **mv filenamehere** = rename a file
+> **rm** = (remove) delete a file
 _____
 
 ### Paths
