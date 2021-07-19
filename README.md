@@ -2,6 +2,8 @@
 
 _____
 
+![Propic](https://bit.ly/3rj8d4L)
+
 ## About Me 
 **My name is Misti Dawn Dinzy.** I'm 28 years old, born and raised in Cedar Rapids, Iowa.   
 I'm currently a student, exploring opportunities to find my \"niche" in the world.   
