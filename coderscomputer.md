@@ -3,7 +3,7 @@
 _____  
   
 ## InstallFest  
-  Class 02 is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started. 
+  Class Two is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started. 
   
   
   **The Terminal I am using is called Windows Powershell ISE.**
