@@ -1,6 +1,7 @@
 
 # Structure Webpages with HTML
 
+
  ### HTML - Hyper Text Markup Language
  
   Uses markup elements to define content. 
@@ -13,8 +14,7 @@
    > Nesting: Elements within other elements. 
 
 
-HTML Example 
-
+**HTML Example** 
 
     <!DOCTYPE html>
      <html>
