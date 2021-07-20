@@ -40,7 +40,7 @@ Now you can:
      
        code . 
  
- * See ACP section below for how to save changes to your GitHub repo online. 
+ * See ACP section below for how to save changes to your GitHub online repo. 
  * Do a little dance. 
 _____
  
@@ -95,6 +95,8 @@ Include **-m** + notes explaining the changes you are making
 ## 3. (Push) changes through to GitHub.
     git push origin master
 
+
+
 _____
  
 ## **Table of Contents**
@@ -110,4 +112,5 @@ _____
 - 🌵 [Programming with JavaScript](/.md)
 - 🤖 [Operators and Loops](/.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
+
 _____
