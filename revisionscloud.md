@@ -14,7 +14,7 @@
 Done! 
 
 Now you can: 
- > use **cd yourreponame** to move to your repo's directory. 
+ > use **cd *yourreponame*** to move to your repo's directory. 
 
 Open VS Code with **code .** and make changes to your files there. 
  > use **git status** to view your changes
@@ -24,7 +24,7 @@ Open VS Code with **code .** and make changes to your files there.
 
 # ⭐Add - Commit - Push ⭐ 
 
-## Add - Add your changes to be saved. This "stages" the file.
+## Add - Add your changes to be saved. This "stages" the file(s).
  
  Add file individually 
   > git add *filenamehere* <br>
