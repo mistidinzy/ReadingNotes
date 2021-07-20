@@ -71,7 +71,7 @@ _____
 - ✍️ [Learning Markdown](/learningmarkdown.md)
 - 💻 [Coder's Computer](/coderscomputer.md)
 - 🌩️ [Revisions and the Cloud](/revisionscloud.md)
-- 🏗️ [Structure Webpages with HTML](/.md)
+- 🏗️ [Structure Webpages with HTML](/structure.md)
 - 🎨 [Design Webpages with CSS](/.md)
 - ☕ [Dynamic Webpages with JavaScript](/.md)
 - 🧮 [Computer Architecture and Logic](/.md)
