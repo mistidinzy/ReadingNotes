@@ -1,4 +1,6 @@
 # Revisions & The Cloud
+
+## [Notes About Git](/git.md)
  
 ## Cloning GitHub Repository
    Cloning your GitHub repo allows you to save a local copy of your repository onto your computer. 
@@ -23,9 +25,9 @@ Open VS Code with **code .** and make changes to your files there.
 
 _____
 
-## **Important:** Once you're done making changes to your files, you have to **ACP!**
+## **Important:** Once you're done making changes to your files, you have to **ACP!** ⬇️
 
-# ⭐Add - Commit - Push ⭐ 
+## ⭐Add - Commit - Push ⭐ 
 
 ### **Note:** 
  > Using **git status** before ACP is a very very good practice, as it shows you all the changes you have made since your last commit.  
