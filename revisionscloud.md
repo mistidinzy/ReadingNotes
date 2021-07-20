@@ -1,8 +1,8 @@
 # Revisions & The Cloud
  
- ## Cloning GitHub Repository
+## Cloning GitHub Repository
  
- ### To clone a Repo from GitHub to your computer:  
+### To clone a Repo from GitHub to your computer:  
  * Go to your Repo's page on GitHub.
  * Click the green "Code" box.
  * Under the "clone" section, find your repo's URL and copy it.
