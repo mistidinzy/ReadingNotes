@@ -42,8 +42,19 @@ Include **-m** + notes explaining the changes you are making
 ## Push - Push changes through to GitHub.
  > git push origin master
 
+______
+
 # Git Flow
+
+ * [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2_1)
+
+
+
+
+
+
  ![gitflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+ 
 
 _____
  
