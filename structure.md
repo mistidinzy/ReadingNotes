@@ -1,7 +1,6 @@
 
 # Structure Webpages with HTML
 
-
  ### HTML - Hyper Text Markup Language
  
   Uses markup elements to define content. 
@@ -56,11 +55,6 @@ _____
 [HTML Basics](https://mzl.la/36R0pO0)
 
 [HTML Learning Area](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-
-
- 
-
-
 
 
 _____
