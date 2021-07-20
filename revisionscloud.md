@@ -1,6 +1,9 @@
 # Revisions & The Cloud
  
 ## Cloning GitHub Repository
+   Cloning your GitHub repo allows you to save a local copy of your repository onto your computer. 
+   You can then make changes to this copy and feed those through to your remote copy later. 
+ 
  
 ### To clone a Repo from GitHub to your computer:  
  * Go to your Repo's page on GitHub.
@@ -17,14 +20,18 @@ Now you can:
  > use **cd *yourreponame*** to move to your repo's directory. 
 
 Open VS Code with **code .** and make changes to your files there. 
- > use **git status** to view your changes
 
+_____
 
-### **Important:** Once you're done making changes to your files, you have to **ACP!**
+## **Important:** Once you're done making changes to your files, you have to **ACP!**
 
 # ⭐Add - Commit - Push ⭐ 
 
-## Add - Add your changes to be saved. This "stages" the file(s).
+### **Note:** 
+ > Using **git status** before ACP is a very very good practice, as it shows you all the changes you have made since your last commit.  
+
+
+## 1. Add - Add your changes to be saved. This "stages" the file(s).
  
  Add file individually 
   > git add *filenamehere* <br>
@@ -34,12 +41,12 @@ Open VS Code with **code .** and make changes to your files there.
  Add all files
  > git add *
 
-## Commit - Commit changes.
+## 2. Commit - Commit changes.
 
 Include **-m** + notes explaining the changes you are making 
  > git commit -m *updated filename*
 
-## Push - Push changes through to GitHub.
+## 3. Push - Push changes through to GitHub.
  > git push origin master
 
 
