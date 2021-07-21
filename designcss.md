@@ -20,7 +20,7 @@
                 Property & Value pairs - specify property of the element selected and them the value to give to that property. Propert goes before semi-colon, value goes after. 
         4. Curly bracket to close }
 
-    [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ### Modules
 
