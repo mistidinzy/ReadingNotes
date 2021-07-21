@@ -1,8 +1,8 @@
 
 # Dynamic Webpages with JavaScript
 
-### JavaScript
-    A programming language for adding more complex things on your webpages. Can be used for dynamic objects like content that periodically updates, interactive maps, video players, animated graphics, etc.
+### What is JavaScript
+A programming language for adding more complex things on your webpages. Can be used for dynamic objects like content that periodically updates, interactive maps, video players, animated graphics, etc.
 
 ![JavaScriptCake](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/cake.png)
 
@@ -18,7 +18,7 @@ Browser will run a block of JavaScript from top to bottom so you have to be mind
 
 
 ### How Computers Work
-    
+
 
 _____
  
