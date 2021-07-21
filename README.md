@@ -19,12 +19,12 @@ It's nice to meet you! ☀️
 - ✍️ [Learning Markdown](/learningmarkdown.md)
 - 💻 [Coder's Computer](/coderscomputer.md)
 - 🌩️ [Revisions and the Cloud](/revisionscloud.md)
-- 🏗️ [Structure Webpages with HTML](/.md)
-- 🎨 [Design Webpages with CSS](/.md)
-- ☕ [Dynamic Webpages with JavaScript](/.md)
-- 🧮 [Computer Architecture and Logic](/.md)
-- 🌵 [Programming with JavaScript](/.md)
-- 🤖 [Operators and Loops](/.md)
+- 🏗️ [Structure Webpages with HTML](/structure.md)
+- 🎨 [Design Webpages with CSS](/designcss.md)
+- ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
+- 🧮 [Computer Architecture and Logic](/comparchlogic.md)
+- 🌵 [Programming with JavaScript](/programjava.md)
+- 🤖 [Operators and Loops](/operloops.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
 
 _____
