@@ -15,10 +15,10 @@
 ### CSS Structure
     Rule:
         1. Selector first (ie: h1)
-        2. Curly bracket to open {
+        2. Curly brace to open {
             3. {declarations inside brackets} 
-                Property & Value pairs - specify property of the element selected and them the value to give to that property. Propert goes before semi-colon, value goes after. 
-        4. Curly bracket to close }
+                Property ; Value 
+        4. Curly brace to close }
 
 [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
