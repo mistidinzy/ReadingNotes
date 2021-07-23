@@ -17,10 +17,6 @@ APIs: Application Programming Interfaces. Ready-made code blocks that help devs 
 
 Browser will run a block of JavaScript from top to bottom so you have to be mindful of what order you write things in. 
 
-
-### How Computers Work
-
-
 _____
  
 ## **Table of Contents**
