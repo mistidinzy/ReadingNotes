@@ -3,28 +3,30 @@
 
 # Expressions
 
-An expression is any valid unit of code that resolves to a value. 
+An expression is any valid unit of code that resolves to a value.
 
-Categories: 
-    * Arithmetic
-    * String
-    * Logical
-    * Primary
-    * Left-hand-side expressions
+Categories:
+
+    - Arithmetic
+    - String
+    - Logical
+    - Primary
+    - Left-hand-side expressions
 
 # Operators
     
-Javascript has a ton of types of operators. 
-    * Assignment
-    * Comparison
-    * Arithmetic
-    * Bitwise
-    * Logical
-    * String
-    * Conditional
-    * Comma
-    * Unary
-    * Relational 
+Javascript has a ton of types of operators.
+
+    - Assignment
+    - Comparison
+    - Arithmetic
+    - Bitwise
+    - Logical
+    - String
+    - Conditional
+    - Comma
+    - Unary
+    - Relational 
 
 # Functions
 
@@ -43,6 +45,7 @@ In order to make the function work, you have to call it. Calling the function te
 To call a function, just write the function's name followed by paranthesis. 
 
 That will look like this:
+
         function **hello**()
 
 _____
