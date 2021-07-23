@@ -24,7 +24,7 @@ It's nice to meet you! ☀️
 - 🏗️ [Structure Webpages with HTML](/structure.md)
 - 🎨 [Design Webpages with CSS](/designcss.md)
 - ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
-- 🌵 [Programming with JavaScript](/programjava.md)
+- 🌵 [Programming with JavaScript](/programjs.md)
 - 🤖 [Operators and Loops](/operloops.md)
 - 🧮 [Computer Architecture and Logic](/comparchlogic.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
