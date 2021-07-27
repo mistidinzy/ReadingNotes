@@ -1,9 +1,8 @@
 
 # Operators and Loops
 
-
 _____
- 
+
 ## **Table of Contents**
 - 🏡 [Home](/README.md)
 - 💭 [Growth Mindset](/growthmindset.md)

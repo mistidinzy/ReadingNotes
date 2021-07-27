@@ -13,7 +13,7 @@ I’m currently learning website & software development with DeltaV!
 
 My passions are in animal rescue, art, reading and yoga.
 
- _____
+_____
  
 ## **Table of Contents**
 - 🏡 [Home](/README.md)
