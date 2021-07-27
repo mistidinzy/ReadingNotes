@@ -15,6 +15,7 @@
 
 **HTML Example** 
 
+  ``` html 
     <!DOCTYPE html>
      <html>
       <head>
@@ -25,7 +26,7 @@
       <img src="images/firefox-icon.png" alt="My test image">
     </body>
     </html>
-
+  ```
 
  ### Wireframe - Rough draft of a web page interface. 
   
