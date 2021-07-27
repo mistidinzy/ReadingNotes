@@ -1,7 +1,7 @@
 
 # Misti's Reading Notes
 
-![Propic](/images/propic.jpg)
+<!--![Propic](/images/propic.jpg) -->
 
 ## About Me
 
