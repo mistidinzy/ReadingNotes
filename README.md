@@ -14,8 +14,8 @@ _____
 ## **Table of Contents**
 
 - 🏡 [Home](/README.md)
-- [Code 102](102/102home.html)
-- [Code 201](201/201home.html)
+- [Code 102](102home.md)
+- [Code 201](201home.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
 
 _____
