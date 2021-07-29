@@ -1,10 +1,20 @@
 # Class One
 
+_____
+
 ## HTML
 
-Chapter One - Structure
+### Introduction
 
-HTML describes the structure of a web page. HTML (HyperText Markup Language) is made up of ***elements*** that live inside angled bracket containers. They begin with an ***opening tag*** and usually end with a ***closing tag***.  Elements tell the web browser what kind of information it is reading between those tags.
+HTML (HyperText Markup Language)
+
+CSS (Cascading Style Sheets)
+
+_____
+
+### Chapter One - Structure
+
+HTML describes the structure of a web page. HTML is made up of ***elements*** that live inside angled bracket containers. They begin with an ***opening tag*** and usually end with a ***closing tag***.  Elements tell the web browser what kind of information it is reading between those tags.
 
 ``` html
     <header>This is where I could put a heading</header>
@@ -33,3 +43,37 @@ HTML structure is usually made up of the same basic handful of elements to start
         </body>
     </html>
 ```
+
+_____
+
+### Chapter Eight - Extra Markup
+
+Notes
+
+_____
+
+### Chapter Seventeen - HTML5 Layout
+
+Notes
+
+_____
+
+### Chapter Eighteen - Process & Design
+
+Notes
+
+_____
+
+## JavaScript
+
+### Intro
+
+Notes
+
+_____
+
+### Chapter One - The ABC of Programming
+
+Notes
+
+_____
