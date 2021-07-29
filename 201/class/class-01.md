@@ -4,10 +4,32 @@
 
 Chapter One - Structure
 
-HTML describes the structure of a web page. HTML (HyperText Markup Language) is made up of *elements* that live inside angled brackets. They begin with an *opening tag* and usually end with a *closing tag*. These elements tell the web browser what kind of information it is reading between those tags.
+HTML describes the structure of a web page. HTML (HyperText Markup Language) is made up of ***elements*** that live inside angled bracket containers. They begin with an ***opening tag*** and usually end with a ***closing tag***.  Elements tell the web browser what kind of information it is reading between those tags.
 
 ``` html
-        <header>This is where I could put a heading</header>
+    <header>This is where I could put a heading</header>
 ```
 
 In this example, the header tag tells the web browser that "This is where I could put a heading" is going to be a header. This helps it know where to put it and how to treat it within the structure.
+
+```html
+    <p lang="en-us">Paragraph in English</p>
+```
+
+Sometimes there are ***Attributes*** in the opening tags as well.  
+Attributes give even more information about what kind of contents we're looking at.
+In this example, the attribute is 'lang'. This tells us what language the content is going to be.
+And "en-us" tells us that the language is going to be English. This is the ***attribute value.***
+
+HTML structure is usually made up of the same basic handful of elements to start off with. You can usually expect to see these ones at the very least:
+
+```html
+    <!DOCTYPE html>
+    <html>
+        <head></head>
+        <body>
+            <main></main>
+            <footer></footer>
+        </body>
+    </html>
+```
