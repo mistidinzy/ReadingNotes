@@ -28,8 +28,9 @@ In this example, the header tag tells the web browser that "This is where I coul
 
 Sometimes there are ***Attributes*** in the opening tags as well.  
 Attributes give even more information about what kind of contents we're looking at.
-In this example, the attribute is 'lang'. This tells us what language the content is going to be.
+In this example, the attribute name is 'lang'. This tells us what language the content is going to be.
 And "en-us" tells us that the language is going to be English. This is the ***attribute value.***
+Attributes require a name and a value in order to work.
 
 HTML structure is usually made up of the same basic handful of elements to start off with. You can usually expect to see these ones at the very least:
 
@@ -48,7 +49,19 @@ _____
 
 ### Chapter Eight - Extra Markup
 
-Notes
+Additional elements we can use in HTML.
+
+In the example structure above, notice that the first element listed is the DOCTYPE.
+With any html document, we have to start out by telling the browser which verson of html we are using.
+
+If we want to add something into our html code, but don't want it to show up on the page, we can "comment" out the information so that it is only viewable in when we look at the code itself.
+To **Comment Out** something in html, you would type it out like this:
+
+```html
+    <!-- informtion to be hidden-->
+```
+
+ID and Class attributes are used to help identify specific elements so that you may reference them elsewhere, such as your CSS styling page.
 
 _____
 
