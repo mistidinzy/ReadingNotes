@@ -2,17 +2,19 @@
 
 ## Arrays
 
-  An array is a variable that can store several values, rather than just one. 
+  An array is a variable that can store several values, rather than just one.
 
-``` javascript  
-    var shopList;
-    shopList = ['milk', 'pumpkin', 'bread']
+``` javascript
 
-    var el = document.getElementById('shopList');
-    el.textContent = shopList[0]
+      var shopList;
+      shopList = ['milk', 'pumpkin', 'bread']
 
-    keyword name;
-    name = ['value', 'value', 'value'];
+      var el = document.getElementById('shopList');
+      el.textContent = shopList[0]
 
-    array literal preferred over array constructor
+      keyword name;
+      name = ['value', 'value', 'value'];
+
 ```
+
+array literal preferred over array constructor

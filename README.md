@@ -1,8 +1,6 @@
 
 # Misti's Reading Notes
 
-<!--![Propic](/images/propic.jpg) -->
-
 ## About Me
 
 My name is Misti Dinzy. I'm 28 years old, born and raised in Cedar Rapids, Iowa.

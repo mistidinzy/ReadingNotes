@@ -1,20 +1,13 @@
 # Class One
 
-_____
+## HTML
 
-## READ:
+Chapter One - Structure
 
-**From the Duckett HTML book:**
+HTML describes the structure of a web page. HTML (HyperText Markup Language) is made up of *elements* that live inside angled brackets. They begin with an *opening tag* and usually end with a *closing tag*. These elements tell the web browser what kind of information it is reading between those tags.
 
-    Introduction (pp.2-11)
-    HTML Chapter 1: “Structure” (pp.12-39)
-    HTML Chapter 8: “Extra Markup” (p.176-199)
-    HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-    HTML Chapter 18: “Process & Design” (pp.452-475)
+``` html
+        <header>This is where I could put a heading</header>
+```
 
-**From the Duckett JS book:**
-
-    Introduction
-    JS Chapter 1: “The ABC of Programming” (pp.11-52)
-
-_____
+In this example, the header tag tells the web browser that "This is where I could put a heading" is going to be a header. This helps it know where to put it and how to treat it within the structure.
