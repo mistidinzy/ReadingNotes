@@ -77,8 +77,8 @@ _____
 
 The first step in designing a website is to think about the target audience. Who are they? What can you do to draw them to your website, and get them to return?
 
-> While you want to curate your site to be appealing and useful to >your target audience, be mindful that you aren't modeling your >target audience using stereotypical demographics.
-> Take time to educate yourself. Be concious of current events, >social inequality, cultural appropriation, insincere actions of >"woke capitalism", and other such acts that perpetuate harmful >rhetoric.
+>While you want to curate your site to be appealing and useful to your target audience, be mindful that you aren't modeling your target audience using stereotypical demographics.
+ Take time to educate yourself. Be concious of current events, social inequality, cultural appropriation, insincere actions of "woke capitalism", and other such acts that perpetuate harmful rhetoric.
 
 Create a site map to plan the structure of the site. Where will the links lead and what those pages will contain. One technique for this is card sorting.
 
