@@ -58,22 +58,29 @@ If we want to add something into our html code, but don't want it to show up on 
 To **Comment Out** something in html, you would type it out like this:
 
 ```html
-    <!-- informtion to be hidden-->
+    <!-- information to be hidden-->
 ```
 
-ID and Class attributes are used to help identify specific elements so that you may reference them elsewhere, such as your CSS styling page.
+"ID" and "Class" attributes are used to help identify specific elements so that you may reference them elsewhere, such as your CSS styling page.
+
+When you want to include certain characters in your pages that are typically used within code already, (like angled brackets, apostrophes, pound signs, etc.) use "Escape codes" so they don't get read as part of the rest of your code.
 
 _____
 
 ### Chapter Seventeen - HTML5 Layout
 
-Notes
+There have been different versions of HTML over time. The most recent version is HTML5. HTML5 introduced some new elements that help provide clearer code, and replace some of the more outdated/finicky elements.
 
 _____
 
 ### Chapter Eighteen - Process & Design
 
-Notes
+The first step in designing a website is to think about the target audience. Who are they? What can you do to draw them to your website, and get them to return?
+
+> While you want to curate your site to be appealing and useful to >your target audience, be mindful that you aren't modeling your >target audience using stereotypical demographics.
+> Take time to educate yourself. Be concious of current events, >social inequality, cultural appropriation, insincere actions of >"woke capitalism", and other such acts that perpetuate harmful >rhetoric.
+
+Create a site map to plan the structure of the site. Where will the links lead and what those pages will contain. One technique for this is card sorting.
 
 _____
 
