@@ -6,7 +6,6 @@ _____
 
 ### Chapter 2 - “Text” (pp.40-61)
 
-    
 
 ### Chapter 10 - “Introducing CSS” (pp.226-245)
 
