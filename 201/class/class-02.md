@@ -6,7 +6,7 @@ _____
 
 ### Chapter 2 - “Text” (pp.40-61)
 
-![htmlText](images/1htmltext.jpg)
+![htmlText](https://www.flickr.com/photos/miskibee/51351318450)
 
 ### Chapter 10 - “Introducing CSS” (pp.226-245)
 
