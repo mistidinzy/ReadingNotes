@@ -4,30 +4,31 @@ _____
 
 ## HTML
 
-### Chapter 2 - “Text” (pp.40-61)
+### Chapter 2 - Text
 
-![htmlText](https://imgur.com/uPQW694)
+![htmlText](https://i.imgur.com/uPQW694.jpg)
 
-### Chapter 10 - “Introducing CSS” (pp.226-245)
+### Chapter 10 - Introducing CSS
 
-![CSS](https://imgur.com/FizEVew)
+![CSS](https://i.imgur.com/FizEVew.jpg)
+
 _____
 
 ## JavaScript
 
-### Chapter 3 - “Basic JavaScript Instructions” (pp.53-84)
+### Chapter 3 - Basic JavaScript Instructions
 
-![JavaScriptInstructions](https://imgur.com/qL03Zcj)
+![JavaScriptInstructions](https://i.imgur.com/qL03Zcj.jpg)
 
-![DataTypesandArrays](https://imgur.com/HxuNeNe)
+![DataTypesandArrays](https://i.imgur.com/HxuNeNe.jpg)
 
-![ExpressionsandOperators](https://imgur.com/OYb4Ihi)
+![ExpressionsandOperators](https://i.imgur.com/OYb4Ihi.jpg)
 
-![JScriptSummary](https://imgur.com/cIuxBaM)
+![JScriptSummary](https://i.imgur.com/cIuxBaM.jpg)
 
-### Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+### Chapter 4: Decisions and Loops
 
-![DecisionsandLoops](https://imgur.com/XVvqsTv)
+![DecisionsandLoops](https://i.imgur.com/XVvqsTv.jpg)
 
 _____
 
