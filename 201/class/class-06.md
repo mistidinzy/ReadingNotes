@@ -10,9 +10,9 @@ You can access the properties or methods of an object using **dot notation**.
 
 Browsers come with three sets of built-in objects.
 
-  -Browser Object Model
-  -Document Object Model
-  -Global JavaScript Model
+- Browser Object Model
+- Document Object Model
+- Global JavaScript Model
 
 ### Document Object Model
 
