@@ -14,6 +14,7 @@ _____
 ## **Table of Contents**
 
 - 🏡 [Home](/README.md)
+- [About Me](https://mistidinzy.github.io/AboutMe/)
 - [Code 102](102home.md)
 - [Code 201](201home.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
