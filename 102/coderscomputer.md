@@ -1,17 +1,16 @@
-# Coder's Computer 
+# Coder's Computer
   
 _____  
   
-## InstallFest  
-  Class Two is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started. 
-  
+## InstallFest
+  Class Two is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started.
   
   **The Terminal I am using is called Windows Powershell ISE.**
   It is an "integrated scripting environment" within Windows that allows me to input code that will make changes on my computer.  
-      
+
   **WSL (Windows Subsystem for Linux):** An add-on feature which allows me to use a Linux-based operating system, (such as Ubuntu) connected directly to my terminal. 
       
-  **Homebrew:** An add-on tool that makes it easier to install applications onto my computer, right from my terminal. 
+  **Homebrew:** An add-on tool that makes it easier to install applications onto my computer, right from my terminal.
   
   **Node.js:** Used for building applications with JavaScript. [Here is a useful guide I found from the Node.js website](https://nodejs.dev/learn)<br> 
   **NPM:** Another tool used for installing applications/Node.js packages. 
@@ -54,20 +53,19 @@ _____
 
 _____
 
- 
-## **Table of Contents**
+### **Table of Contents**
+
 - 🏡 [Home](/README.md)
-- 💭 [Growth Mindset](/growthmindset.md)
-- ✍️ [Learning Markdown](/learningmarkdown.md)
-- 💻 [Coder's Computer](/coderscomputer.md)
-- 🌩️ [Revisions and the Cloud](/revisionscloud.md)
-- 🏗️ [Structure Webpages with HTML](/.md)
-- 🎨 [Design Webpages with CSS](/.md)
-- ☕ [Dynamic Webpages with JavaScript](/.md)
-- 🧮 [Computer Architecture and Logic](/.md)
-- 🌵 [Programming with JavaScript](/.md)
-- 🤖 [Operators and Loops](/.md)
+- 💭 [Growth Mindset](102/growthmindset.md)
+- ✍️ [Learning Markdown](102/learningmarkdown.md)
+- 💻 [Coder's Computer](102/coderscomputer.md)
+- 🌩️ [Revisions and the Cloud](102/revisionscloud.md)
+- 🏗️ [Structure Webpages with HTML](102/structure.md)
+- 🎨 [Design Webpages with CSS](102/designcss.md)
+- ☕ [Dynamic Webpages with JavaScript](102/dynamicjava.md)
+- 🌵 [Programming with JavaScript](102/programjs.md)
+- 🤖 [Operators and Loops](102/operloops.md)
+- 🧮 [Computer Architecture and Logic](102/comparchlogic.md)
 - 📚 [My GitHub Page](https://github.com/mistidinzy)
 
 _____
-
