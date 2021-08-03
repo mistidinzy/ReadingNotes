@@ -1,3 +1,4 @@
+
 # Class 07 - Object-Oriented Programming, HTML Tables
 
 HTML
@@ -26,3 +27,7 @@ To update the values of the object's properties, use dot notation or square brac
     hotel.name = 'Park';
 
     hotel[''] = 'Park';
+
+#### Other Resources
+
+[Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
