@@ -1,6 +1,6 @@
 # Code 201
 
-**Table of Contents**
+## Table of Contents
 
 - 🏡 [Home](/README.md)
 - [**1. Introductory HTML & Javascript**](201/class/class-01.md)

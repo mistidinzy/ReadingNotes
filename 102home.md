@@ -1,4 +1,6 @@
-### **Table of Contents**
+# Code 102
+
+## Table of Contents
 
 - 🏡 [Home](/README.md)
 - 💭 [Growth Mindset](102/growthmindset.md)
