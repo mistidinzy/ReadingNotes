@@ -13,3 +13,6 @@
 - [8️⃣ More CSS Layout](201/class/class-08.md)
 - [9️⃣ Forms & Events](201/class/class-09.md)
 - [🔟 JavaScript Debugging](201/class/class-10.md)
+- [11](201/class/class-11.md)
+- [12](201/class/class-12.md)
+- [13](201/class/class-13.md)
