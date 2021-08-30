@@ -1,4 +1,4 @@
-# Code 201
+# Code 201 - Foundations of Software Development
 
 ## Table of Contents
 
