@@ -1,6 +1,7 @@
 # Class One - Introduction to React and Components
 
 React is a component-based library, used to build user interfaces.
+
   3 Fundamentals of React:
     Components
     Props
@@ -11,9 +12,12 @@ _____
 ## Component Based Architecture
 
 1. **What is a component?**
-  A component is a reusable piece of code, or set of functionality,
+
+  Components are similar to functions, that create HTML elements. They are independent, reusable bits of code.
+
 2. **What are the charactistics of a component?**
   A component can have three different views. Object-oriented, conventional view, and process-related view.
+
     **Object-oriented view**
 
     **Conventional view**
@@ -21,10 +25,15 @@ _____
     **Process-related view**
   
     * Reusability - Can be reused for different situations or designed for a specific use.
+
     * Replaceable - Can be interchanged with other components.
+
     * Not context-specific - Can be used in different environments.
+
     * Extensible - Can be extended to provide a new behavior.
+
     * Encapsulated - ?
+
     * Independent - Designed to have minimal dependencies on other components.
 
 3. **What are the advantages of using component based architecture?**
@@ -40,6 +49,7 @@ _____
 ## Things I want to know more about
 
   1. I would like to see this article translated into more layman's terms. The whole thing is pretty hard for me to follow in general.
+
   2. What is meant in the "Encapsulated" characteristic bullet point.
 
 _____
@@ -47,10 +57,15 @@ _____
 ## What is Props and How to Use it in React
 
 1. **What is props short for?**
+
   Properties.
+
 2. **How are props used in React?**
+
   Props are used to pass data between components.
+
 3. **What is the flow of props?**
+
   Data is passed in a read-only, uni-directional flow. One way, from parent to child.
 
 ### Resources
@@ -61,6 +76,7 @@ _____
 
   1.
   2.
+
 _____
 
 [Home](/README.md)
