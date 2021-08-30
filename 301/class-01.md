@@ -1,4 +1,4 @@
-# Class One - Dive into React
+# Class One - Introduction to React and Components
 
 React is a component-based library, used to build user interfaces.
   3 Fundamentals of React:
