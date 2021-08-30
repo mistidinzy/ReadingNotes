@@ -16,13 +16,6 @@ _____
   Components are similar to functions, that create HTML elements. They are independent, reusable bits of code.
 
 2. **What are the charactistics of a component?**
-  A component can have three different views. Object-oriented, conventional view, and process-related view.
-
-    **Object-oriented view**
-
-    **Conventional view**
-
-    **Process-related view**
   
     * Reusability - Can be reused for different situations or designed for a specific use.
 
