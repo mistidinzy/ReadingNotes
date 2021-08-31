@@ -20,38 +20,38 @@ _____
 ### Paths
 
 > **Paths** are a way to move to a specific file or directory. <br>
-> There are two types of paths. Absolute and Relative. 
+> There are two types of paths. Absolute and Relative.
 > * Absolute - File/Directory in relation to the root of the file system; Starts with a forward slash (/).
-> * Relative - File/Directory in relation to where we are currently; Does not start with anything. 
+> * Relative - File/Directory in relation to where we are currently; Does not start with anything.
 
-### Path Shortcuts 
+### Path Shortcuts
 
 > * **~(tilde)** - shortcut for your home directory; **/home/misti/documents** becomes **~/documents**
 > * **. (dot)** - reference to your current directory
 > * **.. (dotdot)** -  reference to the parent directory
-> * Use the command **cd**, without any arguments, to go back to your home directory 
+> * Use the command **cd**, without any arguments, to go back to your home directory
 > * Tab Completion - use to auto-complete your paths  
+>
 _____
 
-## Next: 
+## Next
   
 > * [More About Files](/moreaboutfiles.md)
 
 _____
-
 ### **Table of Contents**
 
-- 🏡 [Home](/README.md)
-- 💭 [Growth Mindset](102/growthmindset.md)
-- ✍️ [Learning Markdown](102/learningmarkdown.md)
-- 💻 [Coder's Computer](102/coderscomputer.md)
-- 🌩️ [Revisions and the Cloud](102/revisionscloud.md)
-- 🏗️ [Structure Webpages with HTML](102/structure.md)
-- 🎨 [Design Webpages with CSS](102/designcss.md)
-- ☕ [Dynamic Webpages with JavaScript](102/dynamicjava.md)
-- 🌵 [Programming with JavaScript](102/programjs.md)
-- 🤖 [Operators and Loops](102/operloops.md)
-- 🧮 [Computer Architecture and Logic](102/comparchlogic.md)
-- 📚 [My GitHub Page](https://github.com/mistidinzy)
+> * 🏡 [Home](README.md)
+> * 💭 [Growth Mindset](102/growthmindset.md)
+> * ✍️ [Learning Markdown](102/learningmarkdown.md)
+> * 💻 [Coder's Computer](102/coderscomputer.md)
+> * 🌩️ [Revisions and the Cloud](102/revisionscloud.md)
+> * 🏗️ [Structure Webpages with HTML](102/structure.md)
+> * 🎨 [Design Webpages with CSS](102/designcss.md)
+> * ☕ [Dynamic Webpages with JavaScript](102/dynamicjava.md)
+> * 🌵 [Programming with JavaScript](102/programjs.md)
+> * 🤖 [Operators and Loops](102/operloops.md)
+> * 🧮 [Computer Architecture and Logic](102/comparchlogic.md)
+> * 📚 [My GitHub Page](https://github.com/mistidinzy)
 
 _____
