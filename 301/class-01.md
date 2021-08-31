@@ -11,11 +11,11 @@ _____
 
 ## Component Based Architecture
 
-1. **What is a component?**
+**What is a component?**
 
   Components are similar to functions, that create HTML elements. They are independent, reusable bits of code.
 
-2. **What are the charactistics of a component?**
+**What are the charactistics of a component?**
   
     * Reusability - Can be reused for different situations or designed for a specific use.
 
@@ -29,7 +29,7 @@ _____
 
     * Independent - Designed to have minimal dependencies on other components.
 
-3. **What are the advantages of using component based architecture?**
+**What are the advantages of using component based architecture?**
 
     * Components are reusable and flexible.
     * Easy to replace existing versions without impace on other components.
@@ -41,23 +41,23 @@ _____
 
 ## Things I want to know more about
 
-  1. I would like to see this article translated into more layman's terms. The whole thing is pretty hard for me to follow in general.
+  I would like to see this article translated into more layman's terms. The whole thing is pretty hard for me to follow in general.
 
-  2. What is meant in the "Encapsulated" characteristic bullet point.
+  What is meant in the "Encapsulated" characteristic bullet point.
 
 _____
 
 ## What is Props and How to Use it in React
 
-1. **What is props short for?**
+**What is props short for?**
 
   Properties.
 
-2. **How are props used in React?**
+**How are props used in React?**
 
   Props are used to pass data between components.
 
-3. **What is the flow of props?**
+**What is the flow of props?**
 
   Data is passed in a read-only, uni-directional flow. One way, from parent to child.
 
@@ -66,9 +66,6 @@ _____
 [What is Props & How to Use It](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 ## Things I want to know more about
-
-  1.
-  2.
 
 _____
 
