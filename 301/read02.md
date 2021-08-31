@@ -30,7 +30,7 @@
 
   After a component is mounted, this method is invoked. This is where you can load anything using a network request, initialize the DOM, and set up any subscriptions.
 
-_____;
+_____
 
 ## React Bootstrap
 
@@ -42,7 +42,7 @@ Each component is accessible-by-default.
 
 You should import individual components rather than the whole library of components.
 
-_____;
+_____
 
 [React State VS Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
@@ -63,13 +63,13 @@ Props are like arguments to a function. When you want to render a component, you
 **What are some examples of things that we could store in state?**
   Count of a counter application, user input from forms.
 
-_____;
+_____
 
 ## Things I want to know more about
 
   It seemed like props was described as being for flexible, varying information. But then later in the video, it was described as static information that wouldn't change? So I misunderstood something there.
 
-_____;
+_____
 
 [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
@@ -77,6 +77,6 @@ _____;
 
 [React Tutorial through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
 
-_____;
+_____
 
 [Home](/README.md)
