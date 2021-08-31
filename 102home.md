@@ -5,7 +5,7 @@ _____
 
 > * 🏡 [Home](README.md)
 > * 💭 [Growth Mindset](102/growthmindset.md)
-> * ✍️ [Learning Markdown](102/learningmarkdown.md)
+> * ✍️ [Learning Markdown](learningmarkdown.md)
 > * 💻 [Coder's Computer](102/coderscomputer.md)
 > * 🌩️ [Revisions and the Cloud](102/revisionscloud.md)
 > * 🏗️ [Structure Webpages with HTML](102/structure.md)
