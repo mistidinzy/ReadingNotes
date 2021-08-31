@@ -49,6 +49,7 @@ _____
 Props are like arguments to a function. When you want to render a component, you will pass through props outside of the component, like you would with arguments to their functions.
 
 **What types of things can you pass in the props?**
+
   Title, Description
   Static information
 
@@ -61,6 +62,7 @@ Props are like arguments to a function. When you want to render a component, you
   When you change state.
 
 **What are some examples of things that we could store in state?**
+
   Count of a counter application, user input from forms.
 
 _____
