@@ -76,3 +76,7 @@ _____;
 [Handling Events](https://reactjs.org/docs/handling-events.html)
 
 [React Tutorial through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
+
+_____;
+
+[Home](/README.md)
