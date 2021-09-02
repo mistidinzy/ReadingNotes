@@ -27,11 +27,6 @@
 
 ### Specifications
 
-
-
-
-
-
 _____
 
 ### **Table of Contents**

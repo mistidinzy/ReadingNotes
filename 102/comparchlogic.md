@@ -1,10 +1,6 @@
 
 # Computer Architecture and Logic
 
-
-
-_____
-
 _____
 
 ### **Table of Contents**

@@ -40,7 +40,7 @@ _____
 
 _____
 
-### **Table of Contents**
+## Table of Contents
 
 > * 🏡 [Home](README.md)
 > * 💭 [Growth Mindset](growthmindset.md)

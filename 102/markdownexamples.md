@@ -27,7 +27,6 @@ _You **can** combine them_
 + Item One
 + Item Two
 
-
 _____
 
 ### **Table of Contents**

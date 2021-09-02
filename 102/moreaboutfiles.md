@@ -34,7 +34,7 @@ _____
 > If a file begins with a . (dot), then it is a hidden file. <br>
 > When creating a file you want to be hidden, just start the name with that dot. <br>
 > You can also rename a file, remove the dot, if you no longer want it to be hidden. <br>
-> List (**ls**) will not show hidden files automatically. You have to add the option **-a** to show hidden files in your list. 
+> List (**ls**) will not show hidden files automatically. You have to add the option **-a** to show hidden files in your list.
 
 _____
 
@@ -54,4 +54,3 @@ _____
 > * 📚 [My GitHub Page](https://github.com/mistidinzy)
 
 _____
-
