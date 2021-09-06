@@ -1,7 +1,8 @@
 # Code 102
 
 _____
-### **Table of Contents**
+
+## Table of Contents
 
 > * 🏡 [Home](README.md)
 > * 💭 [Growth Mindset](102/growthmindset.md)
@@ -14,6 +15,6 @@ _____
 > * 🌵 [Programming with JavaScript](102/programjs.md)
 > * 🤖 [Operators and Loops](102/operloops.md)
 > * 🧮 [Computer Architecture and Logic](102/comparchlogic.md)
-> * 📚 [My GitHub Page](https://github.com/mistidinzy)
+> * 🐙 [My GitHub](https://github.com/mistidinzy)
 
 _____
