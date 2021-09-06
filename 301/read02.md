@@ -1,4 +1,4 @@
-# Class Two - State & Props
+# State & Props
 
 [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
@@ -88,3 +88,4 @@ _____
 > * [States and Props](read02.md)
 > * [Passing Functions as Props](read03.md)
 > * [React and Forms](read04.md)
+> * [Thinking in React](read05.md)

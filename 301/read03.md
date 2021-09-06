@@ -68,3 +68,4 @@ _____
 > * [States and Props](read02.md)
 > * [Passing Functions as Props](read03.md)
 > * [React and Forms](read04.md)
+> * [Thinking in React](read05.md)

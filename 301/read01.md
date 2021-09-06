@@ -1,4 +1,4 @@
-# Class One - Introduction to React and Components
+# Introduction to React and Components
 
 React is a component-based library, used to build user interfaces.
 
@@ -76,3 +76,4 @@ _____
 > * [States and Props](read02.md)
 > * [Passing Functions as Props](read03.md)
 > * [React and Forms](read04.md)
+> * [Thinking in React](read05.md)
