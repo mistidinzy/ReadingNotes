@@ -13,13 +13,15 @@ _____
 
 ## Table of Contents
 
-> * 🏡 [Home](README.md)
-> * [Code 102 - Intro to Software Development](102home.md)
-> * [Code 201 - Foundations of Software Development](201home.md)
-> * [Code 301 - Intermediate Software Development](301home.md)
-> * [Code 401 - Advanced Software Development](401home.md)
-> * [About Me](https://mistidinzy.github.io/AboutMe/)
-> * [My GitHub](https://github.com/mistidinzy)
-> * [Projects](projects.md)
+> 🏡 [**Home**](README.md)<br>
+>
+> 1️⃣ [**102 - Intro to Software Development**](102home.md)<br>
+> 2️⃣ [**201 - Foundations of Software Development**](201home.md)<br>
+> 3️⃣ [**301 - Intermediate Software Development**](301home.md)<br>
+> 4️⃣ [**401 - Advanced Software Development**](401home.md)<br>
+>
+> 🔆 [**About Me**](https://mistidinzy.github.io/AboutMe/)<br>
+> 🐙 [**My GitHub**](https://github.com/mistidinzy)<br>
+> 🗃 [**Projects**](projects.md)
 
 _____

@@ -1,6 +1,6 @@
-# Google: Project Aristotle  REST & HTTP - API Keys
+# REST & HTTP ✨ API Keys
 
-[What Google Learned](https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html)
+[Google: *Project Aristotle*](https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html)
 
 In 2021, Google wanted to discover how to build the "perfect team", so they embarked on a quest named Project Aristotle.
 
@@ -17,7 +17,7 @@ _____
 # REST
 
 **1. Who is Roy Fielding?**
-  > An American computer scientist. One of the authors of the HTTP specification, and originator of the **REST** (Representational State Transfer) architectural style. He currently works at Adobe Systems. His personal website is [roy.gbiv.com](https://roy.gbiv.com/), so he is now instantly one of my favorite people.
+> An American computer scientist. One of the authors of the HTTP specification, and originator of the **REST** (Representational State Transfer) architectural style. He currently works at Adobe Systems. His personal website is [roy.gbiv.com](https://roy.gbiv.com/), so he is now instantly one of my favorite people.
 
     Life is a distributed object system. However, communication among humans is a distributed hypermedia system, where the mind's intellect, voice+gestures, eyes+ears, and imagination are all components. -- Roy T. Fielding, 1998.
 
@@ -78,7 +78,7 @@ _____
 
 > * [World Wide Web](http://info.cern.ch/hypertext/WWW/TheProject.html)
 > * [World Wide Web - README.html](http://info.cern.ch/hypertext/README.html)
-> * [Hypertext Transfer Protocol -- HTTP/1.0](https://www.hjp.at/doc/rfc/rfc1945.html)
+> * [HyperText Transfer Protocol -- HTTP/1.0](https://www.hjp.at/doc/rfc/rfc1945.html)
 > * [Software engineering and the cobbler's barefoot children](https://bit.ly/3yOvhKN)
 > * [How I Explained **REST** To My Brother](https://gist.github.com/brookr/5977550)
 

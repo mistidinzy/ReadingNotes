@@ -6,12 +6,12 @@ _____
 
 > 🏡 [Home](README.md) <br>
 > 1️⃣ [Introduction to React and Components](301/read01.md)<br>
-> 2️⃣ [States and Props](301/read02.md)<br>
+> 2️⃣ [States & Props](301/read02.md)<br>
 > 3️⃣ [Passing Functions as Props](301/read03.md)<br>
-> 4️⃣ [React and Forms](301/read04.md)<br>
+> 4️⃣ [React & Forms](301/read04.md)<br>
 > 5️⃣ [Thinking in React](301/read05.md)<br>
 > 6️⃣ [Node.js - npm - Pair Programming](301/read06.md)<br>
-> 7️⃣ [](301/read07.md)<br>
+> 7️⃣ [REST. HTTP. API Keys.](301/read07.md)<br>
 > 8️⃣ [](301/read08.md)<br>
 > 9️⃣ [](301/read09.md)<br>
 > 🔟 [](301/read10.md)<br>
