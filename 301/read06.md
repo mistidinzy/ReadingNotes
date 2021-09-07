@@ -1,4 +1,4 @@
-# NODE.JS - npm - Pair Programming
+# NODE.JS ∙ npm ∙ Pair Programming
 
 ## Node.js
 
