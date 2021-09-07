@@ -83,7 +83,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [Home](README.md) <br>
+> 🏡 [Home](/README.md) <br>
 > 1️⃣ [Introduction to React and Components](read01.md)<br>
 > 2️⃣ [States and Props](read02.md)<br>
 > 3️⃣ [Passing Functions as Props](read03.md)<br>

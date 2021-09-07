@@ -4,7 +4,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [Home](README.md)<br>
+> 🏡 [Home](/README.md)<br>
 > 1️⃣ [Introductory HTML & Javascript](class-01.md)<br>
 > 2️⃣ [HTML Text; CSS Introduction & Basic JavaScript Instructions](class-02.md)<br>
 > 3️⃣ [HTML Lists; CSS Boxes & JavaScript Control Flow](class-03.md)<br>
