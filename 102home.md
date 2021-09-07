@@ -28,7 +28,7 @@ _____
 
 > * 🏡 [**Home**](README.md)
 > * 💭 [Growth Mindset](102/growthmindset.md)
-> * ✍️ [Learning Markdown](learningmarkdown.md)
+> * ✍️ [Learning Markdown](102/learningmarkdown.md)
 > * 💻 [Coder's Computer](102/coderscomputer.md)
 > * 🌩️ [Revisions & the Cloud](102/revisionscloud.md)
 > * 🏗️ [Structure Webpages with HTML](102/structure.md)
