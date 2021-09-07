@@ -1,4 +1,4 @@
-# REST & HTTP ✨ API Keys
+# REST • HTTP • API Keys
 
 [Google: *Project Aristotle*](https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html)
 
@@ -60,18 +60,23 @@ _____
 
 ## API Keys
 
-[Geocoding API]()
+[Geocoding API](https://locationiq.com/)
 > Did you get your API key? ✅
 
-[Weather Bit API]()
+[Weather Bit API](https://www.weatherbit.io/)
 > Did you get your API key? ✅
 
-[Yelp API Docs]()
+[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 > Did you get your API key? ❌
 
-[The Movie DB API Docs]()
+[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 > Did you get your API key? ✅
 
+_____
+
+## Things I Wanna Know More About
+
+> I want to read more about Tim Berners-Lee & the creation of the web.
 _____
 
 ## Other Resources & Links
@@ -86,4 +91,4 @@ _____
 
 ## Table of Contents
 
-> 🏡 [Home](README.md)
+> 🏡 [**Home**](README.md)
