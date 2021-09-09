@@ -47,8 +47,8 @@ _____
 > **5** [Thinking in React](301/read05.md)<br>
 > **6** [Node.js • npm • Pair Programming](301/read06.md)<br>
 > **7** [REST • HTTP • API Keys](301/read07.md)<br>
-> **8** [](301/read08.md)<br>
-> **9** [](301/read09.md)<br>
+> **8** [APIs](301/read08.md)<br>
+> **9** [Functional Programming](301/read09.md)<br>
 > **10** [](301/read10.md)<br>
 > **11** [](301/read11.md)<br>
 > **12** [](301/read12.md)<br>
