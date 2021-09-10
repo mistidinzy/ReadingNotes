@@ -21,6 +21,7 @@ _____
 [Node JS Tutorial - Modules & require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 1. What is a module?
+    > A section of code we can reuse.
 2. What does the word ‘require’ do?
 3. How do we bring another module into the file the we are working in?
 4. What do we have to do to make a module available?
