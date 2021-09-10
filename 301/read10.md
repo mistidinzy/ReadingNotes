@@ -1,4 +1,4 @@
-# Read - 10
+# In Memory Storage
 
 [JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 
