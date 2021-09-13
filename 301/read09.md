@@ -23,9 +23,11 @@ _____
 1. What is a module?
     > A section of code we can reuse.
 2. What does the word ‘require’ do?
+    > imports an object, that we can then assign to a variable and reuse.
 3. How do we bring another module into the file the we are working in?
+    >
 4. What do we have to do to make a module available?
-
+    >
 _____
 
 ## Things I want to know more about
