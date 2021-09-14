@@ -51,7 +51,7 @@ _____
 > **9** [Functional Programming](301/read09.md)<br>
 > **10** [In Memory Storage](301/read10.md)<br>
 > **11** [](301/read11.md)<br>
-> **12** [](301/read12.md)<br>
+> **12** [CRUD](301/read12.md)<br>
 > **13** [](301/read13.md)<br>
 > **14** [](301/read14.md)<br>
 > **15** [](301/read15.md)<br>
