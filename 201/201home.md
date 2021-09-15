@@ -60,7 +60,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [**Home**](/README.md)<br>
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)<br>
 > **1** [Introductory HTML & Javascript](201/class-01.md)<br>
 > **2** [HTML Text • CSS Introduction • Basic JavaScript Instructions](201/class-02.md)<br>
 > **3** [HTML Lists • CSS Boxes • JavaScript Control Flow](201/class-03.md)<br>

@@ -13,7 +13,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [**Home**](README.md)<br>
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)<br>
 >
 > 1️⃣ [**102 - Intro to Software Development**](/102/102home.md)<br>
 > 2️⃣ [**201 - Foundations of Software Development**](201/201home.md)<br>

@@ -26,7 +26,7 @@ _____
 
 ## Table of Contents
 
-> * 🏡 [**Home**](/README.md)
+> * 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 > * 💭 [Growth Mindset](/growthmindset.md)
 > * ✍️ [Learning Markdown](/learningmarkdown.md)
 > * 💻 [Coder's Computer](102/coderscomputer.md)

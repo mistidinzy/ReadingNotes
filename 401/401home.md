@@ -77,4 +77,4 @@ _____
 
 ## Table of Contents
 
-> 🏡 [**Home**](README.md)
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

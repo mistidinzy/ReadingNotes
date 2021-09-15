@@ -39,7 +39,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [**Home**](README.md) <br>
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) <br>
 > **1** [Introduction to React & Components](301/read01.md)<br>
 > **2** [States & Props](301/read02.md)<br>
 > **3** [Passing Functions as Props](301/read03.md)<br>
