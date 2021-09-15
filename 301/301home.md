@@ -60,9 +60,9 @@ _____
 ### Projects
 
 > [Portfolio]()<br>
-> [Horned Beasts]()<br>
-> [City Explorer]()<br>
-> [Can of Books]()<br>
+> [Horned Beasts](https://mdinzy-hornedbeasts.netlify.app/)<br>
+> [City Explorer](https://mdinzy-city-explorer.netlify.app/)<br>
+> [Can of Books](https://mdinzy-canofbooks.netlify.app/)<br>
 > [Project Week]()<br>
 
 _____
