@@ -59,7 +59,7 @@ _____
 
 ### Projects
 
-> [Portfolio]()<br>
+> [Portfolio](https://mdinzy-portfolio.netlify.app)<br>
 > [Horned Beasts](https://mdinzy-hornedbeasts.netlify.app/)<br>
 > [City Explorer](https://mdinzy-city-explorer.netlify.app/)<br>
 > [Can of Books](https://mdinzy-canofbooks.netlify.app/)<br>
