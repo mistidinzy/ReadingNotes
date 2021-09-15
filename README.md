@@ -15,8 +15,8 @@ _____
 
 > 🏡 [**Home**](README.md)<br>
 >
-> 1️⃣ [**102 - Intro to Software Development**](102home.md)<br>
-> 2️⃣ [**201 - Foundations of Software Development**](201home.md)<br>
+> 1️⃣ [**102 - Intro to Software Development**](/102/102home.md)<br>
+> 2️⃣ [**201 - Foundations of Software Development**](201/201home.md)<br>
 > 3️⃣ [**301 - Intermediate Software Development**](301home.md)<br>
 > 4️⃣ [**401 - Advanced Software Development**](401home.md)<br>
 >
