@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Misti Dinzy. I'm 28 years old, born and raised in Cedar Rapids, Iowa.
+My name is Misti Dinzy. I'm 29 years old, born and raised in Cedar Rapids, Iowa.
 
 I’m currently learning website & software development with DeltaV!
 
