@@ -54,7 +54,6 @@ _____
 > **12** [CRUD](/read12.md)<br>
 > **13** [Diversity & Inclusion in the Tech Industry](/read13.md)<br>
 > **14** [Authentication](/read14.md)<br>
-> **15** [](/read15.md)<br>
 > 🐙 [My GitHub](https://github.com/mistidinzy)
 
 ### Projects
