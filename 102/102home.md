@@ -29,14 +29,15 @@ _____
 > * 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 > * 💭 [Growth Mindset](/growthmindset.md)
 > * ✍️ [Learning Markdown](/learningmarkdown.md)
-> * 💻 [Coder's Computer](102/coderscomputer.md)
-> * 🌩️ [Revisions & the Cloud](102/revisionscloud.md)
-> * 🏗️ [Structure Webpages with HTML](102/structure.md)
-> * 🎨 [Design Webpages with CSS](102/designcss.md)
-> * ☕ [Dynamic Webpages with JavaScript](102/dynamicjava.md)
-> * 🌵 [Programming with JavaScript](102/programjs.md)
-> * 🤖 [Operators & Loops](102/operloops.md)
-> * 🧮 [Computer Architecture & Logic](102/comparchlogic.md)
+> * 💻 [Coder's Computer](/coderscomputer.md)
+> * 🌩️ [Revisions & the Cloud](/revisionscloud.md)
+> * 🏗️ [Structure Webpages with HTML](/structure.md)
+> * 🎨 [Design Webpages with CSS](/designcss.md)
+> * ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
+> * 🌵 [Programming with JavaScript](/programjs.md)
+> * 🤖 [Operators & Loops](/operloops.md)
+> * 🧮 [Computer Architecture & Logic](/comparchlogic.md)
 > * 🐙 [My GitHub](https://github.com/mistidinzy)
 
 _____
+
