@@ -26,9 +26,9 @@ _____
 
 ## Table of Contents
 
-> * 🏡 [**Home**](README.md)
-> * 💭 [Growth Mindset](102/growthmindset.md)
-> * ✍️ [Learning Markdown](102/learningmarkdown.md)
+> * 🏡 [**Home**](/README.md)
+> * 💭 [Growth Mindset](/growthmindset.md)
+> * ✍️ [Learning Markdown](/learningmarkdown.md)
 > * 💻 [Coder's Computer](102/coderscomputer.md)
 > * 🌩️ [Revisions & the Cloud](102/revisionscloud.md)
 > * 🏗️ [Structure Webpages with HTML](102/structure.md)
