@@ -4,7 +4,7 @@ _____
 
 ## Table of Contents
 
-> 🏡 [Home](README.md) <br>
+> 🏡 [Home](https://mistidinzy.github.io/ReadingNotes/) <br>
 > 1️⃣ []() <br>
 > 2️⃣ []() <br>
 > 3️⃣ []() <br>
