@@ -74,8 +74,9 @@ _____
 > **11** [Assorted Topics](/class-11.md)<br>
 > **12** [Canvas & ChartJS](/class-12.md)<br>
 > **13** [Local Storage](/class-13.md)<br>
-> **14** [CSS Transforms, Transitions & Animations](/class-14a.md)<br>
-> **15** [What Google Learned About Teams](/class-14b.md)<br>
+> **14a** [CSS Transforms, Transitions & Animations](/class-14a.md)<br>
+> **14b** [What Google Learned About Teams](/class-14b.md)<br>
+> **15** [Merge Conflicts](/class-15.md)<br>
 
 ### Projects
 

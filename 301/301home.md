@@ -40,19 +40,29 @@ _____
 ## Table of Contents
 
 > 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) <br>
-> **1** [Introduction to React & Components](301/read01.md)<br>
-> **2** [States & Props](301/read02.md)<br>
-> **3** [Passing Functions as Props](301/read03.md)<br>
-> **4** [React & Forms](301/read04.md)<br>
-> **5** [Thinking in React](301/read05.md)<br>
-> **6** [Node.js • npm • Pair Programming](301/read06.md)<br>
-> **7** [REST • HTTP • API Keys](301/read07.md)<br>
-> **8** [APIs](301/read08.md)<br>
-> **9** [Functional Programming](301/read09.md)<br>
-> **10** [In Memory Storage](301/read10.md)<br>
-> **11** [Mongo and Mongoose](301/read11.md)<br>
-> **12** [CRUD](301/read12.md)<br>
-> **13** [](301/read13.md)<br>
-> **14** [](301/read14.md)<br>
-> **15** [](301/read15.md)<br>
+> **1** [Introduction to React & Components](/read01.md)<br>
+> **2** [States & Props](/read02.md)<br>
+> **3** [Passing Functions as Props](/read03.md)<br>
+> **4** [React & Forms](/read04.md)<br>
+> **5** [Thinking in React](/read05.md)<br>
+> **6** [Node.js • npm • Pair Programming](/read06.md)<br>
+> **7** [REST • HTTP • API Keys](/read07.md)<br>
+> **8** [APIs](/read08.md)<br>
+> **9** [Functional Programming](/read09.md)<br>
+> **10** [In Memory Storage](/read10.md)<br>
+> **11** [Mongo and Mongoose](/read11.md)<br>
+> **12** [CRUD](/read12.md)<br>
+> **13** [](/read13.md)<br>
+> **14** [](/read14.md)<br>
+> **15** [](/read15.md)<br>
 > 🐙 [My GitHub](https://github.com/mistidinzy)
+
+### Projects
+
+> [Portfolio]()<br>
+> [Horned Beasts]()<br>
+> [City Explorer]()<br>
+> [Can of Books]()<br>
+> [Project Week]()<br>
+
+_____
