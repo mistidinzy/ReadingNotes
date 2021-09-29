@@ -2,7 +2,7 @@
 
 ## What is Deliberate Practice
 
-Deliberate practice is the most effective method for rapidly improving any skill. 
+Deliberate practice is the most effective method for rapidly improving any skill.
 
 It consists of intense, structured practice on essential aspects of the task you are trying to master.
 

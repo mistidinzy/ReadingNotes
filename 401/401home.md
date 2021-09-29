@@ -78,3 +78,9 @@ _____
 ## Table of Contents
 
 > 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+>
+> **PreWork**
+>
+> **1** [Deliberate Practice](1PW-DeliberatePractice.md)
+>
+> **2** [More on Growth Mindset](2PW-GrowthMindset.md)
