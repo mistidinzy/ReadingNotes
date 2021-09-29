@@ -1,10 +1,12 @@
-# Mindset
+# Deliberate Practice
 
-## Deliberate Practice
+## What is Deliberate Practice
 
-### What is Deliberate Practice
+Deliberate practice is the most effective method for rapidly improving any skill. 
 
-Deliberate practice is the most effective method for rapidly improving any skill. It consists of intense, structured practice on essential aspects of the task you are trying to master.
+It consists of intense, structured practice on essential aspects of the task you are trying to master.
+
+_____
 
 ### Characteristics of Deliberate Practice
 
@@ -30,6 +32,8 @@ Deliberate practice is the most effective method for rapidly improving any skill
 
 ### Your speed of progress depends mainly on the quality and intensity of each practice session, multiplied by the length of time you practice
 
+_____
+
 ## Designing Deliberate Practice
 
 1. Identify experts in your desired skill/field.
@@ -39,6 +43,8 @@ Deliberate practice is the most effective method for rapidly improving any skill
 ***Focus. Feedback. Fix it.***
 
 Break the skill down into components that you can do repeatedly and analyze effectively, determine your weaknesses, and find out how to improve them.
+
+_____
 
 ### Ask yourself questions
 
@@ -73,3 +79,7 @@ Break the skill down into components that you can do repeatedly and analyze effe
 * Deliberate Practice is difficult. It's not alway easy to fulfill all of the criteria.
 * The closer you can get to implementing Deliberate Practice in your learning, the faster you will improve.
 * High level performers demonstrate ways we can all look to for ways that we can improve our own practice. Use them as inspiration for how you can grow faster.
+
+_____
+
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
