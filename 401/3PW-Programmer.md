@@ -30,11 +30,13 @@ Begin with the simplest.
 
 Connect the dots between your sub-solutions.
 
+### Stuck?
+
+Take a deep breath. The best programmers view bugs/errors with curiousity.
+
 <!-- _____
 
 ## Pretend Your Time is Worth $1000/Hour
-
-
 
 _____
 
