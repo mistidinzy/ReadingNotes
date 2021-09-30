@@ -29,3 +29,20 @@ Break it up into sub-problems.
 Begin with the simplest.
 
 Connect the dots between your sub-solutions.
+
+<!-- _____
+
+## Pretend Your Time is Worth $1000/Hour
+
+
+
+_____
+
+## What I Wish I Knew Before I Learned to Code
+ -->
+
+_____
+
+## Table of Contents
+
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
