@@ -16,10 +16,16 @@ Try to write it out. Doodle it. Talk it through to someone else, or a rubber duc
 
 ## 2. Plan
 
+Write down the exact steps and plan your solution.
 
+Give your brain time to analyze the problem and process the information.
 
 ## 3. Divide
 
-Stuck?
+Pay attention.
 
-Practice
+Break it up into sub-problems.
+
+Begin with the simplest.
+
+Connect the dots between your sub-solutions.
