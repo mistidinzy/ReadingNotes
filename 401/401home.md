@@ -11,6 +11,9 @@
 > **2** [More on Growth Mindset](2PW-GrowthMindset.md)
 >
 > **3** [Think Like a Programmer](3PW-Programmer.md)
+>
+> **4** [Intro to C#](4PW-IntroToCSharp.md)
+>
 
 _____
 
