@@ -14,7 +14,11 @@
 >
 > **4** [Intro to C#](prework/4PW-IntroToCSharp.md)
 >
->**5** [Intro to .NET](prework/5PW-IntroToNet.md)
+> **5** [Intro to .NET](prework/5PW-IntroToNet.md)
+>
+> **6** [C# Arrays](prework/6-cSharpArrays.md)
+>
+> **7** [C# 7.0 in a Nutshell](prework/7-cSharpNutshell.md)
 
 _____
 
@@ -23,7 +27,7 @@ _____
 ### *Languages & Frameworks*
 
 * C# Fundamentals
-* ASP.NET Core
+* ASP \.NET Core
 * Bootstrap
 * React
 

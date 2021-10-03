@@ -44,6 +44,7 @@ The CLR or ***Common Language Runtime*** is the virtual machine component of the
 It provides services such as memory management, type safety, exception handling, garbage collection, security and thread management.
 
 All programs written for .NET are executed by the CLR, regardless of which programming language they are written in.
+
 _____
 
 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
