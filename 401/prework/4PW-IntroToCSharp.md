@@ -6,9 +6,13 @@ It is an object-oriented, type-safe ***programming language***.
 Enables devs to build apps that run in .NET. <br>
 **.NET** is a virtual execution system.
 
+[C\# Version History](https://bit.ly/2ZSUYOz)
+
+There have been 13 total versions of C# so far, with C# version 9.0 being most current version at the time this is written (Oct 2021).
+
 ____
 
-## The key organizational concepts in C# are
+## C\# Key Organizational Concepts
 
 ## programs
 
