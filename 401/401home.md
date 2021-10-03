@@ -6,14 +6,15 @@
 >
 > **PreWork**
 >
-> **1** [Deliberate Practice](1PW-DeliberatePractice.md)
+> **1** [Deliberate Practice](prework/1PW-DeliberatePractice.md)
 >
-> **2** [More on Growth Mindset](2PW-GrowthMindset.md)
+> **2** [More on Growth Mindset](prework/2PW-GrowthMindset.md)
 >
-> **3** [Think Like a Programmer](3PW-Programmer.md)
+> **3** [Think Like a Programmer](prework/3PW-Programmer.md)
 >
-> **4** [Intro to C#](4PW-IntroToCSharp.md)
+> **4** [Intro to C#](prework/4PW-IntroToCSharp.md)
 >
+>**5** [](prework/5PW-MoreCSharp.md)
 
 _____
 
