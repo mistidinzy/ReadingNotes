@@ -1,4 +1,4 @@
-# C\# Sharp Arrays
+# C\# Arrays
 
 The ***Array*** data structure is a way to store multiple variables of the same data type within one object.
 
@@ -90,4 +90,4 @@ This example utilizes a single-dimensional array, but a multidimensional array c
 
 _____
 
-🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

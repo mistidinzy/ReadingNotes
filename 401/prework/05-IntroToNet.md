@@ -47,4 +47,4 @@ All programs written for .NET are executed by the CLR, regardless of which progr
 
 _____
 
-🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

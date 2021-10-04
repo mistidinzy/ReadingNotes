@@ -82,4 +82,4 @@ _____
 
 _____
 
-> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

@@ -1,4 +1,4 @@
-# C\# Sharp in a Nutshell
+# C\# 7.0 in a Nutshell
 
 ## Chapter 1: Intro to C\# and the .NET Framework
 
@@ -8,4 +8,4 @@ _____
 
 _____
 
-🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

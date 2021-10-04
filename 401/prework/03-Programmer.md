@@ -45,6 +45,4 @@ _____
 
 _____
 
-## Table of Contents
-
-> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

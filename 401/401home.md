@@ -2,23 +2,25 @@
 
 ## Table of Contents
 
-> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
->
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
 > **PreWork**
 >
-> **1** [Deliberate Practice](prework/1PW-DeliberatePractice.md)
+> **1** [Deliberate Practice](prework/01-DeliberatePractice.md)
 >
-> **2** [More on Growth Mindset](prework/2PW-GrowthMindset.md)
+> **2** [More on Growth Mindset](prework/02-GrowthMindset.md)
 >
-> **3** [Think Like a Programmer](prework/3PW-Programmer.md)
+> **3** [Think Like a Programmer](prework/03-Programmer.md)
 >
-> **4** [Intro to C#](prework/4PW-IntroToCSharp.md)
+> **4** [Intro to C#](prework/04-IntroToCSharp.md)
 >
-> **5** [Intro to .NET](prework/5PW-IntroToNet.md)
+> ***4b*** [C# Syntax](prework/04b-cSharpSyntax.md)
 >
-> **6** [C# Arrays](prework/6-cSharpArrays.md)
+> **5** [Intro to .NET](prework/05-IntroToNet.md)
 >
-> **7** [C# 7.0 in a Nutshell](prework/7-cSharpNutshell.md)
+> **6** [C# Arrays](prework/06-cSharpArrays.md)
+>
+> **7** [C# 7.0 in a Nutshell](prework/07-cSharpNutshell.md)
 >
 > **Class**
 >

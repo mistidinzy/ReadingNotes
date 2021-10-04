@@ -76,10 +76,10 @@ type
 
 _____
 
-## Reference
+## References
 
 [A tour of the C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
 _____
 
-🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

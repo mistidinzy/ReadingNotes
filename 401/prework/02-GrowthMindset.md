@@ -54,4 +54,4 @@ You can't be successful at everything. You can't have it all. Real vision of suc
 
 _____
 
-> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
