@@ -2,6 +2,8 @@
 
 ## **Debugging**
 
+![First Computer Bug - 1945](/img/1stbug1945.jpeg)
+
 ### *Debugging for Absolute Beginners*
 
 ### Step 1. Ask Yourself the Right Questions
@@ -89,7 +91,6 @@ static void Main()
 
 ### Try-Catch-Finally
 
-
 _____
 
 ### C\# 7.0
@@ -97,9 +98,17 @@ _____
 * (pg. 158 - 166): Statements and Exceptions
 * Try/Catch & Exceptions excerpt from intro
 
-### Therac-25
+## Very Big Bad Bugs
 
-### Ariane 5
+### [Therac-25](https://www.bugsnag.com/blog/bug-day-race-condition-therac-25)
+
+Therac-25 was a radiation machine that, due to programming errors, sometimes gave its patients radiation doses that were hundreds of times greater than normal, resulting in serious injury or death.
+
+This machine and the accidents associated have become a highlighted case of overconfidence and lack of proper due diligence in resolving software errors.
+
+### [Ariane 5](https://www.bugsnag.com/blog/bug-day-ariane-5-disaster)
+
+Considered to be one of the most expensive software failues in history.
 
 ____
 
