@@ -110,6 +110,18 @@ This machine and the accidents associated have become a highlighted case of over
 
 Considered to be one of the most expensive software failues in history.
 
-____
+On 4 June 1996, the maiden flight of the Ariane 5 launcher ended in a failure, about 40 seconds after initiation of the flight sequence. At an altitude of about 3700 m, the launcher veered off its flight path, broke up and exploded.
+
+The failure was caused by "*complete loss of guidance and attitude information*" just 30 seconds after liftoff.
+
+Synopsis of the official report:
+
+> "This loss of information was due to specification and design errors in the software of the inertial reference system.
+>
+> The extensive reviews and tests carried out during the Ariane 5 development programme did not include adequate analysis
+>
+> and testing of the inertial reference system or of the complete flight control system, which could have detected the potential failure."
+
+_____
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
