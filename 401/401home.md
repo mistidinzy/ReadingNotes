@@ -24,43 +24,43 @@
 >
 > **Class**
 >
-> **1** [Exception Handling and Debugging](class/01-ExcpDebugg.md)
+> **1** [Exception Handling and Debugging](read/01-ExcpDebugg.md)
 >
-> **2** [Unit Tests and Documentation](class/02-UnitTests.md)
+> **2** [Unit Tests and Documentation](read/02-UnitTests.md)
 >
-> **3** [System.I.O](class/03-SystemIO.md)
+> **3** [System.I.O](read/03-SystemIO.md)
 >
-> **4** [Classes & Objects](class/04-ClassesObjects.md)
+> **4** [Classes & Objects](read/04-ClassesObjects.md)
 >
-> **5** [Linked Lists](class/05-LinkedLists.md)
+> **5** [Linked Lists](read/05-LinkedLists.md)
 >
-> **6** [OOP Principles](class/06-OOP.md)
+> **6** [OOP Principles](read/06-OOP.md)
 >
-> **7** [Interfaces](class/07-Interfaces.md)
+> **7** [Interfaces](read/07-Interfaces.md)
 >
-> **8** [Collections](class/08-Collections.md)
+> **8** [Collections](read/08-Collections.md)
 >
-> **9** [LINQ](class/09-LINQ.md)
+> **9** [LINQ](read/09-LINQ.md)
 >
-> **10** [Stacks & Queues](class/10-StacksQs.md)
+> **10** [Stacks & Queues](read/10-StacksQs.md)
 >
-> **11** [ERDs](class/11-ERDs.md)
+> **11** [ERDs](read/11-ERDs.md)
 >
-> **12** [Entity Framework Core and APIs](class/12-EntFrmAPIs.md)
+> **12** [Entity Framework Core and APIs](read/12-EntFrmAPIs.md)
 >
-> **13** [Dependency Injection](class/13-DepInj.md)
+> **13** [Dependency Injection](read/13-DepInj.md)
 >
-> **14** [Routing and Navigation Properties](class/14-RouteNavProps.md)
+> **14** [Routing and Navigation Properties](read/14-RouteNavProps.md)
 >
-> **15** [Trees](class/15-Trees.md)
+> **15** [Trees](read/15-Trees.md)
 >
-> **16** [Refactoring with DTOs](class/16-RefactorDTOs.md)
+> **16** [Refactoring with DTOs](read/16-RefactorDTOs.md)
 >
-> **17** [Testing, Swagger, Deployments](class/17-TestSwagDeploys.md)
+> **17** [Testing, Swagger, Deployments](read/17-TestSwagDeploys.md)
 >
-> **18** [Identity / Authentication](class/18-IdentityAuth.md)
+> **18** [Identity / Authentication](read/18-IdentityAuth.md)
 >
-> **19** [Roles, Claims, Tokens](class/19-Roles.md)
+> **19** [Roles, Claims, Tokens](read/19-Roles.md)
 >
 > **Midterm**
 >
