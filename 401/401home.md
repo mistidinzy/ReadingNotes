@@ -32,6 +32,8 @@ _____
 >
 > **1** [Exception Handling and Debugging](read/01-ExcpDebugg.md)
 >
+> **1b** [Big O Notation](read/01b-BigO.md)
+>
 > **2** [Unit Tests and Documentation](read/02-UnitTests.md)
 >
 > **3** [System.I.O](read/03-SystemIO.md)
