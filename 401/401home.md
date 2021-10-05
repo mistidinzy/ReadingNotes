@@ -4,6 +4,8 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
+[**Class(Lecture/Demo) Notes**](class/0-classhome.md)
+
 > **PreWork**
 >
 > **1** [Deliberate Practice](prework/01-DeliberatePractice.md)
@@ -21,10 +23,6 @@
 > **6** [C# Arrays](prework/06-cSharpArrays.md)
 >
 > **7** [C# 7.0 in a Nutshell](prework/07-cSharpNutshell.md)
-
-_____
-
-[**Class Notes**]()
 
 _____
 
