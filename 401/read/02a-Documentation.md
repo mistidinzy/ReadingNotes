@@ -8,8 +8,9 @@ _____
 
 ``` bash
 curl https://raw.githubusercontent.com/jehna/readme-best-practices/master/README-default.md > README.md
-
 ```
+
+[401: Resources - README Templates](https://github.com/DeltaVCode/cedar-c-do-401d5/tree/main/resources/README-templates)
 
 _____
 

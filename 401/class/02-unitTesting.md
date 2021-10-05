@@ -48,7 +48,8 @@ _____
 
     dotnew sln add FizzBuzzApp.Tests
 
-    dotnet restore = npm install
+    if (dotnet test) doesn't work:
+    then (dotnet restore) == npm install
 
 _____
 
