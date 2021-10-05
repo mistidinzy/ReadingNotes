@@ -4,6 +4,8 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
+## [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
 ### Class 01
 
 * [Lecture - C# Basics](01-cSharpBasics.md)
