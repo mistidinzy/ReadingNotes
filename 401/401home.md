@@ -21,8 +21,14 @@
 > **6** [C# Arrays](prework/06-cSharpArrays.md)
 >
 > **7** [C# 7.0 in a Nutshell](prework/07-cSharpNutshell.md)
->
-> **Class**
+
+_____
+
+[**Class Notes**]()
+
+_____
+
+> **Reading**
 >
 > **1** [Exception Handling and Debugging](read/01-ExcpDebugg.md)
 >
