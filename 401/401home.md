@@ -34,7 +34,9 @@ _____
 >
 > **1b** [Big O Notation](read/01b-BigO.md)
 >
-> **2** [Unit Tests and Documentation](read/02-UnitTests.md)
+> **2** [Unit Tests](read/02-UnitTests.md)
+>
+> **2a** [Documentation](read/02a-Documentation.md)
 >
 > **3** [System.I.O](read/03-SystemIO.md)
 >
