@@ -17,7 +17,9 @@ Streams involve three fundamental operations:
 * Writing
   * stream--{data}-->data source
 * Seeking
-  * ? ↔ {s.t.r.e.a.m}-->{st.r..e.a.m}
+  * ? ↔ {s.t.r.e.a.m} <br>
+  ↓
+  * {s.t.r.e.a.m}-->{st.r..e.a.m}
 
 **Backing store** can be one of several storage mediums.
 
