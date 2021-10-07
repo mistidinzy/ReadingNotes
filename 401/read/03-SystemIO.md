@@ -10,6 +10,8 @@ _____
 
 All classes that represent streams inherit from the Stream class. Provides a common view of data sources and repositories.
 
+![stream classes](/401/img/streamclasses.png)
+
 Streams involve three fundamental operations:
 
 * Reading
