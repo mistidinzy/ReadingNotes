@@ -48,3 +48,7 @@ Standard way to turn IL into running program
 Managed code - referring to memory
 Packaged into an assembly in the form of an executable file ().exe) or library (.dll)
 When the CLR loads an assembly, it converts to IL into the native code of the machine.
+
+_____
+
+## 🏡 [**Home**](0-classhome.md)

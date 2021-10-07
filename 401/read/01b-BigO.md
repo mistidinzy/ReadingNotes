@@ -8,7 +8,7 @@ It can be used to describe the execution time required, or the space (memory, et
 
 Big-O notation is important in understanding how algorithms scale, and for comparing the relative performance of two algorithms.
 
-## O(1)
+## O(1) - "Constant" Big O
 
 An algorithm that will always execute in the same time regardless of the size of the input data set.
 
@@ -23,6 +23,12 @@ Represents an algorithm whose performance is directly proportional to the square
 ## O(2^N)
 
 Denotes an algorithm whose growth doubles with each addition to the input data set.
+
+## O(L * n)
+
+_____
+
+![Big O Graph](/401/img/bigOgraph.jpeg)
 
 _____
 

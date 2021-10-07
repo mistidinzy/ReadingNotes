@@ -1,4 +1,4 @@
-# Practice Debugging
+# Class 01 - Practice Debugging
 
 **Read the following sections in the article**:
 
@@ -23,3 +23,7 @@ What did you find least helpful?
 
 Are you going to use the debugger while coding in Visual Studio?
 > Most definitely.
+
+_____
+
+## 🏡 [**Home**](0-classhome.md)

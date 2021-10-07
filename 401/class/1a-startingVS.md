@@ -67,3 +67,7 @@ throw = “something went wrong.”
 
 * throwing is how a program tells us something went wrong
 * still requires a exception type
+
+_____
+
+## 🏡 [**Home**](0-classhome.md)

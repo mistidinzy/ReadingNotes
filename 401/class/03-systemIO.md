@@ -46,6 +46,4 @@ _____
 
 _____
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-
-[**Class(Lecture/Demo) Notes**](class/0-classhome.md)
+## 🏡 [**Home**](0-classhome.md)
