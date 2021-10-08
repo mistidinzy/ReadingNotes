@@ -24,4 +24,4 @@
 ### Class 04 - Classes and Objects
 
 * [Lecture - Classes & Objects](04-classesObjects.md)
-* [Lab & Challenges](04-labAchallenges.md)
+* [Lab & Challenges](04-Other.md)
