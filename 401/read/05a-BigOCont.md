@@ -50,7 +50,7 @@ To evaluate a function for Time & Space complexity, we need a way to measure eac
 
 ### Orders of Growth
 
-![Orders of Growth](/401/img/OrdersOfGrowth.png)
+![Orders of Growth](/images/OrdersOfGrowth.png)
 
 **Constant**
 No matter what inputs are thrown at our algorithm, it always uses the same amount of time or space. The number **1** is used to represent a constant value. This number is rounded down to **1**, to represent our estimate of complexity that is independant of **n**.

@@ -25,3 +25,7 @@
 
 * [Lecture - Classes & Objects](04-classesObjects.md)
 * [Lab & Challenges](04-Other.md)
+
+### Class 05 - Linked Lists
+
+* [Lecture - Linked List](05-linkedlists.md)

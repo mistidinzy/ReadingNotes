@@ -34,16 +34,4 @@ _____
 
 _____
 
-## Traversing through a Linked List
-
-Instead of foreach or for loops, the best way to move through a Linked List is with a **while** loop. (ie. While ***current*** is NOT *null* {xyz}).
-
-Equivalent of **i++** with linked list is **Current = Current.Next**
-
-![Traversal Pseudo Code](/401/img/linkedlisttraveral.png)
-
-![Traversal Example Explanation](/401/img/linkedlist2.png)
-
-_____
-
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
