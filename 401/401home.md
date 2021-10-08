@@ -44,6 +44,8 @@ _____
 >
 > **5** [Linked Lists](read/05-LinkedLists.md)
 >
+> **5a** [More Big O](read/05a-BigOCont.md)
+>
 > **6** [OOP Principles](read/06-OOP.md)
 >
 > **7** [Interfaces](read/07-Interfaces.md)
