@@ -12,13 +12,15 @@ A linked list is a different way to store a sequence of values.
 
 (***Like putting a fire out with a Bucket Line***.)
 
+When the linked list reaches the end, the value will return *null*.
+
 There are two types of Linked List.
 
 ### Singly
 
-### Doubly
+&
 
-When the linked list reaches the end, the value will return *null*.
+### Doubly
 
 _____
 
