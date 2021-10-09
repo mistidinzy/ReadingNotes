@@ -6,6 +6,8 @@
 
 ### [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
 
+_____
+
 ### Class 01 - Intro to C\#
 
 * [Lecture - C# Basics](01-cSharpBasics.md)
