@@ -1,5 +1,7 @@
 # 02 - Lab & Challenge
 
+Lab Notes
+
 Do *~not~* do Part 2 until you have done Part 1
 
  Do *~not~* use Console

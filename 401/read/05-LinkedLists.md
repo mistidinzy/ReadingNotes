@@ -2,6 +2,10 @@
 
 ## Linked Lists
 
+![Computational Fairytales - Linked Lists](https://bit.ly/3DldRYE)
+
+(***Left:*** Array **-** ***Right:*** Linked List)
+
 A linked list is a different way to store a sequence of values.
 
 **Nodes**, which are linked together. Each node reference the next node in the link.

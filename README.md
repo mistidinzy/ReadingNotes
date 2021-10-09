@@ -4,8 +4,7 @@
 ## About Me
 
 My name is Misti Dinzy.<br>
-I'm 29 years old, born and raised in Cedar Rapids, Iowa.<br>
-I’m currently learning website & software development with DeltaV!<br>
+I’m currently learning website & software development with DeltaV<br>
 My passions are in animal rescue, art, reading and yoga.
 
 _____
@@ -20,6 +19,6 @@ _____
 
 🔆 [**About Me**](https://mistidinzy.github.io/AboutMe/)<br>
 🐙 [**My GitHub**](https://github.com/mistidinzy)<br>
-🗃 [**Projects**](projects.md)
+<!-- 🗃 [**Projects**](projects.md) -->
 
 _____
