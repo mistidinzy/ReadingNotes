@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [Reading Notes Home](https://mistidinzy.github.io/ReadingNotes/)
 
-> [Class(Lecture/Demo) Notes](class/0-classhome.md)
+> [Lecture/Demo Notes](class/0-classhome.md)
 
 > [DSA Code Challenges](https://github.com/mistidinzy/data-structures-and-algorithms)
 

@@ -1,10 +1,10 @@
-# Misc. Lecture/Demo Notes
+# Lecture/Demo Notes
 
 ## Table of Contents
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+### 🏡 [Reading Notes Home](https://mistidinzy.github.io/ReadingNotes/)
 
-## [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+### [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
 
 ### Class 01 - Intro to C\#
 
@@ -28,4 +28,5 @@
 
 ### Class 05 - Linked Lists
 
+* [Career Workshop - Resume](career/01-resume.md)
 * [Lecture - Linked List](05-linkedlists.md)
