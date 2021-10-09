@@ -32,9 +32,9 @@ _____
 
 ### Explaining DeltaV Code School
 
-* Which is a 20-week intensive bootcamp
+Assume they know nothing about the gravity of what DeltaV actually is
+
+* A 20-week intensive bootcamp
 * In a cohort of __ people
 * Took the lead on xyz projects/what you did
 * Using agile projects, etc.
-
-Assume they know nothing about the gravity of what DeltaV actually is
