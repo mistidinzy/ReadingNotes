@@ -4,9 +4,23 @@
 
 Linked lists **can't** do **Random Access Memory**
 
-Instead of foreach or for loops, the best way to move through a Linked List is with a **while** loop. (ie. While ***current*** is NOT *null* {xyz}).
+## MOST IMPORTANT ABOUT LINKED LISTS
 
-Equivalent of **i++** with linked list is **Current = Current.Next**
+⭐️ THE BEST WAY TO MOVE THROUGH A LINKED LIST. ⭐️
+
+⭐️ ⭐️ ⭐️ current = current.next; ⭐️ ⭐️ ⭐️
+
+⭐️ Instead of foreach or for loops, the best way to move through a Linked List is with a **while** loop. (ie. While ***current*** is NOT *null* {xyz}). ⭐️
+
+⭐️ Equivalent of **i++** with linked list is **Current = Current.Next** ⭐️
+
+```C#
+
+public 
+
+```
+
+_____
 
 ![Traversal Pseudo Code](/images/linkedlisttraveral.png)
 

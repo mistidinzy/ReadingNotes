@@ -40,4 +40,8 @@ _____
 
 _____
 
+TRAVERSING A LINKED LIST
+
+_____
+
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
