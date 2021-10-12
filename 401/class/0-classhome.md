@@ -32,3 +32,7 @@ _____
 
 * [Career Workshop - Resume](career/01-resume.md)
 * [Lecture - Linked List](05-linkedlists.md)
+
+### Class 06 - Object-Oriented Principles
+
+* [Lecture - OOP](06-oop.md)
