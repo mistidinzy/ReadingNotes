@@ -17,7 +17,7 @@ _____
 ### Class 02 - Unit Testing & Documentation
 
 * [Lecture - Unit Testing](02-unitTesting.md)
-* [Lab & Code Challenge](02a-labAndChallenge.md)
+<!-- * [Lab & Code Challenge](02a-labAndChallenge.md) -->
 
 ### Class 03 - File Manipulationg & System IO
 
@@ -26,7 +26,7 @@ _____
 ### Class 04 - Classes and Objects
 
 * [Lecture - Classes & Objects](04-classesObjects.md)
-* [Lab & Challenges](04-Other.md)
+<!-- * [Lab & Challenges](04-Other.md) -->
 
 ### Class 05 - Linked Lists
 

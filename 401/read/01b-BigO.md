@@ -28,7 +28,7 @@ Denotes an algorithm whose growth doubles with each addition to the input data s
 
 _____
 
-![Big O Graph](/401/img/bigOgraph.jpeg)
+![Big O Graph](https://i.imgur.com/l93HkjJ.jpg)
 
 _____
 

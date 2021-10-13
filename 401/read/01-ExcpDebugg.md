@@ -2,7 +2,7 @@
 
 ## **Debugging**
 
-![First Computer Bug - 1945](https://upload.wikimedia.org/wikipedia/commons/f/ff/First_Computer_Bug%2C_1945.jpg)
+![First Computer Bug - 1945](https://i.imgur.com/ANXyvLN.jpg)
 
 ### *Debugging for Absolute Beginners*
 

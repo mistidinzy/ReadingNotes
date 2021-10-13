@@ -22,7 +22,7 @@ public
 
 _____
 
-![Traversal Pseudo Code](/images/linkedlisttraveral.png)
+![Traversal Pseudo Code]()
 
 ![Traversal Example Explanation](/images/linkedlist2.png)
 
