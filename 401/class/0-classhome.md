@@ -40,3 +40,7 @@ _____
 ### Class 07 - Interfaces
 
 * [Lecture - Interfaces](07-interfaces.md)
+
+### - Class 08 - Collections
+
+* [Lecture - Collections](08-collections.md)
