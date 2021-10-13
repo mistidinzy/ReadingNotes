@@ -36,3 +36,7 @@ _____
 ### Class 06 - Object-Oriented Principles
 
 * [Lecture - OOP](06-oop.md)
+
+### Class 07 - Interfaces
+
+* [Lecture - Interfaces](07-interfaces.md)
