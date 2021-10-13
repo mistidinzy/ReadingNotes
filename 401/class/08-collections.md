@@ -1,4 +1,33 @@
-# Class 08 - Collections
+# Class 08 - Collections, Generics, Enumeration
+
+## Collections
+
+> A grouping of objects.
+
+There are two ways to group objects:
+
+1. Creating arrays of objects
+2. Creating a *collection* of objects.
+
+Arrays are most useful for creating and working with a **fixed** number of strongly typed objects.
+
+> **Collections provide a more flexible way to work with groups of objects.**
+
+For some collections, you can assign a key to any object that you put into the collection so that you can quickly retrieve the object by using the key.
+
+> ‼️ A collection is a class, so you must declare an instance of the class before you can add elements to that collection ‼️
+
+### Generics
+
+> I would like C# to enforce for me that I can only make a library **that ***only*** has the same type of thing in it.**
+
+Generics are classes, structures, interfaces, and methods that have **placeholders** (type parameters) for one or more of the types that they store or use.
+
+A generic collection class might use a type parameter as a placeholder for the type of objects that it stores.
+
+[**Advantages & Disadvantages of Generics**](https://docs.microsoft.com/en-us/dotnet/standard/generics/#advantages-and-disadvantages-of-generics)
+
+### IList
 
 _____
 
@@ -38,34 +67,26 @@ Returns an enumerator that iterates through a collection.
 
 _____
 
-## Collections
+## Iterator
 
-> A grouping of objects.
+> **An iterator can be used to step through collections such as lists and arrays.**
 
-There are two ways to group objects:
+When you create an iterator for a class or struct, you don't have to implement the whole IEnumerator interface.
 
-1. Creating arrays of objects
-2. Creating a *collection* of objects.
+When the compiler detects the iterator, it automatically generates the Current, MoveNext, and Dispose methods of the IEnumerator or IEnumerator\<T> interface.
 
-Arrays are most useful for creating and working with a **fixed** number of strongly typed objects.
+> **You can use a yield break statement to end the iteration**
 
-> **Collections provide a more flexible way to work with groups of objects.**
+**? Explicit implementation of the interface member ?**
 
-For some collections, you can assign a key to any object that you put into the collection so that you can quickly retrieve the object by using the key.
+If you teach your Linked List to be IEnumerable, you can compare LLs in tests using
 
-> ‼️ A collection is a class, so you must declare an instance of the class before you can add elements to that collection ‼️
-
-### Generics
-
-> I would like C# to enforce for me that I can only make a library **that ***only*** has the same type of thing in it.**
-
-Generics are classes, structures, interfaces, and methods that have **placeholders** (type parameters) for one or more of the types that they store or use.
-
-A generic collection class might use a type parameter as a placeholder for the type of objects that it stores.
-
-[**Advantages & Disadvantages of Generics**](https://docs.microsoft.com/en-us/dotnet/standard/generics/#advantages-and-disadvantages-of-generics)
-
-### IList
+```C#
+Assert.Equal
+{
+  new[] { ... }
+}
+```
 
 _____
 
