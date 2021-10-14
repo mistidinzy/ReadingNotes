@@ -63,7 +63,7 @@ _____
 
 _____
 
-✨ Common Should something be a Property or a Method?
+✨ Common Q - Should something be a Property or a Method?
 
 _____
 
