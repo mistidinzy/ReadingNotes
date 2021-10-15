@@ -8,6 +8,10 @@
 
 _____
 
+[Keith Notes](/401/knotes-README.md)
+
+_____
+
 ### Class 01 - Intro to C\#
 
 * [Lecture - C# Basics](01-cSharpBasics.md)
