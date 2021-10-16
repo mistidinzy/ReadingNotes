@@ -45,6 +45,18 @@ _____
 
 * [Lecture - Interfaces](07-interfaces.md)
 
-### - Class 08 - Collections
+### Class 08 - Collections
 
 * [Lecture - Collections](08-collections.md)
+
+### Class 09 - LINQ
+
+* [Lecture - LINQ](09-LINQ.md)
+* [Lecture - LINQ](09-LINQ.md)
+
+### Class 10 - Stacks & Queues
+
+* [Lecture - Stacks & Queues](10-stacks-queues.md)
+* [Career Workshop - Job Search](career/02-jobsearch.md)
+
+_____

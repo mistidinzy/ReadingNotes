@@ -3,11 +3,9 @@
 ## Table of Contents
 
 > [Home](https://mistidinzy.github.io/ReadingNotes/)
->
 
->
 >[401 Reading Notes](/401/ReadingREADME.md)
->
+
 > [Lecture/Demo Notes](class/0-classhome.md)
 
 > [DSA Code Challenges](https://github.com/mistidinzy/data-structures-and-algorithms)
