@@ -2,6 +2,24 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
+_____
+
+### Class Cheatsheets & Resources
+
+- [new project setup](https://codefellows.github.io/code-201-guide/curriculum/class-02/project-setup)
+- [css everything cheatsheet](https://overapi.com/css)
+- [collection of cheatsheets by overApi](https://overapi.com/)
+- [boolean practice](https://codefellows.github.io/code-201-guide/curriculum/class-03/facilitator/boolean-practice)
+- [javascript structure](https://codefellows.github.io/code-201-guide/curriculum/class-09/facilitator/javascript-structure)
+- [post 201 study guide](https://codefellows.github.io/code-201-guide/curriculum/class-15/post-201-study-guide)
+- [git and github basics guide](https://codefellows.github.io/code-201-guide/curriculum/class-02/git-and-github-basics-guide)
+- [css3 cheat sheat](https://websitesetup.org/css3-cheat-sheet/)
+- [html5 reference tags](https://codefellows.github.io/code-201-guide/curriculum/cheat-sheets/html5-reference-tags.jpg)
+- [html5 sectioning flow chart](https://codefellows.github.io/code-201-guide/curriculum/cheat-sheets/html5-sectioning-flowchart.pdf)
+- [handling merge conflicts](https://codefellows.github.io/code-201-guide/curriculum/class-15/handling-merge-conflicts)
+
+_____
+
 > **1** [Introductory HTML & Javascript](201/class-01.md)
 >
 > **2** [HTML Text • CSS Introduction • Basic JavaScript Instructions](201/class-02.md)
