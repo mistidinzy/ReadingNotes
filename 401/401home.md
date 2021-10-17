@@ -4,7 +4,7 @@
 
 > [Home](https://mistidinzy.github.io/ReadingNotes/)
 
->[401 Reading Notes](/401/ReadingREADME.md)
+>[401 Reading Notes](/ReadingREADME.md)
 
 > [Lecture/Demo Notes](class/0-classhome.md)
 

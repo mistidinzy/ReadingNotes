@@ -1,6 +1,8 @@
 
 # **Reading**
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
 > **1** [Exception Handling and Debugging](read/01-ExcpDebugg.md)
 >
 > **1b** [Big O Notation](read/01b-BigO.md)
@@ -47,11 +49,5 @@
 >
 > **Midterm**
 >
-
-_____
-
-## [**401 - Home**](401/401home.md)<br>
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)<br>
 
 _____
