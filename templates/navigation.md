@@ -1,8 +1,6 @@
 # Navigation
 
-_____
-
-## Table of Contents
+## 102
 
 > 🏡 [Home](https://mistidinzy.github.io/ReadingNotes/) <br>
 > 1️⃣ []() <br>
@@ -19,11 +17,7 @@ _____
 
 _____
 
-### 201
-
-_____
-
-## Table of Contents
+## 201
 
 > 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)<br>
 > **1** [Introductory HTML & Javascript](/class-01.md)<br>
@@ -47,10 +41,6 @@ _____
 
 ### 301
 
-_____
-
-## Table of Contents
-
 > 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) <br>
 > **1** [Introduction to React & Components](/read01.md)<br>
 > **2** [States & Props](/read02.md)<br>
@@ -67,3 +57,9 @@ _____
 > **13** [Diversity & Inclusion in the Tech Industry](/read13.md)<br>
 > **14** [Authentication](/read14.md)<br>
 > 🐙 [My GitHub](https://github.com/mistidinzy)
+
+_____
+
+## 401
+
+_____
