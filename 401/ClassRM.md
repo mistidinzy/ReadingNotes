@@ -27,7 +27,6 @@ _____
 > ### Class 02 - Unit Testing & Documentation
 >
 * [Lecture - Unit Testing](class-wk-1n2/02-unitTesting.md)
-<!-- * [Lab & Code Challenge](class-wk-1n2/02a-labAndChallenge.md) -->
 >
 > ### Class 03 - File Manipulationg & System IO
 >
@@ -50,7 +49,7 @@ _____
 > ### Class 06 - Object-Oriented Principles
 >
 * [Lecture - OOP](class-wk-1n2/06-oop.md)
-<!-- . -->
+>
 > ### Class 07 - Interfaces
 >
 * [Lecture - Interfaces](class-wk-1n2/07-interfaces.md)
@@ -58,7 +57,7 @@ _____
 > ### Class 08 - Collections
 >
 * [Lecture - Collections](class-wk-1n2/08-collections.md)
-<!-- . -->
+>
 > ### Class 09 - LINQ
 >
 * [Lecture - LINQ](class-wk-1n2/09-LINQ.md)
@@ -80,7 +79,7 @@ _____
 >
 * [X](class-wk-3n4/12.md)
 >
-<!-- . -->
+>
 > ### Class 13 - Dependency Injection & Repository Design Pattern
 >
 * [X](class-wk-3n4/13.md)
@@ -88,7 +87,7 @@ _____
 > ### Class 14 - Navigation Properties and Routing
 >
 * [X](class-wk-3n4/14.md)
-<!-- . -->
+>
 > ### Class 15 - Data Structures and Career Coaching
 >
 * [X](class-wk-3n4/15.md)
@@ -100,7 +99,7 @@ _____
 > ### Class 16 - Data Transfer Objects (DTOs)
 >
 * [X](class-wk-3n4/16.md)
-<!-- . -->
+>
 > ### Class 17 - Testing and Swagger and Deployment
 >
 * [X](class-wk-3n4/17.md)
@@ -108,7 +107,7 @@ _____
 > ### Class 18 - Identity
 >
 * [X](class-wk-3n4/18.md)
-<!-- . -->
+>
 > ### Class 19 - Roles, Claims and JWT Tokens
 >
 * [X](class-wk-3n4/19.md)
@@ -128,7 +127,7 @@ _____
 > ### Class 22
 >
 * [X](class-wk-5n6/22.md)
-<!-- . -->
+>
 > ### Class 23
 >
 * [X](class-wk-5n6/23.md)
@@ -136,7 +135,7 @@ _____
 > ### Class 24
 >
 * [X](class-wk-5n6/24.md)
-<!-- . -->
+>
 > ### Class 25
 >
 * [X](class-wk-5n6/25.md)
@@ -148,7 +147,7 @@ _____
 > ### Class 26 - Intro to MVC
 >
 * [X](class-wk-5n6/26.md)
-<!-- . -->
+>
 > ### Class 27
 >
 * [X](class-wk-5n6/27.md)
@@ -156,7 +155,7 @@ _____
 > ### Class 28
 >
 * [X](class-wk-5n6/28.md)
-<!-- . -->
+>
 > ### Class 29
 >
 * [X](class-wk-5n6/29.md)
@@ -172,7 +171,7 @@ _____
 > ### Class 31
 >
 * [X](class-wk-7n8/31.md)
-<!-- . -->
+>
 > ### Class 32
 >
 * [X](class-wk-7n8/32.md)
@@ -180,7 +179,7 @@ _____
 > ### Class 33
 >
 * [X](class-wk-7n8/33.md)
-<!-- . -->
+>
 > ### Class 34
 >
 * [X](class-wk-7n8/34.md)
@@ -196,7 +195,7 @@ _____
 > ### Class 36
 >
 * [X](class-wk-7n8/36.md)
-<!-- . -->
+>
 > ### Class 37
 >
 * [X](class-wk-7n8/37.md)
@@ -204,7 +203,7 @@ _____
 > ### Class 38
 >
 * [X](class-wk-7n8/38.md)
-<!-- . -->
+>
 > ### Class 39
 >
 * [X](class-wk-7n8/39.md)
@@ -220,7 +219,7 @@ _____
 > ### Class 41
 >
 * [X](class-wk-9n10/41.md)
-<!-- . -->
+>
 > ### Class 42
 >
 * [X](class-wk-9n10/42.md)
@@ -228,7 +227,7 @@ _____
 > ### Class 43
 >
 * [X](class-wk-9n10/43.md)
-<!-- . -->
+>
 > ### Class 44
 >
 * [X](class-wk-9n10/44.md)
