@@ -1,5 +1,7 @@
 # Class 04 - Lecture - Classes and Objects
 
+## 🏡 [**Home**](0-classhome.md)
+
 _____
 
 ## Object-Oriented Programming
@@ -66,5 +68,3 @@ _____
 ✨ Common Q - Should something be a Property or a Method?
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

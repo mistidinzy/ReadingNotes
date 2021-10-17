@@ -1,4 +1,8 @@
-# Class 01
+# Class 01 - Visual Studio
+
+## 🏡 [**Home**](0-classhome.md)
+
+_____
 
 Solution is a collection of projects
 
@@ -69,5 +73,3 @@ throw = “something went wrong.”
 * still requires a exception type
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

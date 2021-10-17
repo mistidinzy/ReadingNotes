@@ -1,5 +1,9 @@
 # Class 01 - Practice Debugging
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 **Read the following sections in the article**:
 
 * Opening section
@@ -25,5 +29,3 @@ Are you going to use the debugger while coding in Visual Studio?
 > Most definitely.
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

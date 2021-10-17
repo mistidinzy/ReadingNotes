@@ -1,5 +1,11 @@
 # Deliberate Practice
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+---
+
 ## What is Deliberate Practice
 
 Deliberate practice is the most effective method for rapidly improving any skill.
@@ -44,7 +50,7 @@ _____
 
 Break the skill down into components that you can do repeatedly and analyze effectively, determine your weaknesses, and find out how to improve them.
 
-_____
+---
 
 ### Ask yourself questions
 
@@ -80,6 +86,4 @@ _____
 * The closer you can get to implementing Deliberate Practice in your learning, the faster you will improve.
 * High level performers demonstrate ways we can all look to for ways that we can improve our own practice. Use them as inspiration for how you can grow faster.
 
-_____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+---

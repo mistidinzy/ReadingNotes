@@ -1,5 +1,11 @@
 # How to Think Like a Programmer
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 ## Lessons in Problem Solving
 
 Problem solving is a meta-skill.
@@ -44,5 +50,3 @@ _____
  -->
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

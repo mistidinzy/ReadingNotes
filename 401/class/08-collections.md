@@ -1,5 +1,9 @@
 # Class 08 - Collections, Generics, Enumeration
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Collections
 
 > A grouping of objects.
@@ -89,7 +93,3 @@ Assert.Equal
 ```
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)
-
-### [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)

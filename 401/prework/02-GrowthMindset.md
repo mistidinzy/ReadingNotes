@@ -1,5 +1,11 @@
 # More On The Growth Mindset
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 ## Carol Dweck: "The Power of Believing You Can Improve"
 
 [TedTalk Here](https://bit.ly/3ig79va)
@@ -53,5 +59,3 @@ You can't be successful at everything. You can't have it all. Real vision of suc
 > *We should not give up on our ideas of success. We should make sure that they are truly our own. Make sure we are the authors of our ambitions.*
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

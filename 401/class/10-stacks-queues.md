@@ -1,5 +1,9 @@
 # Class 10 - Review + Stacks & Queues
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Review
 
 ### Code Challenge 09 - Reversing a Linked List
@@ -38,10 +42,10 @@ _____
 
 A stack is a class of data structures that all act the same way.
 
-*Abstract data structure*: <br>
-**First In, Last Out**
+*Abstract data structure*:
 
-**Last In, First Out**
+* **First In, Last Out**
+* **Last In, First Out**
 
 In a stack you can only access the most recently added thing. 
 
@@ -115,9 +119,5 @@ Peeking looks at the front.
 IsEmpty is also looking at the front.
 
 > The main difference between stacks and queues is: are we inserting a new Node at **the beginning** or **the end?**
-
-_____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
 _____

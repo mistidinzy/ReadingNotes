@@ -1,5 +1,11 @@
 # Intro to .NET
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 [.NET Core Guide](https://bit.ly/3F9fDxU)
 
 [What is .NET](https://bit.ly/3B4MGAB)
@@ -46,5 +52,3 @@ It provides services such as memory management, type safety, exception handling,
 All programs written for .NET are executed by the CLR, regardless of which programming language they are written in.
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

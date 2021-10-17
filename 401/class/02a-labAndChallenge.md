@@ -1,5 +1,9 @@
 # 02 - Lab & Challenge
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 Lab Notes
 
 Do *~not~* do Part 2 until you have done Part 1
@@ -15,5 +19,3 @@ ____
 [DSA Code Challenge - Insert Shift Array](https://github.com/mistidinzy/data-structures-and-algorithms/blob/main/401/InsertShiftArray/README.md)
 
 ____
-
-## 🏡 [**Home**](0-classhome.md)

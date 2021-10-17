@@ -1,5 +1,9 @@
 # Class 07 - Interfaces
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Interfaces
 
 > **A way for classes to say, "I have this capability."**
@@ -76,5 +80,3 @@ Interfaces vs Inheritance
   * methods
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

@@ -1,5 +1,7 @@
 # Class 01 - C# Basics
 
+## 🏡 [**Home**](0-classhome.md)
+
 ## **What is C#**
 
 Where did it come from?
@@ -50,5 +52,3 @@ Packaged into an assembly in the form of an executable file ().exe) or library (
 When the CLR loads an assembly, it converts to IL into the native code of the machine.
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

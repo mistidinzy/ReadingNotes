@@ -1,5 +1,11 @@
 # Compare Javascript Map to Linq Select Where - 10/14
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+---
+
 ```C#
 //////// CONVERT EACH THING ////////////
 

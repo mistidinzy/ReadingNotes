@@ -1,7 +1,20 @@
-
-# **Reading**
+# Code 401 - Advanced Software Development - Reading
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> [**401**: Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+|
+[PreWork](/401/preworkRM.md)
+|
+[Reading](/ReadingREADME.md)
+|
+[Class Notes](class/0-classhome.md)
+|
+[DSA Code Challenges](https://github.com/mistidinzy/data-structures-and-algorithms)
+|
+[Keith Notes](/401/knotes-README.md)
+
+_____
 
 > **1** [Exception Handling and Debugging](read/01-ExcpDebugg.md)
 >

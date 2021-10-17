@@ -1,5 +1,9 @@
 # Class 05 - Linked Lists
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Traversing through a Linked List
 
 Linked lists **can't** do **Random Access Memory**
@@ -53,5 +57,3 @@ _____
 **Time**: O(1) ✦ **Space**: O(1)
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

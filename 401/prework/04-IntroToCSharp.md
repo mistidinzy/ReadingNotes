@@ -1,5 +1,11 @@
 # "Intro to C#"
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 C# (Pronounced "See Sharp")<br>
 It is an object-oriented, type-safe ***programming language***.
 
@@ -81,5 +87,3 @@ _____
 [A tour of the C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

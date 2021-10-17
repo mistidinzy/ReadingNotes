@@ -1,5 +1,11 @@
 # C\# Syntax Explained
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 [w3 schools - C# Syntax](https://www.w3schools.com/cs/cs_syntax.php)
 
 ```C#
@@ -40,5 +46,3 @@ namespace HelloWorld
 * C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

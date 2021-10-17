@@ -1,5 +1,9 @@
 # Class 06 - Lecture - Object Oriented Principles
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Inheritance
 
 Inheritance is the process by which one class takes on the attributes, and methods, of another.
@@ -76,7 +80,3 @@ Encapsulate the code where we see how *something* actually works,
 and make it so they can only interact with the *something* in very specific ways that don't involve the foundational code.
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)
-
-### [401 Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)

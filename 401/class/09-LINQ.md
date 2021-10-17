@@ -1,5 +1,9 @@
 # Class 09 - LINQ & Delegates
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 [Delegates](/401/class/09a-delegates.md)
 
 Learning Objectives
@@ -14,6 +18,8 @@ Lecture Outline
     * Add data to the collection
     * Iterate through the collection
 3. What is an easier way to iterate through a collection?
+
+_____
 
 ## What Is LINQ?
 
@@ -31,6 +37,8 @@ Lecture Outline
 * A query is an expression that, when enumerated, transforms sequences with query operators.
 * The standard query operators are implemented as extension methods, so we can call 'WHERE' directly onto names.
 
+_____
+
 ### Query Expressions
 
 ```C#
@@ -44,6 +52,8 @@ IEnumerable<string> filteredNames = System.Linq.Enumerable.Where(names, n => n.L
 
 foreach (string n in filteredNames){Console.WriteLine (n);}
 ```
+
+_____
 
 ## Lambda Statements
 
@@ -89,7 +99,5 @@ var bookAuthorCollection = from b in books
 foreach (var x in bookAuthorCollection)
     Console.WriteLine("Book title - {0}, First author {1}", x.Book.Title, x.Author.FirstName);
 ```
-___
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-___
+_____

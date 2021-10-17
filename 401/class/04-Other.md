@@ -1,5 +1,9 @@
 # Class 04 - Whiteboards, Labs, etc
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## WB Interviews
 
 ! -- overload: using a same-named function with different parameters
@@ -13,7 +17,3 @@ Today: timebox total of 2 hours for this, about 45 minutes each, plus time for q
 ? -- modulo
 
 _____
-
-_____
-
-## 🏡 [**Home**](0-classhome.md)

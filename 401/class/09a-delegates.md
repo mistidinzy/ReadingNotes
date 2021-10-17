@@ -1,3 +1,5 @@
 # Delegates
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+## 🏡 [**Home**](0-classhome.md)
+
+_____

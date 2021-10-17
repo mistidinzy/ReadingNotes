@@ -1,5 +1,9 @@
 # Class 02 - Unit Tests & Documentation
 
+## 🏡 [**Home**](0-classhome.md)
+
+_____
+
 ## Unit Testing
 
 * TDD = Test Driven Development
@@ -136,10 +140,8 @@ _____
 
 _____
 
-## C# Lambda expression === JS Arrow Function
+> C# "Lambda expression" = JS "Arrow Function"
 
 **Assert.Throws** - This is the format we use for testing an exception
 
 _____
-
-## 🏡 [**Home**](0-classhome.md)

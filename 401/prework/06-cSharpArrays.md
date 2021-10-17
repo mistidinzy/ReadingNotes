@@ -1,5 +1,11 @@
 # C\# Arrays
 
+🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+[**401: Home**](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
+
+_____
+
 The ***Array*** data structure is a way to store multiple variables of the same data type within one object.
 
 An array can be single-dimensional, multidimensional, or jagged. These dimensions and the length of each dimension are established when the array is created.
@@ -89,5 +95,3 @@ PrintArray(theArray);
 This example utilizes a single-dimensional array, but a multidimensional array can be passed in this way as well.
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
