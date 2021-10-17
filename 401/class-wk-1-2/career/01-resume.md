@@ -2,13 +2,13 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](401home.md)
+> **401**: [Home](/401home.md)
 |
-[PreWork](401/preworkRM.md)
+[PreWork](/401/preworkRM.md)
 |
-[Reading](401/ReadingRM.md)
+[Reading](/401/ReadingRM.md)
 |
-[Class Notes](401/ClassRM.md)
+[Class Notes](/401/ClassRM.md)
 |
 [DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
 
@@ -52,3 +52,5 @@ Assume they know nothing about the gravity of what DeltaV actually is
 * In a cohort of __ people
 * Took the lead on xyz projects/what you did
 * Using agile projects, etc.
+
+_____

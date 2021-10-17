@@ -18,133 +18,133 @@ _____
 
 > ### Class 01 - Intro to C\#
 >
-* [Lecture - C# Basics](class/01-cSharpBasics.md)
-* [Lecture - Starting Visual Studio](class/1a-startingVS.md)
-* [Lab - Debugging Practice](class/01b-debuggingPractice.md)
+* [Lecture - C# Basics](class-wk-1-2/01-cSharpBasics.md)
+* [Lecture - Starting Visual Studio](class-wk-1-2/1a-startingVS.md)
+* [Lab - Debugging Practice](class-wk-1-2/01b-debuggingPractice.md)
 >
 > ### Class 02 - Unit Testing & Documentation
 >
-* [Lecture - Unit Testing](class/02-unitTesting.md)
-<!-- * [Lab & Code Challenge](class/02a-labAndChallenge.md) -->
+* [Lecture - Unit Testing](class-wk-1-2/02-unitTesting.md)
+<!-- * [Lab & Code Challenge](class-wk-1-2/02a-labAndChallenge.md) -->
 >
 > ### Class 03 - File Manipulationg & System IO
 >
-* [Lecture - File Manipulation](class/03-systemIO.md)
+* [Lecture - File Manipulation](class-wk-1-2/03-systemIO.md)
 >
 > ### Class 04 - Classes and Objects
 >
-* [Lecture - Classes & Objects](class/04-classesObjects.md)
-<!-- * [Lab & Challenges](class/04-Other.md) -->
+* [Lecture - Classes & Objects](class-wk-1-2/04-classesObjects.md)
+<!-- * [Lab & Challenges](class-wk-1-2/04-Other.md) -->
 >
 > ### Class 05 - Linked Lists
 >
-* [Career Workshop - Resume](class/career/01-resume.md)
-* [Lecture - Linked List](class/05-linkedlists.md)
+* [Career Workshop - Resume](class-wk-1-2/career/01-resume.md)
+* [Lecture - Linked List](class-wk-1-2/05-linkedlists.md)
 >
 > ### Class 06 - Object-Oriented Principles
 >
-* [Lecture - OOP](class/06-oop.md)
+* [Lecture - OOP](class-wk-1-2/06-oop.md)
 <!-- . -->
 > ### Class 07 - Interfaces
 >
-* [Lecture - Interfaces](class/07-interfaces.md)
+* [Lecture - Interfaces](class-wk-1-2/07-interfaces.md)
 >
 > ### Class 08 - Collections
 >
-* [Lecture - Collections](class/08-collections.md)
+* [Lecture - Collections](class-wk-1-2/08-collections.md)
 <!-- . -->
 > ### Class 09 - LINQ
 >
-* [Lecture - LINQ](class/09-LINQ.md)
+* [Lecture - LINQ](class-wk-1-2/09-LINQ.md)
 >
 > ### Class 10 - Stacks & Queues
 >
-* [Lecture - Stacks & Queues](class/10-stacks-queues.md)
-* [Career Workshop - Job Search](class/career/02-jobsearch.md)
+* [Lecture - Stacks & Queues](class-wk-1-2/10-stacks-queues.md)
+* [Career Workshop - Job Search](class-wk-1-2/career/02-jobsearch.md)
 
 _____
 
 > ### Class 11
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 12
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 <!-- . -->
 > ### Class 13
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 14
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 15
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 16
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 17
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 18
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 19
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 20
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 
 _____
 
 > ### Class 21
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 22
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 23
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 24
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 25
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 26
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 27
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 28
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 <!-- . -->
 > ### Class 29
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 >
 > ### Class 30
 >
-* [X](class/)
+* [X](class-wk-1-2/)
 
 _____
