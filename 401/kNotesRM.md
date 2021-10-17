@@ -4,7 +4,7 @@
 
 > **401**: [Home](https://mistidinzy.github.io/ReadingNotes/401home.html)
 |
-[PreWork](/401/preworkRM.md)
+[PreWork](https://mistidinzy.github.io/ReadingNotes/401/preworkRM.html)
 |
 [Reading](/401/ReadingRM.md)
 |
