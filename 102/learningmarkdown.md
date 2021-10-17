@@ -1,44 +1,51 @@
 # Learning Markdown
 
-Let's start with GitHub.
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-**GitHub** is a website that we can use to store and share the code we've written for our projects. 
-It's kind of like a storage locker that you can choose to share the key to. 
-Whoever you share the key with would then be able to see the contents and change them if they'd like, or add their own code as well. 
-
-**Markdown** is one variety within a group of programming languages known as lightweight markup language \(LML). It can be used for a lot of things in a lot of different places.
-
-But in GitHub, we create **Markdown files** \(the ones that end in .md) to change the way this \"storage locker" and its contents are presented. 
-We can add headers, lists, tables, make the font *italic* or **bold**, etc. to make it easier to navigate, or just better to look at. 
-
-As any language, Markdown is composed of words and symbols that come together to form a sentence.   This choreography of specific words and symbols, coming together to form a language, is known as its \"syntax". 
-
-> **Syntax**: A set of rules that govern how words are combined to form longer strings of meaning. 
-
-### Markdown Resources
-
- - [Markdown Examples](/markdownexamples.md)
- - [John Gruber's Guide to Markdown](https://daringfireball.net/projects/markdown/)
- - [What Is Markdown & How Do You Use It](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
- - [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
- - [Markdown Tools](https://www.markdownguide.org/tools/)
- - [Online Markdown Editor](https://dillinger.io/)
+> 💭 [Growth Mindset](growthmindset.md)
+>
+> ✍️ [Learning Markdown](learningmarkdown.md)
+>
+> 💻 [Coder's Computer](coderscomputer.md)
+>
+> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+>
+> 🏗️ [Structure Webpages with HTML](structure.md)
+>
+> 🎨 [Design Webpages with CSS](designcss.md)
+>
+> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+>
+> 🌵 [Programming with JavaScript](programjs.md)
+>
+> 🤖 [Operators & Loops](operloops.md)
+>
+> 🧮 [Computer Architecture & Logic](comparchlogic.md)
 
 _____
 
-## Table of Contents
+Let's start with GitHub.
 
-> * 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-> * 💭 [Growth Mindset](/growthmindset.md)
-> * ✍️ [Learning Markdown](/learningmarkdown.md)
-> * 💻 [Coder's Computer](/coderscomputer.md)
-> * 🌩️ [Revisions & the Cloud](/revisionscloud.md)
-> * 🏗️ [Structure Webpages with HTML](/structure.md)
-> * 🎨 [Design Webpages with CSS](/designcss.md)
-> * ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
-> * 🌵 [Programming with JavaScript](/programjs.md)
-> * 🤖 [Operators & Loops](/operloops.md)
-> * 🧮 [Computer Architecture & Logic](/comparchlogic.md)
-> * 🐙 [My GitHub](https://github.com/mistidinzy)
+**GitHub** is a website that we can use to store and share the code we've written for our projects.
+It's kind of like a storage locker that you can choose to share the key to.
+Whoever you share the key with would then be able to see the contents and change them if they'd like, or add their own code as well.
+
+**Markdown** is one variety within a group of programming languages known as lightweight markup language \(LML). It can be used for a lot of things in a lot of different places.
+
+But in GitHub, we create **Markdown files** \(the ones that end in .md) to change the way this \"storage locker" and its contents are presented.
+We can add headers, lists, tables, make the font *italic* or **bold**, etc. to make it easier to navigate, or just better to look at.
+
+As any language, Markdown is composed of words and symbols that come together to form a sentence.   This choreography of specific words and symbols, coming together to form a language, is known as its \"syntax".
+
+> **Syntax**: A set of rules that govern how words are combined to form longer strings of meaning.
+
+### Markdown Resources
+
+- [Markdown Examples](/markdownexamples.md)
+- [John Gruber's Guide to Markdown](https://daringfireball.net/projects/markdown/)
+- [What Is Markdown & How Do You Use It](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/)
+- [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Markdown Tools](https://www.markdownguide.org/tools/)
+- [Online Markdown Editor](https://dillinger.io/)
 
 _____

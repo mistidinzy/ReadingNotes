@@ -1,5 +1,29 @@
 # Growth Mindset
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> 💭 [Growth Mindset](growthmindset.md)
+>
+> ✍️ [Learning Markdown](learningmarkdown.md)
+>
+> 💻 [Coder's Computer](coderscomputer.md)
+>
+> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+>
+> 🏗️ [Structure Webpages with HTML](structure.md)
+>
+> 🎨 [Design Webpages with CSS](designcss.md)
+>
+> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+>
+> 🌵 [Programming with JavaScript](programjs.md)
+>
+> 🤖 [Operators & Loops](operloops.md)
+>
+> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+
+_____
+
 ## What does *Growth Mindset* mean to you?
 
 A growth mindset is the ability \(and the willingness) to view situations in a constructive way.
@@ -28,22 +52,3 @@ Growth mindset is like a muscle, it requires ongoing maintenance and practice in
 - Always keep an eye out for new tools, techniques and inspiration.  
 
 _____
-
-## Table of Contents
-
-> * 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-> * 💭 [Growth Mindset](/growthmindset.md)
-> * ✍️ [Learning Markdown](/learningmarkdown.md)
-> * 💻 [Coder's Computer](/coderscomputer.md)
-> * 🌩️ [Revisions & the Cloud](/revisionscloud.md)
-> * 🏗️ [Structure Webpages with HTML](/structure.md)
-> * 🎨 [Design Webpages with CSS](/designcss.md)
-> * ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
-> * 🌵 [Programming with JavaScript](/programjs.md)
-> * 🤖 [Operators & Loops](/operloops.md)
-> * 🧮 [Computer Architecture & Logic](/comparchlogic.md)
-> * 🐙 [My GitHub](https://github.com/mistidinzy)
-
-_____
-
-

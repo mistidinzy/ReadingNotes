@@ -1,5 +1,27 @@
 # Choosing a Text Editor
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> 💭 [Growth Mindset](growthmindset.md)
+>
+> ✍️ [Learning Markdown](learningmarkdown.md)
+>
+> 💻 [Coder's Computer](coderscomputer.md)
+>
+> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+>
+> 🏗️ [Structure Webpages with HTML](structure.md)
+>
+> 🎨 [Design Webpages with CSS](designcss.md)
+>
+> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+>
+> 🌵 [Programming with JavaScript](programjs.md)
+>
+> 🤖 [Operators & Loops](operloops.md)
+>
+> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+
 _____
 
 ## Text Editor vs. Source Code Editor vs. IDE
@@ -7,72 +29,62 @@ _____
 _____
 
 ### Text Editor
-A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website. 
+
+A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website.
   
 Examples:
->  * Notepad
->  * Apple Pages
->  * Google Docs
+>
+> * Notepad
+> * Apple Pages
+> * Google Docs
 
 ### Code-Specific Text Editor
+
 Also known as "source code editor".
-These are different from the above text editors, because they are designed specifically to make it easier and better to write, edit and manage code. 
+These are different from the above text editors, because they are designed specifically to make it easier and better to write, edit and manage code.
 
 Examples:
->  * Visual Studio Code
->  * Atom
->  * Note ++
->  * Sublime Text
->  * Brackets
+>
+> * Visual Studio Code
+> * Atom
+> * Note ++
+> * Sublime Text
+> * Brackets
 
 ### IDE (Integrated Development Environment)
-An Integrated Development Environment is a package of programs & tools that includes a text editor, but also other useful software for developers. 
-These tools might also include a compiler, debugger, build automation tools, a class browser, an object browser, etc. 
+
+An Integrated Development Environment is a package of programs & tools that includes a text editor, but also other useful software for developers.
+These tools might also include a compiler, debugger, build automation tools, a class browser, an object browser, etc.
 
 Examples:
->  * Microsoft Visual Studio
->  * Eclipse
->  * NetBeans
->  * Komodo IDE
+>
+> * Microsoft Visual Studio
+> * Eclipse
+> * NetBeans
+> * Komodo IDE
 
 _____
 
-## How to Choose? 
+## How to Choose?
 
-Developers should be thoughtful when choosing a text editor because it is one of the most important tools they will use. 
-You want it to be one that you will be happy and comfortable using for several hours a day. 
-Choosing a text editor with the right features will writing and managing your code much easier and faster. 
+Developers should be thoughtful when choosing a text editor because it is one of the most important tools they will use.
+You want it to be one that you will be happy and comfortable using for several hours a day.
+Choosing a text editor with the right features will writing and managing your code much easier and faster.
 
 Useful Features to Look For:  
+>
 > * code completion
 > * syntax highlighting  
 > * variety of theme options
-> * variety of extensions to add on 
+> * variety of extensions to add on
 > * Emmet shorthand
 
 _____
 
-## Next: 
+## Next
 
 > * [The Command Line](/thecommandline.md)
 > * [Basic Navigation](/basicnavigation.md)
 > * [More About Files](/moreaboutfiles.md)
-
-_____
-
-## Table of Contents
-
-> * 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-> * 💭 [Growth Mindset](/growthmindset.md)
-> * ✍️ [Learning Markdown](/learningmarkdown.md)
-> * 💻 [Coder's Computer](/coderscomputer.md)
-> * 🌩️ [Revisions & the Cloud](/revisionscloud.md)
-> * 🏗️ [Structure Webpages with HTML](/structure.md)
-> * 🎨 [Design Webpages with CSS](/designcss.md)
-> * ☕ [Dynamic Webpages with JavaScript](/dynamicjava.md)
-> * 🌵 [Programming with JavaScript](/programjs.md)
-> * 🤖 [Operators & Loops](/operloops.md)
-> * 🧮 [Computer Architecture & Logic](/comparchlogic.md)
-> * 🐙 [My GitHub](https://github.com/mistidinzy)
 
 _____
