@@ -2,7 +2,7 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/401home.md)
+> **401**: [Home](https://mistidinzy.github.io/ReadingNotes/401home.html)
 |
 [PreWork](/401/preworkRM.md)
 |
