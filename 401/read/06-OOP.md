@@ -1,5 +1,19 @@
 # Object Oriented Principles
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 ## Inheritance
 
 Inheritance is one of the three primary characteristics of object-oriented programming.
@@ -62,8 +76,6 @@ Because they cannot be used as a base class, some run-time optimizations can mak
 <!-- Note To Self: Translate this -->
 A method, indexer, property or event, on a derived class that is overriding a virtual member of the base class can declare that member as sealed.
 
-
-
 _____
 
 ## Polymorphism
@@ -73,5 +85,3 @@ _____
 ## C\# in a Nutshell - Chapter 3
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

@@ -1,5 +1,19 @@
 # Big O: Analysis of Algorithm Efficiency
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 Big O is used to describe the worst case scenario for a particular algorithm, based on time and space.
 
 1. Running Time
@@ -81,9 +95,3 @@ Ex. Fibonacci Sequence
 Means our **space and time** requirements grow extremely fast.
 
 _____
-
-## Best Case, Worst Case, and Average Case
-
-_____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

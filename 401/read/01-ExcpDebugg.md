@@ -1,5 +1,19 @@
 # Exception Handling & Debugging
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 ## **Debugging**
 
 ![First Computer Bug - 1945](https://i.imgur.com/ANXyvLN.jpg)
@@ -123,5 +137,3 @@ Synopsis of the official report:
 > and testing of the inertial reference system or of the complete flight control system, which could have detected the potential failure."
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

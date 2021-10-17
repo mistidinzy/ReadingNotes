@@ -1,5 +1,19 @@
 # Big O Notation
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 Big O notation is used to describe the performance of complexity of an algorithm.
 
 It specifically describes the worst-case performance of an algorithm, as the size of the problem grows.
@@ -47,5 +61,3 @@ This type of algorithm is called O(log N).<br>
 This technique is more efficient because it essentially cuts the data set in half, until it can no longer split the data. A data set containing 1,000 items, can take 3 seconds to complete with this method.
 
 _____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

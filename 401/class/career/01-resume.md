@@ -1,5 +1,19 @@
 # Career Workshop 01 - Resume
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 ## Cover Letter
 
 * Opening: Here's why I'm interested in your company, what I would like to do and why I'm a good fit for that position.

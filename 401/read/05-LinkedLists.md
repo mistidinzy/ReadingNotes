@@ -1,8 +1,22 @@
 # Linked Lists Implementation
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 ## Linked Lists
 
-![Computational Fairytales - Linked Lists](https://bit.ly/3DldRYE)
+[Computational Fairytales - Linked Lists](https://bit.ly/3DldRYE)
 
 (***Left:*** Array **-** ***Right:*** Linked List)
 
@@ -39,9 +53,3 @@ _____
 **Current**: Current is the reference of type Node to the node that is currently being looked at. When moving through the list, you create a new Current variable at the Head to guarantee that you are starting from the beginning of the linked list.
 
 _____
-
-TRAVERSING A LINKED LIST
-
-_____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)

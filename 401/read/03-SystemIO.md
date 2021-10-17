@@ -1,5 +1,19 @@
 # System.I.O
 
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+
+> **401**: [Home](401home.md)
+|
+[PreWork](401/preworkRM.md)
+|
+[Reading](401/ReadingRM.md)
+|
+[Class Notes](401/ClassRM.md)
+|
+[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+
+_____
+
 ## File & Stream I/O
 
 **File** = A file is an ordered and named collection of bytes that has persistent storage. File provides static methods for creating, copying, deleting, moving, and opening files, and helps to create a FileStream object.
@@ -45,9 +59,5 @@ _____
 
 * BinaryReader
 * BinaryWriter
-
-_____
-
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
 _____
