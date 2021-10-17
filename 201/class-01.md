@@ -1,5 +1,9 @@
 # Class One
 
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+> [**201 Home**](/201home.md)
+
 _____
 
 ## HTML
@@ -96,7 +100,3 @@ _____
 Notes
 
 _____
-
-## Table of Contents
-
-> 🏡 [Home](/README.md)

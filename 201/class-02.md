@@ -1,5 +1,9 @@
 # Class Two
 
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+> [**201 Home**](/201home.md)
+
 _____
 
 ## HTML
@@ -37,7 +41,3 @@ _____
     https://chris.beams.io/posts/git-commit/
 
 _____
-
-## Table of Contents
-
-> 🏡 [Home](/README.md)

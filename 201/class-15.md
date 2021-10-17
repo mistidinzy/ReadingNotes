@@ -1,5 +1,11 @@
 # Fifteen - Merge Conflicts
 
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+> [**201 Home**](/201home.md)
+
+_____
+
 Problem Domain
 Merge conflicts occur when files get out of sync between GitHub and a user’s local code base, and Git becomes unsure of where HEAD really is.
 
@@ -47,7 +53,3 @@ Resolve any merge conflicts in the same manner as above if there are any pending
 How could these problems have been prevented?
 
 _____
-
-## Table of Contents
-
-> 🏡 [Home](/README.md)

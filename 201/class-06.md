@@ -1,5 +1,11 @@
 # Class Six - JavaScript Object Literals & The DOM
 
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+> [**201 Home**](/201home.md)
+
+_____
+
 ## Objects
 
 Objects group together a set of variables and functions. They create a model used to represent something from the world around you.
@@ -31,7 +37,3 @@ The hardest part of programming is finding the "problem domain".
 In order to solve a problem, you have to know what the problem is, first.
 
 _____
-
-## Table of Contents
-
-> 🏡 [Home](/README.md)

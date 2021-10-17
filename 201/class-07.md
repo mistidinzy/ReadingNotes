@@ -1,5 +1,10 @@
-
 # Class 07 - Object-Oriented Programming, HTML Tables
+
+> 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
+|
+> [**201 Home**](/201home.md)
+
+_____
 
 HTML
 
@@ -28,12 +33,8 @@ To update the values of the object's properties, use dot notation or square brac
 
     hotel[''] = 'Park';
 
-#### Other Resources
+### Other Resources
 
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
 _____
-
-## Table of Contents
-
-> 🏡 [Home](/README.md)
