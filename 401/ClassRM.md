@@ -16,6 +16,8 @@
 
 _____
 
+## Week One - Fundamentals
+
 > ### Class 01 - Intro to C\#
 >
 * [Lecture - C# Basics](class-wk-1n2/01-cSharpBasics.md)
@@ -40,7 +42,11 @@ _____
 >
 * [Career Workshop - Resume](class-wk-1n2/career/01-resume.md)
 * [Lecture - Linked List](class-wk-1n2/05-linkedlists.md)
->
+
+_____
+
+## Week Two - Advanced Concepts
+
 > ### Class 06 - Object-Oriented Principles
 >
 * [Lecture - OOP](class-wk-1n2/06-oop.md)
@@ -64,87 +70,175 @@ _____
 
 _____
 
-> ### Class 11
+## Week Three - MVC & Entity Framework Core
+
+> ### Class 11 - Introduction to Databases and ERDs
 >
 * [X](class-wk-3n4/11.md)
 >
-> ### Class 12
+> ### Class 12 - Entity Framework and APIs
 >
 * [X](class-wk-3n4/12.md)
 >
 <!-- . -->
-> ### Class 13
+> ### Class 13 - Dependency Injection & Repository Design Pattern
 >
 * [X](class-wk-3n4/13.md)
 >
-> ### Class 14
+> ### Class 14 - Navigation Properties and Routing
 >
 * [X](class-wk-3n4/14.md)
 <!-- . -->
-> ### Class 15
+> ### Class 15 - Data Structures and Career Coaching
 >
 * [X](class-wk-3n4/15.md)
->
-> ### Class 16
+
+_____
+
+## Week Four - Repository Design Pattern & APIs
+
+> ### Class 16 - Data Transfer Objects (DTOs)
 >
 * [X](class-wk-3n4/16.md)
 <!-- . -->
-> ### Class 17
+> ### Class 17 - Testing and Swagger and Deployment
 >
 * [X](class-wk-3n4/17.md)
 >
-> ### Class 18
+> ### Class 18 - Identity
 >
 * [X](class-wk-3n4/18.md)
 <!-- . -->
-> ### Class 19
+> ### Class 19 - Roles, Claims and JWT Tokens
 >
 * [X](class-wk-3n4/19.md)
 >
-> ### Class 20
+> ### Class 20 - Project Kickoff
 >
 * [X](class-wk-3n4/20.md)
 
 _____
 
+## Week Five - Midterm Project
+
 > ### Class 21
 >
-
+* [X](class-wk-5n6/21a.md)
 >
 > ### Class 22
 >
-
+* [X](class-wk-5n6/22.md)
 <!-- . -->
 > ### Class 23
 >
-
+* [X](class-wk-5n6/23.md)
 >
 > ### Class 24
 >
-
+* [X](class-wk-5n6/24.md)
 <!-- . -->
 > ### Class 25
 >
+* [X](class-wk-5n6/25.md)
 
->
-> ### Class 26
->
+_____
 
+## Week Six - Sprint 1: Authentication/Authorization
+
+> ### Class 26 - Intro to MVC
+>
+* [X](class-wk-5n6/26.md)
 <!-- . -->
 > ### Class 27
 >
-
+* [X](class-wk-5n6/27.md)
 >
 > ### Class 28
 >
-
+* [X](class-wk-5n6/28.md)
 <!-- . -->
 > ### Class 29
 >
-
+* [X](class-wk-5n6/29.md)
 >
 > ### Class 30
 >
+* [X](class-wk-5n6/30.md)
 
+_____
+
+## Week Seven - Sprint 2
+
+> ### Class 31
+>
+* [X](class-wk-7n8/31.md)
+<!-- . -->
+> ### Class 32
+>
+* [X](class-wk-7n8/32.md)
+>
+> ### Class 33
+>
+* [X](class-wk-7n8/33.md)
+<!-- . -->
+> ### Class 34
+>
+* [X](class-wk-7n8/34.md)
+>
+> ### Class 35
+>
+* [X](class-wk-7n8/35.md)
+
+_____
+
+## Week Eight - Sprint 3: Azure
+
+> ### Class 36
+>
+* [X](class-wk-7n8/36.md)
+<!-- . -->
+> ### Class 37
+>
+* [X](class-wk-7n8/37.md)
+>
+> ### Class 38
+>
+* [X](class-wk-7n8/38.md)
+<!-- . -->
+> ### Class 39
+>
+* [X](class-wk-7n8/39.md)
+>
+> ### Class 40
+>
+* [X](class-wk-7n8/40.md)
+
+_____
+
+## Week Nine - MISC
+
+> ### Class 41
+>
+* [X](class-wk-9n10/41.md)
+<!-- . -->
+> ### Class 42
+>
+* [X](class-wk-9n10/42.md)
+>
+> ### Class 43
+>
+* [X](class-wk-9n10/43.md)
+<!-- . -->
+> ### Class 44
+>
+* [X](class-wk-9n10/44.md)
+>
+> ### Class 45
+>
+* [X](class-wk-9n10/45.md)
+
+_____
+
+## Week 10 - Final Project Week
 
 _____
