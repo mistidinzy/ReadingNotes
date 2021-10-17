@@ -6,9 +6,9 @@
 |
 [PreWork](https://mistidinzy.github.io/ReadingNotes/401/preworkRM.html)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://mistidinzy.github.io/ReadingNotes/401/ReadingRM.html)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://mistidinzy.github.io/ReadingNotes/401/ClassRM.html)
 |
 [DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
 
