@@ -1,4 +1,4 @@
-# Code 401 - Advanced Software Development - Reading
+# 401 - Reading
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
