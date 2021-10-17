@@ -2,46 +2,46 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **1** [Introductory HTML & Javascript](/class-01.md)
+> **1** [Introductory HTML & Javascript](201/class-01.md)
 >
-> **2** [HTML Text • CSS Introduction • Basic JavaScript Instructions](/class-02.md)
+> **2** [HTML Text • CSS Introduction • Basic JavaScript Instructions](201/class-02.md)
 >
-> **3** [HTML Lists • CSS Boxes • JavaScript Control Flow](/class-03.md)
+> **3** [HTML Lists • CSS Boxes • JavaScript Control Flow](201/class-03.md)
 >
-> **4** [HTML Links • CSS Layouts • JavaScript Functions](/class-04.md)
+> **4** [HTML Links • CSS Layouts • JavaScript Functions](201/class-04.md)
 >
-> **5** [HTML Images • CSS Color & Text](/class-05.md)
+> **5** [HTML Images • CSS Color & Text](201/class-05.md)
 >
-> **6** [JavaScript Object Literals • The DOM](/class-06.md)
+> **6** [JavaScript Object Literals • The DOM](201/class-06.md)
 >
-> **7** [HTML Tables • JavaScript Constructor Functions](/class-07.md)
+> **7** [HTML Tables • JavaScript Constructor Functions](201/class-07.md)
 >
-> **8** [More CSS Layout](/class-08.md)
+> **8** [More CSS Layout](201/class-08.md)
 >
-> **9** [Forms & Events](/class-09.md)
+> **9** [Forms & Events](201/class-09.md)
 >
-> **10** [Debugging & Error Handling](/class-10.md)
+> **10** [Debugging & Error Handling](201/class-10.md)
 >
-> **11** [Assorted Topics](/class-11.md)
+> **11** [Assorted Topics](201/class-11.md)
 >
-> **12** [Canvas & ChartJS](/class-12.md)
+> **12** [Canvas & ChartJS](201/class-12.md)
 >
-> **13** [Local Storage](/class-13.md)
+> **13** [Local Storage](201/class-13.md)
 >
-> **14a** [CSS Transforms, Transitions & Animations](/class-14a.md)
+> **14a** [CSS Transforms, Transitions & Animations](201/class-14a.md)
 >
-> **14b** [What Google Learned About Teams](/class-14b.md)
+> **14b** [What Google Learned About Teams](201/class-14b.md)
 >
-> **15** [Merge Conflicts](/class-15.md)
+> **15** [Merge Conflicts](201/class-15.md)
 
 ### Projects
 
 > [Chocolate Pizza](https://mistidinzy.github.io/chocolate-pizza/)
->
+|
 > [Salmon Cookies](https://mistidinzy.github.io/cookie-stand/)
->
+|
 > [Bus Mall](https://mistidinzy.github.io/bus-mall/)
->
+|
 > [Project Week - Connect*U](https://mistidinzy.github.io/Connect-U/)
 
 _____

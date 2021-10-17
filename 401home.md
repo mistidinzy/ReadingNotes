@@ -4,15 +4,15 @@
 
 > [**401**: Home](https://mistidinzy.github.io/ReadingNotes/401/401home.html)
 |
-[PreWork](/401/preworkRM.md)
+[PreWork](preworkRM.md)
 |
-[Reading](/ReadingREADME.md)
+[Reading](ReadingRM.md)
 |
 [Class Notes](class/0-classhome.md)
 |
 [DSA Code Challenges](https://github.com/mistidinzy/data-structures-and-algorithms)
 |
-[Keith Notes](/401/knotes-README.md)
+[Keith Notes](/Users/mistidinzy/Desktop/deltav/301/readingnotes/ReadingNotes/401/knotes/kNotesRM.md)
 
 _____
 
