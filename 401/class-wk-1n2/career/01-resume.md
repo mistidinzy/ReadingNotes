@@ -2,13 +2,13 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/401home.md)
+> **401**: [Home](https://mistidinzy.github.io/ReadingNotes/401home.html)
 |
-[PreWork](/401/preworkRM.md)
+[PreWork](https://mistidinzy.github.io/ReadingNotes/401/preworkRM.html)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://mistidinzy.github.io/ReadingNotes/401/ReadingRM.html)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://mistidinzy.github.io/ReadingNotes/401/ClassRM.html)
 |
 [DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
 
