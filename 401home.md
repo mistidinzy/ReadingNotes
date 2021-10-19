@@ -4,11 +4,11 @@
 
 > **401**: [Home](/401home.md)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](401/PreworkRM.md)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](401/ReadingRM.md)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](401/ClassRM.md)
 |
 [DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
 >
