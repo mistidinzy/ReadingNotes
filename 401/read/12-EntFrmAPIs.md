@@ -37,6 +37,30 @@ EF supports the following model development approaches:
 * Hand code a model to match the database.
 * Use **EF Migrations** to create a database from the model, which allows the database to evolve as the model changes.
 
+### The *Conceptual Model*
+
+* Describes the EDM in isolation of the database
+
+### The *Store Model*
+
+* Describes the database schema
+
+### The *Mapping*
+
+* Describes how the conceptual model maps to the store
+
+---
+
+### Inheritance
+
+**Table per hierarchy**: A single table maps to a whole class hierarchy.
+
+**Table per type**: A single table maps to one type.
+
+**Table per concrete type**: A separate table maps to each concrete type.
+
+---
+
 ## Data Seeding
 
 Data seeding is the process of populating a database with an initial set of data.
@@ -80,7 +104,7 @@ using (var db = new BloggingContext())
 
 ### **To create the model**
 
-Define a context class and the entity classes that make up the model.
+Define a **context class** and the entity classes that make up the model.
 
 Example:
 
