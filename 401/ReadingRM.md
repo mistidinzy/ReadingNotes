@@ -47,7 +47,7 @@ _____
 
 > **12** [Entity Framework Core and APIs](read/12-EntFrmAPIs.md)
 >
-> **13** [Dependency Injection](read/13-DepInj.md)
+> **13** [Dependency Injection](read/13-DependencyInjection.md)
 >
 > **14** [Routing and Navigation Properties](read/14-RouteNavProps.md)
 >

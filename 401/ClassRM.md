@@ -82,7 +82,7 @@ _____
 >
 > ### Class 13 - Dependency Injection & Repository Design Pattern
 >
-* [X](class-wk-3n4/13.md)
+* [Dependency Injection](class-wk-3n4/13-dependencyInjection.md)
 >
 > ### Class 14 - Navigation Properties and Routing
 >
