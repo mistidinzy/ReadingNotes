@@ -49,6 +49,8 @@ _____
 >
 > **13** [Dependency Injection](read/13-DependencyInjection.md)
 >
+> **13a** [SOLID Principles](read/13a-SOLID.md)
+>
 > **14** [Routing and Navigation Properties](read/14-RouteNavProps.md)
 >
 > **15** [Trees](read/15-Trees.md)
