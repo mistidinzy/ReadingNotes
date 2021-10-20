@@ -15,6 +15,8 @@
 
 _____
 
+[Beginner's Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+
 Big O notation is used to describe the performance of complexity of an algorithm.
 
 It specifically describes the worst-case performance of an algorithm, as the size of the problem grows.
