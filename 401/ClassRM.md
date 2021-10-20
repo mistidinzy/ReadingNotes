@@ -73,11 +73,11 @@ _____
 
 > ### Class 11 - Introduction to Databases and ERDs
 >
-* [X](class-wk-3n4/11.md)
+* [Databases](class-wk-3n4/11-databases.md)
 >
 > ### Class 12 - Entity Framework and APIs
 >
-* [X](class-wk-3n4/12.md)
+* [Entity Framework and APIs](class-wk-3n4/12-entityFramework.md)
 >
 >
 > ### Class 13 - Dependency Injection & Repository Design Pattern

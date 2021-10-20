@@ -32,7 +32,7 @@ Execute:
 
 - Async Inn ERD Review
 - .NET Web App Workshop
-  - [Build Guide and Checklist](./resources/ef-web-app.md)
+  - [Build Guide and Checklist](12a.md)
 
 ## NOTES
 
