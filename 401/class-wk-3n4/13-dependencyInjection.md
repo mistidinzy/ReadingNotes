@@ -38,3 +38,7 @@
 Task = Promise
 
 ---
+
+If you don't implement an interface
+
+---
