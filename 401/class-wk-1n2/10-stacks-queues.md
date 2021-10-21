@@ -2,7 +2,7 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/401home.md)
+> **401**: [Home](/c401home.md)
 |
 [PreWork](/401/PreworkRM.md)
 |
@@ -130,5 +130,15 @@ Peeking looks at the front.
 IsEmpty is also looking at the front.
 
 > The main difference between stacks and queues is: are we inserting a new Node at **the beginning** or **the end?**
+
+_____
+
+‼️
+
+**Stacks** are best when you want to see/access the most recently added item.
+
+**Queues** are best when you want to see/access the oldest item.
+
+‼️
 
 _____

@@ -1,8 +1,8 @@
-# na
+# Routing and Navigation Properties
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/401home.md)
+> **401**: [Home](/c401home.md)
 |
 [PreWork](/401/PreworkRM.md)
 |
@@ -13,4 +13,10 @@
 [DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
 >
 
-_____
+---
+
+## Routing within MVC
+
+## Routing within Core
+
+---
