@@ -134,11 +134,22 @@ IsEmpty is also looking at the front.
 _____
 
 ‼️
+---
 
 **Stacks** are best when you want to see/access the most recently added item.
 
 **Queues** are best when you want to see/access the oldest item.
 
+‼️ 
+---
+
+**Stacks can push, pop, peek, and know if they're empty**.
+
+**&&**
+
+**Queues can enqueue, dequeue, peek, and know if they're empty**.
+
 ‼️
+---
 
 _____
