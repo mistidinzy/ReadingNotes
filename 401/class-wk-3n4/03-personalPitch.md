@@ -15,6 +15,6 @@
 
 ---
 
-## [Personal Pitch](/Other/html/pitchISH.html)
+## [Personal Pitch](ReadingNotes/Other/html/pitchISH.html)
 
 ---
