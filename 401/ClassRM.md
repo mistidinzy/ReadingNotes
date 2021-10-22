@@ -90,7 +90,7 @@ _____
 >
 > ### Class 15 - Data Structures and Career Coaching
 >
-* [Career Workshop - Personal Pitches](pages/html/pitchISH.html)
+* [Career Workshop - Personal Pitches](pages/html/pitchish.html)
 
 _____
 
