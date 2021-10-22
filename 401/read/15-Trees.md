@@ -15,6 +15,8 @@
 
 ---
 
+[Computational Fairytales - Trees](http://computationaltales.blogspot.com/2011/05/binary-search-trees-and-speck-spider.html)
+
 ### Binary Trees
 
 ### Binary Search Trees
