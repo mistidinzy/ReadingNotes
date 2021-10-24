@@ -6,7 +6,7 @@
 |
 [PreWork](/401/PreworkRM.md)
 |
-[Reading](401/ReadingRM.md)
+[Reading](/ReadingRM.md)
 |
 [Class Notes](/401/ClassRM.md)
 |
