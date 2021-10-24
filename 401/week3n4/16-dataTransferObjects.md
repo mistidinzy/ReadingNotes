@@ -15,6 +15,14 @@
 
 ---
 
+## Reading
+
+* [Data Transfer Objects](https://docs.microsoft.com/en-us/aspnet/web-api/overview/data/using-web-api-with-entity-framework/part-5)
+
+* [How to Use DTOs](https://www.infoworld.com/article/3562271/how-to-use-data-transfer-objects-in-aspnet-core-31.html)
+
+---
+
 Data Transfer Objects allow us to adhere to stricter and more curated data contract between the client code and the API.
 
 ## Learning Objectives

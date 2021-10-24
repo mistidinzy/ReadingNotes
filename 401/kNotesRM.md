@@ -19,10 +19,23 @@
 
 ---
 
-> **08** [Lab: Backpack](/401/knotes/c8-labBackpackSC.md)
->
-> **09** [Queries](/401/knotes/c9-exampleQueries.md)
->
-> **09** [LINQ: Select](/401/knotes/c9-LINQ-Select.md)
+> **Class 08**
 
-_____
+* [Lab: Backpack](/401/knotes/c8-labBackpackSC.md)
+
+> **Class 09**
+
+* [Queries](/401/knotes/c9-exampleQueries.md)
+* [LINQ: Select](/401/knotes/c9-LINQ-Select.md)
+
+> **Class 14**
+
+* [DSA Review - Animal Shelter](/401/knotes/c14-animalshelter.md)
+* [DSA Review - Matching Brackets](/401/knotes/c14b-brackets.md)
+
+> **Class 15**
+
+* [Binary Tree Starter Code...ish](/401/knotes/c15-binaryTreeIsh.md)
+* [Create Binary Tree](/401/knotes/c15b-createBT.md)
+
+---
