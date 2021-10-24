@@ -89,10 +89,11 @@
 >
 > ### Class 14 - Navigation Properties and Routing
 >
-* [X](class-wk-3n4/14.md)
+* [Navigation and Routing](class-wk-3n4/14.md)
 >
 > ### Class 15 - Data Structures and Career Coaching
 >
+* [Career Workshop - What's your WHY](class-wk-3n4/career/purpose.md)
 * [Career Workshop - Personal Pitches](pages/html/pitchish.html)
 
 ---
