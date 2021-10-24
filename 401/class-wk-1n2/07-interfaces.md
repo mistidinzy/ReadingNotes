@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Interfaces
 
@@ -41,8 +41,6 @@ Any class that implements an interface must promise to 'fulfill it's obligations
 
 Think of interfaces like 'actions' or 'protocols' that can be implemented on other classes
 
-_____
-
 An interface contains definitions for a group of related functionalities that a non-abstract class or a struct must implement.
 
 An interface may not declare instance data such as fields, auto-implemented properties or property-like events.
@@ -59,8 +57,6 @@ An interface may not declare instance data such as fields, auto-implemented prop
 >
 > Cannot contain instance fields, instance constructors or finalizers
 
-_____
-
 ## Implementation
 
 ```C#
@@ -76,8 +72,6 @@ interface IHasTeams
 }
 ```
 
-_____
-
 Interfaces vs Inheritance
 
 * Review inheritance
@@ -89,5 +83,3 @@ Interfaces vs Inheritance
   * naming conventions
   * properties
   * methods
-
-_____

@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## **What is C#**
 
@@ -64,4 +64,4 @@ Managed code - referring to memory
 Packaged into an assembly in the form of an executable file ().exe) or library (.dll)
 When the CLR loads an assembly, it converts to IL into the native code of the machine.
 
-_____
+---

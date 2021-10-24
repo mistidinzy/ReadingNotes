@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 **Database**: A collection of related data.
 
@@ -49,7 +49,7 @@ A modern **DBMS** has the following characteristics:
 
 * Security
 
-_____
+---
 
 ## Users
 
@@ -77,7 +77,7 @@ The users of a DBMS can be broadly categorized as follows:
 * End users are those who actually reap the benefits of having a DBMS.
 * End users can range from simple viewers who pay attention to the logs or market rates, to sophisticated users such as business analysts.
 
-_____
+---
 
 Two kinds of Databases:
 
@@ -104,7 +104,7 @@ The performance implications: maintaining these relationships is slower.
   * Graph databases
   * Time series databases
 
-_____
+---
 
 ## Representation
 
@@ -116,7 +116,7 @@ _____
   * One book might be many different genres
 * Many:1
 
-_____
+---
 
 ## Keys
 
@@ -141,4 +141,4 @@ _____
 
 Can use a composite key to represent when you want to combine info, but want to prevent duplicates.
 
-_____
+---

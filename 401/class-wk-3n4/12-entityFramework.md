@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 - What is the purpose of Entity Framework
 - What is a Code First Migration
@@ -44,3 +44,5 @@ Execute:
 EF Core can serve as an object-relational mapper (O/RM), enabling .NET developers to work with a database using .NET objects, and eliminating the need for most of the data-access code they usually need to write.
 
 EFCore allows us to make calls and queries to our database through this ORM allowing for efficiency and ease of use.
+
+---

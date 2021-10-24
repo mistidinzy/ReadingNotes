@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 Reflect on what you learned today.
 
@@ -29,7 +29,7 @@ What advice do you want to give to your future self about:
 
 **3.** If you receive an offer, don't necessarily just accept it as-is. Reach out to support network for insight and possible direction towards negotiating further.
 
-_____
+---
 
 ## Targeted job search?
 
@@ -39,7 +39,7 @@ _____
 
 **3.** Add even more specifics about DeltaV experience to resume.
 
-_____
+---
 
 ## Networking?
 
@@ -49,4 +49,4 @@ _____
 
 **3.** Don't seek to build connections solely on what you can gain, but also genuinely consider what you can give.
 
-_____
+---

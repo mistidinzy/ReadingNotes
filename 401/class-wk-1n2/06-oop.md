@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Inheritance
 
@@ -26,7 +26,7 @@ C# only supports single inheritance. So only one class's behavior can be pssed o
 
 ⭐️ *If you create a constructor with required parameters in the BASE class, then you will have to call that constructor in each of its child classes. Not recommended.* ⭐️
 
-_____
+---
 
 ## Abstraction - Not Actually OOP
 
@@ -50,7 +50,7 @@ It lets you represent something that is vague.
 
 Opposite of an abstract class is a concrete class. If you can make a new thing of the class, then it is concrete.
 
-_____
+---
 
 ## Polymorphism
 
@@ -70,7 +70,7 @@ Override parent behavior in the children.
 
 **virtual** means you ***may*** override, but you don't have to.
 
-_____
+---
 
 ## Encapsulation
 
@@ -90,4 +90,4 @@ Any child class that inherits/extends from me ***can*** access this.
 Encapsulate the code where we see how *something* actually works,
 and make it so they can only interact with the *something* in very specific ways that don't involve the foundational code.
 
-_____
+---

@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Traversing through a Linked List
 
@@ -35,13 +35,13 @@ public
 
 ```
 
-_____
+---
 
 ![Traversal Pseudo Code]()
 
 ![Traversal Example Explanation](/images/linkedlist2.png)
 
-_____
+---
 
 ## Linked List - Traversal - Big O
 
@@ -55,7 +55,7 @@ The Big O of ***space*** for **Includes** would be **O(1)**.
 
 This is because there is no additional space being used than what is already given to us with the linked list input.
 
-_____
+---
 
 ## Adding a Node
 
@@ -67,4 +67,4 @@ _____
 
 **Time**: O(1) ✦ **Space**: O(1)
 
-_____
+---

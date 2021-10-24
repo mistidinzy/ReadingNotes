@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Unit Testing
 
@@ -57,7 +57,7 @@ Why is it important?
 
 * Proper Structure
 
-_____
+---
 
 ## Adding a New Test Project
 
@@ -68,7 +68,7 @@ _____
     if (dotnet test) doesn't work:
     then (dotnet restore) == npm install
 
-_____
+---
 
 ## FizzBuzzerTests.cs
 
@@ -97,7 +97,7 @@ _____
 
     Assert.Equal("Fizz", result);
 
-_____
+---
 
 ### FizzBuzzer.cs
 
@@ -107,7 +107,7 @@ _____
     }
       return number.ToString();
 
-_____
+---
 
 ## Xunit Theory
 
@@ -131,7 +131,7 @@ Theory = when there could be multiple scenarios for your test
 
     }
 
-_____
+---
 
     [Fact]
 
@@ -149,10 +149,10 @@ _____
       });
     }
 
-_____
+---
 
 > C# "Lambda expression" = JS "Arrow Function"
 
 **Assert.Throws** - This is the format we use for testing an exception
 
-_____
+---

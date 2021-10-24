@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 **Read the following sections in the article**:
 
@@ -23,7 +23,7 @@ _____
 
 [My Reading Notes on Debugging](https://mistidinzy.github.io/ReadingNotes/401/read/01-ExcpDebugg.html)
 
-_____
+---
 
 **After completing the above, answer these questions**:
 
@@ -39,4 +39,4 @@ What did you find least helpful?
 Are you going to use the debugger while coding in Visual Studio?
 > Most definitely.
 
-_____
+---

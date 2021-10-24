@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Cover Letter
 
@@ -37,13 +37,13 @@ _____
 
 * Also include what role you played in that project
 
-_____
+---
 
 ### Phone screening
 
 * Be mindful of time
 
-_____
+---
 
 ### Explaining DeltaV Code School
 
@@ -54,4 +54,4 @@ Assume they know nothing about the gravity of what DeltaV actually is
 * Took the lead on xyz projects/what you did
 * Using agile projects, etc.
 
-_____
+---

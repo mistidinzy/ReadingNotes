@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Review
 
@@ -39,7 +39,8 @@ while (current != null)
 
 Head = previous;
 ```
-_____
+
+---
 
 ## Stacks & Queues
 
@@ -60,13 +61,13 @@ A stack is a class of data structures that all act the same way.
 
 In a stack you can only access the most recently added thing. 
 
-The first thing that went in, is the last thing that will come out and vice versa. 
+The first thing that went in, is the last thing that will come out and vice versa.
 
 Literally means a stack (ie. a stack of plates).
 
 Useful when you really only need to care about what the last thing that happened was.
 
-_____
+---
 
 ## Terminology
 
@@ -82,7 +83,7 @@ _____
 
 Stack overflow is when we have used up all of our available memory when calling functions.
 
-_____
+---
 
 **The pseudocode for pushing a value onto a stack**
 
@@ -94,7 +95,7 @@ _____
 
 > Peek, Push and IsEmpty are also O(1) constant time.
 
-_____
+---
 
 ## Queues
 
@@ -107,7 +108,7 @@ _____
 
 **Last In, Last Out**
 
-_____
+---
 
 ***Enqueue*** - Nodes or items that are added to the queue.
 
@@ -121,7 +122,7 @@ _____
 
 ***IsEmpty*** - Returns true when queue is empty, otherwise will return false.
 
-_____
+---
 
 When you dequeue an item from the queue, you are removing the front item.
 
@@ -131,7 +132,7 @@ IsEmpty is also looking at the front.
 
 > The main difference between stacks and queues is: are we inserting a new Node at **the beginning** or **the end?**
 
-_____
+---
 
 ‼️
 ---
@@ -152,4 +153,4 @@ _____
 ‼️
 ---
 
-_____
+---

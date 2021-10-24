@@ -2,19 +2,22 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
-> [Keith Notes](kNotesRM.md)
 
-_____
+---
+
+> [Keith Notes](https://bit.ly/311v6kd)
+
+---
 
 ## Week One - Fundamentals
 
@@ -42,7 +45,7 @@ _____
 * [Career Workshop - Resume](class-wk-1n2/career/01-resume.md)
 * [Lecture - Linked List](class-wk-1n2/05-linkedlists.md)
 
-_____
+---
 
 ## Week Two - Advanced Concepts
 
@@ -67,7 +70,7 @@ _____
 * [Lecture - Stacks & Queues](class-wk-1n2/10-stacks-queues.md)
 * [Career Workshop - Job Search](class-wk-1n2/career/02-jobsearch.md)
 
-_____
+---
 
 ## Week Three - MVC & Entity Framework Core
 
@@ -92,7 +95,7 @@ _____
 >
 * [Career Workshop - Personal Pitches](pages/html/pitchish.html)
 
-_____
+---
 
 ## Week Four - Repository Design Pattern & APIs
 
@@ -116,7 +119,7 @@ _____
 >
 * [X](class-wk-3n4/20.md)
 
-_____
+---
 
 ## Week Five - Midterm Project
 
@@ -140,7 +143,7 @@ _____
 >
 * [X](class-wk-5n6/25.md)
 
-_____
+---
 
 ## Week Six - Sprint 1: Authentication/Authorization
 
@@ -164,7 +167,7 @@ _____
 >
 * [X](class-wk-5n6/30.md)
 
-_____
+---
 
 ## Week Seven - Sprint 2
 
@@ -188,7 +191,7 @@ _____
 >
 * [X](class-wk-7n8/35.md)
 
-_____
+---
 
 ## Week Eight - Sprint 3: Azure
 
@@ -212,7 +215,7 @@ _____
 >
 * [X](class-wk-7n8/40.md)
 
-_____
+---
 
 ## Week Nine - MISC
 
@@ -236,8 +239,8 @@ _____
 >
 * [X](class-wk-9n10/45.md)
 
-_____
+---
 
 ## Week 10 - Final Project Week
 
-_____
+---

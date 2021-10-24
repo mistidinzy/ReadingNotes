@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Object-Oriented Programming
 
@@ -59,7 +59,7 @@ We can initialize an object on creation. This saves space when coding, and somet
 
 ✨ Good practice: Property & Method names should always start with a capital. ✨
 
-_____
+---
 
 ## Terminology
 
@@ -74,8 +74,7 @@ _____
 9. Reference Type:
 10. Property:
 
-_____
-
+---
 ✨ Common Q - Should something be a Property or a Method?
 
-_____
+---
