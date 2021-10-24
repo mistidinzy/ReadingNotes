@@ -6,7 +6,7 @@
 |
 [PreWork](/401/PreworkRM.md)
 |
-[Reading](/ReadingRM.md)
+[Reading](/401/ReadingRM.md)
 |
 [Class Notes](/401/ClassRM.md)
 |
@@ -57,7 +57,7 @@ Trees help store data in a way that represents the structure's heirarchical natu
 
 ---
 
-![Diagram of Tree Structure](/401/images/trees.png)
+![Tree structure diagram](https://i.imgur.com/6OJl3fU.png)
 
 ---
 
