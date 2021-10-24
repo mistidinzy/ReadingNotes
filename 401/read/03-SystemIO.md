@@ -2,30 +2,30 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## File & Stream I/O
 
 **File** = A file is an ordered and named collection of bytes that has persistent storage. File provides static methods for creating, copying, deleting, moving, and opening files, and helps to create a FileStream object.
 
-_____
+---
 
 **Stream** = A stream is a sequence of bytes that you can use to read from & write to a backing store. The abstract base class Stream supports reading and writing bytes.
 
 All classes that represent streams inherit from the Stream class. Provides a common view of data sources and repositories.
 
-![stream classes](/401/img/streamclasses.png)
+![stream classes](https://i.imgur.com/nJoL1QY.png)
 
 Streams involve three fundamental operations:
 
@@ -46,7 +46,7 @@ Streams involve three fundamental operations:
 
 ## Files & Directories
 
-_____
+---
 
 [Write to a file](https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file)
 
@@ -54,11 +54,11 @@ _____
 * File
 * Path
 
-_____
+---
 
 [Read to a file](https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-read-and-write-to-a-newly-created-data-file)
 
 * BinaryReader
 * BinaryWriter
 
-_____
+---

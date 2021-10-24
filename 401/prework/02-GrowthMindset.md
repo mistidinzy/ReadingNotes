@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## Carol Dweck: "The Power of Believing You Can Improve"
 
@@ -33,8 +33,7 @@ When a growth mindset is fostered, the meaning of effort and difficulty are tran
 
   > *Let's not waste any more lives. Because once we know that abilities are capable of such growth, it becomes a ***basic human right*** for children, all children, to live in places that create that growth, to live in places filled with ***"yet".*** - Carol Dweck*
 
-_____
-
+---
 ## Angela Lee Duckworth: "Grit: The Power of Passion and Perserverence"
 
 [TedTalk Here](https://bit.ly/39LZUGx)
@@ -49,7 +48,7 @@ Talent doesn't make you gritty. The closest you can get to building grit is by f
 
 > *People are much more likely to persevere when they don't believe that failure is a permanent condition.*
 
-_____
+---
 
 ## Alain de Botton: "A Kinder, Gentler Philosophy of Success"
 
@@ -67,4 +66,4 @@ You can't be successful at everything. You can't have it all. Real vision of suc
 
 > *We should not give up on our ideas of success. We should make sure that they are truly our own. Make sure we are the authors of our ambitions.*
 
-_____
+---

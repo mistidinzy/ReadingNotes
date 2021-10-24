@@ -1,19 +1,18 @@
 # C\# Syntax Explained
-
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 [w3 schools - C# Syntax](https://www.w3schools.com/cs/cs_syntax.php)
 
@@ -54,4 +53,4 @@ namespace HelloWorld
 
 * C# is case-sensitive: "MyClass" and "myclass" has different meaning.
 
-_____
+---

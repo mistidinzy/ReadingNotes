@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## **Debugging**
 
@@ -45,7 +45,7 @@ Stepping through your code within a debugger will allow you to pause the app at 
 
 [Visual Studio Debugger Overview](https://bit.ly/3FeFswp)
 
-_____
+---
 
 ## **Exceptions**
 
@@ -63,7 +63,7 @@ They can be thrown because of a fault in your code, unavailable operating system
 * [ArgumentNullException](https://bit.ly/3D8e7Kv)
 * [ArgumentOutOfRangeException](https://bit.ly/2YeoYU0)
 
-_____
+---
 
 ## **Exception Handling**
 
@@ -106,7 +106,7 @@ static void Main()
 
 ### Try-Catch-Finally
 
-_____
+---
 
 ### C\# 7.0
 
@@ -137,4 +137,4 @@ Synopsis of the official report:
 >
 > and testing of the inertial reference system or of the complete flight control system, which could have detected the potential failure."
 
-_____
+---

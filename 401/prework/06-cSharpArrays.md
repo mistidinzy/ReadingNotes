@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 The ***Array*** data structure is a way to store multiple variables of the same data type within one object.
 
@@ -39,7 +39,7 @@ The **Array** class provides many useful methods and properties for sorting, sea
 
 [See More About the Array Class Here](https://docs.microsoft.com/en-us/dotnet/api/system.array?view=net-5.0)
 
-_____
+---
 
 ## Single-Dimensional Arrays
 
@@ -103,4 +103,4 @@ PrintArray(theArray);
 
 This example utilizes a single-dimensional array, but a multidimensional array can be passed in this way as well.
 
-_____
+---

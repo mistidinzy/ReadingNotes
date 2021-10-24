@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 ## What is Unit Testing?
 
@@ -27,7 +27,7 @@ An important aspect of unit tests is to completely separate this class from its 
 
 [ELI5: Unit Tests](https://bit.ly/3laFmhu)
 
-_____
+---
 
 ## A Dead Simple Unit Test
 
@@ -88,7 +88,7 @@ public class CalculatorTests
 
 ³Microsoft supplies a UnitTesting namespace with this *Assert* class in it. This class has various methods you use as the final piece of the puzzle. ***Assertion Passes & Fails*** determine whether the test passes or fails, as seen in the test runner.
 
-_____
+---
 
 ### Best Practices
 
@@ -108,8 +108,8 @@ _____
 6. Add Them to the Build
     * Add your unit test suite's execution to the build, so that if any test fails, then the whole build will fail. This is necessary, so you don't get into the habit of ignoring failures.
 
-_____
+---
 
 Next: [Documentation](02a-Documentation.md)
 
-_____
+---

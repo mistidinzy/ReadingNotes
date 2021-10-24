@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 C# (Pronounced "See Sharp")<br>
 It is an object-oriented, type-safe ***programming language***.
@@ -25,7 +25,7 @@ Enables devs to build apps that run in .NET. <br>
 
 There have been 13 total versions of C# so far, with C# version 9.0 being most current version at the time this is written (Oct 2021).
 
-____
+---
 
 ## C\# Key Organizational Concepts
 
@@ -61,7 +61,7 @@ class Hello
 }
 ```
 
-_____
+---_
 
 ## Keywords
 
@@ -89,10 +89,10 @@ type
 >
 >The "Main" method is the entry point for every C# application.
 
-_____
+---_
 
 ## References
 
 [A tour of the C# Language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
-_____
+---_

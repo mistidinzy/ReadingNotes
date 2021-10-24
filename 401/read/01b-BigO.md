@@ -2,18 +2,18 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 [Beginner's Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 
@@ -43,11 +43,11 @@ Denotes an algorithm whose growth doubles with each addition to the input data s
 
 ## O(L * n)
 
-_____
+---
 
 ![Big O Graph](https://i.imgur.com/l93HkjJ.jpg)
 
-_____
+---
 
 ## Logarithms
 
@@ -63,4 +63,4 @@ And same thing if the target value is lower than the probe element, it will perf
 This type of algorithm is called O(log N).<br>
 This technique is more efficient because it essentially cuts the data set in half, until it can no longer split the data. A data set containing 1,000 items, can take 3 seconds to complete with this method.
 
-_____
+---

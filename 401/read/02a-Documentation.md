@@ -2,22 +2,22 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> **401**: [Home](/c401home.md)
+> **401**: [Home](https://bit.ly/3EcMrF6)
 |
-[PreWork](/401/PreworkRM.md)
+[PreWork](https://bit.ly/3jzkAa1)
 |
-[Reading](/401/ReadingRM.md)
+[Reading](https://bit.ly/3b8DLDc)
 |
-[Class Notes](/401/ClassRM.md)
+[Class Notes](https://bit.ly/3Eglbpb)
 |
-[DSA Code Challenges](https://mistidinzy.github.io/data-structures-and-algorithms/)
+[DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-_____
+---
 
 [Art of Readme](https://github.com/hackergrrl/art-of-readme)
 
-_____
+---
 
 [ReadMe - Best Practices](https://github.com/jehna/readme-best-practices)
 
@@ -27,4 +27,4 @@ curl https://raw.githubusercontent.com/jehna/readme-best-practices/master/README
 
 [401: Resources - README Templates](https://github.com/DeltaVCode/cedar-c-do-401d5/tree/main/resources/README-templates)
 
-_____
+---
