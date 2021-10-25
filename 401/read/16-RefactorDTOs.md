@@ -27,12 +27,12 @@
 
 Usually used as a container to encapsulate data, and pass it from one layer of an application to another.
 
-If you're using models to pass data between layers, and sending data back to the "presentation layer", then you are explosing the internal data structures of your app, which is not ideal and creates a major design flaw in the application.
+If you're using models to pass data between layers, and sending data back to the "presentation layer", then you are exposing the internal data structures of your app, which is not ideal and creates a major design flaw in the application.
 
 Decoupling your layers with DTOs will make life easier when implementing APIs, MVC apps, etc.
 
 Another reason to use DTOs is **data hiding**.
 
-Using DTOs, you can return only the data that is requested.
+* Using DTOs, you can return only the data that is requested.
 
 ---

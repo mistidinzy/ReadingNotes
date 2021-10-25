@@ -23,21 +23,24 @@
 
 ---
 
+## Data Transfer Objects
+
+***A class of classes that only exist for shuttling data around. Not considered a core part of our model.***
+
 Data Transfer Objects allow us to adhere to stricter and more curated data contract between the client code and the API.
 
-## Learning Objectives
+They do not contain any business logic, they only have simple getters and setters.
 
-### Students will be able to
+* **Why DTOs are necessary**
 
-#### Describe and Define
+  * Encapsulate data
 
-* Why DTOs are necessary
-* What problems DTOs solve
-* The proper wiring of inbound and outbound DTOs
+  * Reduce number of method calls into a single call
 
-#### Execute
+* **What problems DTOs solve**
 
-* Apply an outbound DTO to a complex API route, that involves joined data
-* Apply an inbound DTO to a POST route that affects multiple tables
+* They improve performance and bring costs down.
+* They flatten object hierarchy for easier data transfer.
+* Can exclude certain properties you do not wish to pass onto the UI layer.
 
 ---
