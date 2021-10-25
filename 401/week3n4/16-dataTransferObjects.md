@@ -44,3 +44,5 @@ They do not contain any business logic, they only have simple getters and setter
 * Can exclude certain properties you do not wish to pass onto the UI layer.
 
 ---
+
+---

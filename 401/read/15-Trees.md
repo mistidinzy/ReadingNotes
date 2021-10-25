@@ -86,10 +86,24 @@ There are two categories of traversals when it comes to Trees:
 * Depth First
 * Breadth First
 
-### Depth First
+---
 
-"**Depth First**" traversal is when we prioritize going through the depth (height) of the tree first.
+## PreOrder Traversal
 
-### Breadth First
+* Visit the root
+* Traverse the left subtree
+* Traverse the right subtree
+
+## InOrder Traversal
+
+* Traverse the left subtree
+* Visit the root
+* Traverse the right subtree
+
+## PostOrder Traversal
+
+* Visit the left subtree
+* Visit the right subtree
+* Visit the root
 
 ---
