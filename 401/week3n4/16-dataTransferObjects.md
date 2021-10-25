@@ -31,13 +31,13 @@ Data Transfer Objects allow us to adhere to stricter and more curated data contr
 
 #### Describe and Define
 
-- Why DTOs are necessary
-- What problems DTOs solve
-- The proper wiring of inbound and outbound DTOs
+* Why DTOs are necessary
+* What problems DTOs solve
+* The proper wiring of inbound and outbound DTOs
 
 #### Execute
 
-- Apply an outbound DTO to a complex API route, that involves joined data
-- Apply an inbound DTO to a POST route that affects multiple tables
+* Apply an outbound DTO to a complex API route, that involves joined data
+* Apply an inbound DTO to a POST route that affects multiple tables
 
 ---
