@@ -15,6 +15,12 @@
 
 ---
 
+## Deploying with Azure
+
+[Azure Deployment Checklist](https://github.com/DeltaVCode/cedar-c-do-401d5/blob/main/class-17/resources/azure-deployment.md)
+
+---
+
 ## Views
 
 **What is a view?**
