@@ -39,12 +39,6 @@
 * Deploy an application to Azure
 * Generate "living" documentation with Swagger
 
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->
-
-## NOTES
-
 ### Swagger
 
 The [Swagger Quickstart](./resources/swagger-quickstart.md) will provide some basic steps help us to create live documentation using Swagger definitions.
