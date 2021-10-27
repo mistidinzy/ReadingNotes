@@ -36,3 +36,7 @@ ASP.NET Core Identity was created to help with the security and management of us
 - Wiring up Identity Core
 
 ---
+
+- Install dependency - Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+---
