@@ -23,27 +23,27 @@
 
 > ### Class 01 - Intro to C\#
 >
-* [Lecture - C# Basics](week1n2/01-cSharpBasics.md)
-* [Lecture - Starting Visual Studio](week1n2/1a-startingVS.md)
-* [Lab - Debugging Practice](week1n2/01b-debuggingPractice.md)
+* [Lecture - C# Basics](class/week1n2/01-cSharpBasics.md)
+* [Lecture - Starting Visual Studio](class/week1n2/1a-startingVS.md)
+* [Lab - Debugging Practice](class/week1n2/01b-debuggingPractice.md)
 >
 > ### Class 02 - Unit Testing & Documentation
 >
-* [Lecture - Unit Testing](week1n2/02-unitTesting.md)
+* [Lecture - Unit Testing](class/week1n2/02-unitTesting.md)
 >
 > ### Class 03 - File Manipulationg & System IO
 >
-* [Lecture - File Manipulation](week1n2/03-systemIO.md)
+* [Lecture - File Manipulation](class/week1n2/03-systemIO.md)
 >
 > ### Class 04 - Classes and Objects
 >
-* [Lecture - Classes & Objects](week1n2/04-classesObjects.md)
+* [Lecture - Classes & Objects](class/week1n2/04-classesObjects.md)
 <!-- * [Lab & Challenges](week1n2/04-Other.md) -->
 >
 > ### Class 05 - Linked Lists
 >
-* [Career Workshop - Resume](week1n2/career/01-resume.md)
-* [Lecture - Linked List](week1n2/05-linkedlists.md)
+* [Career Workshop - Resume](class/week1n2/career/01-resume.md)
+* [Lecture - Linked List](class/week1n2/05-linkedlists.md)
 
 ---
 
@@ -51,24 +51,24 @@
 
 > ### Class 06 - Object-Oriented Principles
 >
-* [Lecture - OOP](week1n2/06-oop.md)
+* [Lecture - OOP](class/week1n2/06-oop.md)
 >
 > ### Class 07 - Interfaces
 >
-* [Lecture - Interfaces](week1n2/07-interfaces.md)
+* [Lecture - Interfaces](class/week1n2/07-interfaces.md)
 >
 > ### Class 08 - Collections
 >
-* [Lecture - Collections](week1n2/08-collections.md)
+* [Lecture - Collections](class/week1n2/08-collections.md)
 >
 > ### Class 09 - LINQ
 >
-* [Lecture - LINQ](week1n2/09-LINQ.md)
+* [Lecture - LINQ](class/week1n2/09-LINQ.md)
 >
 > ### Class 10 - Stacks & Queues
 >
-* [Lecture - Stacks & Queues](week1n2/10-stacks-queues.md)
-* [Career Workshop - Job Search](week1n2/career/02-jobsearch.md)
+* [Lecture - Stacks & Queues](class/week1n2/10-stacks-queues.md)
+* [Career Workshop - Job Search](class/week1n2/career/02-jobsearch.md)
 
 ---
 
@@ -76,24 +76,24 @@
 
 > ### Class 11 - Introduction to Databases and ERDs
 >
-* [Databases](week3n4/11-databases.md)
+* [Databases](class/week3n4/11-databases.md)
 >
 > ### Class 12 - Entity Framework and APIs
 >
-* [Entity Framework and APIs](week3n4/12-entityFramework.md)
+* [Entity Framework and APIs](class/week3n4/12-entityFramework.md)
 >
 >
 > ### Class 13 - Dependency Injection & Repository Design Pattern
 >
-* [Dependency Injection](week3n4/13-dependencyInjection.md)
+* [Dependency Injection](class/week3n4/13-dependencyInjection.md)
 >
 > ### Class 14 - Navigation Properties and Routing
 >
-* [Navigation and Routing](week3n4/14.md)
+* [Navigation and Routing](class/week3n4/14.md)
 >
 > ### Class 15 - Data Structures and Career Coaching
 >
-* [Career Workshop - What's your WHY](week3n4/career/purpose.md)
+* [Career Workshop - What's your WHY](class/week3n4/career/purpose.md)
 * [Career Workshop - Personal Pitches](pages/html/pitchish.html)
 
 ---
@@ -102,47 +102,20 @@
 
 > ### Class 16 - Data Transfer Objects (DTOs)
 >
-* [X](week3n4/16.md)
+* [Data Transfer Objects](class/week3n4/16-dataTransferObjects.md)
 >
 > ### Class 17 - Testing and Swagger and Deployment
 >
-* [X](week3n4/17.md)
+* [Testing & Swagger Deployment](class/week3n4/17-testingSwagger.md)
 >
 > ### Class 18 - Identity
 >
-* [X](week3n4/18.md)
+* [Identity](class/week3n4/18-identity.md)
 >
 > ### Class 19 - Roles, Claims and JWT Tokens
 >
-* [X](week3n4/19.md)
+* [Roles, Claims and Tokens](class/week3n4/19-rolesClaimsTokens.md)
 >
-> ### Class 20 - Project Kickoff
->
-* [X](week3n4/20.md)
-
----
-
-## Week Five - Midterm Project
-
-> ### Class 21
->
-* [X](week5n6/21a.md)
->
-> ### Class 22
->
-* [X](week5n6/22.md)
->
-> ### Class 23
->
-* [X](week5n6/23.md)
->
-> ### Class 24
->
-* [X](week5n6/24.md)
->
-> ### Class 25
->
-* [X](week5n6/25.md)
 
 ---
 
@@ -150,23 +123,23 @@
 
 > ### Class 26 - Intro to MVC
 >
-* [X](week5n6/26.md)
+* [Intro to MVC](class/week3n4/26-introToMVC.md)
 >
 > ### Class 27
 >
-* [X](week5n6/27.md)
+* [X](class/week5n6/27.md)
 >
 > ### Class 28
 >
-* [X](week5n6/28.md)
+* [X](class/week5n6/28.md)
 >
 > ### Class 29
 >
-* [X](week5n6/29.md)
+* [X](class/week5n6/29.md)
 >
 > ### Class 30
 >
-* [X](week5n6/30.md)
+* [X](class/week5n6/30.md)
 
 ---
 
@@ -174,23 +147,23 @@
 
 > ### Class 31
 >
-* [X](week7n8/31.md)
+* [X](class/week7n8/31.md)
 >
 > ### Class 32
 >
-* [X](week7n8/32.md)
+* [X](class/week7n8/32.md)
 >
 > ### Class 33
 >
-* [X](week7n8/33.md)
+* [X](class/week7n8/33.md)
 >
 > ### Class 34
 >
-* [X](week7n8/34.md)
+* [X](class/week7n8/34.md)
 >
 > ### Class 35
 >
-* [X](week7n8/35.md)
+* [X](class/week7n8/35.md)
 
 ---
 
@@ -198,23 +171,23 @@
 
 > ### Class 36
 >
-* [X](week7n8/36.md)
+* [X](class/week7n8/36.md)
 >
 > ### Class 37
 >
-* [X](week7n8/37.md)
+* [X](class/week7n8/37.md)
 >
 > ### Class 38
 >
-* [X](week7n8/38.md)
+* [X](class/week7n8/38.md)
 >
 > ### Class 39
 >
-* [X](week7n8/39.md)
+* [X](class/week7n8/39.md)
 >
 > ### Class 40
 >
-* [X](week7n8/40.md)
+* [X](class/week7n8/40.md)
 
 ---
 
@@ -222,23 +195,23 @@
 
 > ### Class 41
 >
-* [X](week9n10/41.md)
+* [X](class/week9n10/41.md)
 >
 > ### Class 42
 >
-* [X](week9n10/42.md)
+* [X](class/week9n10/42.md)
 >
 > ### Class 43
 >
-* [X](week9n10/43.md)
+* [X](class/week9n10/43.md)
 >
 > ### Class 44
 >
-* [X](week9n10/44.md)
+* [X](class/week9n10/44.md)
 >
 > ### Class 45
 >
-* [X](week9n10/45.md)
+* [X](class/week9n10/45.md)
 
 ---
 

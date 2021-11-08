@@ -1,17 +1,6 @@
 # Object Oriented Principles
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-
-> **401**: [Home](https://bit.ly/3EcMrF6)
-|
-[PreWork](https://bit.ly/3jzkAa1)
-|
-[Reading](https://bit.ly/3b8DLDc)
-|
-[Class Notes](https://bit.ly/3Eglbpb)
-|
-[DSA Code Challenges](https://bit.ly/3GjNoNG)
->
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) | [**401 Home**](https://bit.ly/3EcMrF6)
 
 ---
 
@@ -32,7 +21,7 @@ So, if **Class C**  is derived from **Class B**, which is derived from **Class A
 When you define a class, which will derive from another class, the derived class will gain all of the members of that base class.
 ***Except*** for its constructors and finalizers.
 
-_____
+---
 
 ## Abstract
 
@@ -77,7 +66,7 @@ Because they cannot be used as a base class, some run-time optimizations can mak
 <!-- Note To Self: Translate this -->
 A method, indexer, property or event, on a derived class that is overriding a virtual member of the base class can declare that member as sealed.
 
-_____
+---
 
 ## Polymorphism
 
@@ -85,4 +74,4 @@ _____
 
 ## C\# in a Nutshell - Chapter 3
 
-_____
+---

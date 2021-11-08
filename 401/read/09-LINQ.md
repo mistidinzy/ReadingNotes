@@ -1,23 +1,8 @@
 # LINQ
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-
-> **401**: [Home](https://bit.ly/3EcMrF6)
-|
-[PreWork](https://bit.ly/3jzkAa1)
-|
-[Reading](https://bit.ly/3b8DLDc)
-|
-[Class Notes](https://bit.ly/3Eglbpb)
-|
-[DSA Code Challenges](https://bit.ly/3GjNoNG)
->
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) | [**401 Home**](https://bit.ly/3EcMrF6)
 
 ---
-
-[Delegates](/401/class/09a-delegates.md)
-
-_____
 
 ## What Is LINQ?
 
@@ -35,7 +20,7 @@ _____
 * A query is an expression that, when enumerated, transforms sequences with query operators.
 * The standard query operators are implemented as extension methods, so we can call 'WHERE' directly onto names.
 
-_____
+---
 
 ### Query Expressions
 
@@ -51,7 +36,7 @@ IEnumerable<string> filteredNames = System.Linq.Enumerable.Where(names, n => n.L
 foreach (string n in filteredNames){Console.WriteLine (n);}
 ```
 
-_____
+---
 
 ## Lambda Statements
 
@@ -98,4 +83,4 @@ foreach (var x in bookAuthorCollection)
     Console.WriteLine("Book title - {0}, First author {1}", x.Book.Title, x.Author.FirstName);
 ```
 
-_____
+---

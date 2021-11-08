@@ -1,23 +1,12 @@
 # Unit Tests
 
-## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
-
-> **401**: [Home](https://bit.ly/3EcMrF6)
-|
-[PreWork](https://bit.ly/3jzkAa1)
-|
-[Reading](https://bit.ly/3b8DLDc)
-|
-[Class Notes](https://bit.ly/3Eglbpb)
-|
-[DSA Code Challenges](https://bit.ly/3GjNoNG)
->
+## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/) | [**401 Home**](https://bit.ly/3EcMrF6)
 
 ---
 
 ## What is Unit Testing?
 
-### Unit tests are designed to test the developer's code logic.
+### Unit tests are designed to test the developer's code logic
 
 First, a *unit* is a file grouping functions and classes that logically belong together. In C#, you can think of a unit as a method.
 

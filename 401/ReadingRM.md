@@ -43,7 +43,7 @@
 >
 > **11** [ERDs](read/11-ERDs.md)
 
-_____
+---
 
 > **12** [Entity Framework Core and APIs](read/12-EntFrmAPIs.md)
 >
@@ -61,9 +61,40 @@ _____
 >
 > **18** [Identity / Authentication](read/18-IdentityAuth.md)
 >
-> **19** [Roles, Claims, Tokens](read/19-Roles.md)
+> **19** [Roles, Claims, Tokens](read/19-RolesClaimsTokens.md)
 >
 > **Midterm**
 >
+> **26** [Intro to MVC]()
+>
+> **27** [MVC Forms]()
+>
+> **28** [Auth & Cookies]()
+>
+> **29** [Azure Blobs]()
+>
+> **30** [Hash Tables]()
+>
+> **31** [Razor Pages]()
+>
+> **32** [View Components]()
+>
+> **33** [Sendgrid]()
+>
+> **34** [Payment Processing]()
+>
+> **35** [Graphs]()
+>
+> **36** [Xamarin]()
+>
+> **37** [Xamarin Forms]()
+>
+> **41** [Unity]()
+>
+> **42** [Unity]()
+>
+> **43** [OSS Contributions]()
+>
+> **Final**
 
-_____
+---
