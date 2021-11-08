@@ -42,9 +42,7 @@
 > **10** [Stacks & Queues](read/10-StacksQs.md)
 >
 > **11** [ERDs](read/11-ERDs.md)
-
----
-
+>
 > **12** [Entity Framework Core and APIs](read/12-EntFrmAPIs.md)
 >
 > **13** [Dependency Injection](read/13-DependencyInjection.md)
@@ -63,9 +61,9 @@
 >
 > **19** [Roles, Claims, Tokens](read/19-RolesClaimsTokens.md)
 >
-> **Midterm**
+> [**Midterm Project**](https://github.com/401-Midterm-Project)
 >
-> **26** [Intro to MVC]()
+> **26** [Intro to MVC](read/20-IntroToMVC.md)
 >
 > **27** [MVC Forms]()
 >
