@@ -63,35 +63,35 @@
 >
 > [**Midterm Project**](https://github.com/401-Midterm-Project)
 >
-> **26** [Intro to MVC](read/20-IntroToMVC.md)
+> **26** [Intro to MVC](read2/20-IntroToMVC.md)
 >
-> **27** [MVC Forms]()
+> **27** [MVC Forms](read2/)
 >
-> **28** [Auth & Cookies]()
+> **28** [Auth & Cookies](read2/)
 >
-> **29** [Azure Blobs]()
+> **29** [Azure Blobs](read2/)
 >
-> **30** [Hash Tables]()
+> **30** [Hash Tables](read2/)
 >
-> **31** [Razor Pages]()
+> **31** [Razor Pages](read2/)
 >
-> **32** [View Components]()
+> **32** [View Components](read2/)
 >
-> **33** [Sendgrid]()
+> **33** [Sendgrid](read2/)
 >
-> **34** [Payment Processing]()
+> **34** [Payment Processing](read2/)
 >
-> **35** [Graphs]()
+> **35** [Graphs](read2/)
 >
-> **36** [Xamarin]()
+> **36** [Xamarin](read2/)
 >
-> **37** [Xamarin Forms]()
+> **37** [Xamarin Forms](read2/)
 >
-> **41** [Unity]()
+> **41** [Unity](read2/)
 >
-> **42** [Unity]()
+> **42** [Unity](read2/)
 >
-> **43** [OSS Contributions]()
+> **43** [OSS Contributions](read2/)
 >
 > **Final**
 
