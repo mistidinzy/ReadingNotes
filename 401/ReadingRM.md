@@ -67,11 +67,11 @@
 
 > **26** [Intro to MVC](read2/26-IntroToMVC.md)
 >
-> **27** [MVC Forms](read2/)
+> **27** [MVC Forms](read2/27-MVCForms.md)
 >
-> **28** [Auth & Cookies](read2/)
+> **28** [Auth & Cookies](read2/28-AuthCookies.md)
 >
-> **29** [Azure Blobs](read2/)
+> **29** [Azure Blobs](read2/29-AzureBlobs.md)
 >
 > **30** [Hash Tables](read2/)
 >
