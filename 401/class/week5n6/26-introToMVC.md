@@ -1,4 +1,4 @@
-# Intro to MVC
+# Class 26: Intro to MVC
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -30,13 +30,13 @@
 - Code management through ADO
 - Azure Deployment using Pipelines
 
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->
-
 ## Notes
 
 ---
+
+## Setting up an MVC App
+
+[MVC Setup Guide](https://github.com/DeltaVCode/cedar-c-do-401d5/blob/main/class-26/resources/mvc-setup.md)
 
 ### MVC
 
@@ -69,7 +69,7 @@ view page.
 
 ---
 
-### Azure Dev Ops
+<!-- ### Azure Dev Ops
 
 Azure Dev Ops is a popular tool that is used amongst
 many developer teams to manage source code and tasks of projects.
@@ -83,5 +83,18 @@ Resources:
 
 1. [Azure Dev Ops](https://dev.azure.com/)
 1. [Team Explorer Reference](https://docs.microsoft.com/en-us/azure/devops/user-guide/work-team-explorer?view=azure-devops)
+
+--- -->
+
+## ??
+
+- Cache busting
+- Tag helpers, asp-action, asp-controller
+
+---
+
+## More Notes
+
+**Razor**: @ says use some C# here
 
 ---

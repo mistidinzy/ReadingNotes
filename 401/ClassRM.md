@@ -116,28 +116,29 @@
 >
 * [Roles, Claims and Tokens](class/week3n4/19-rolesClaimsTokens.md)
 >
+> ### Class 20-25 &middot; Midterm Project
 
 ---
 
 ## Week Six - Sprint 1: Authentication/Authorization
 
-> ### Class 26 - Intro to MVC
+> ### 11.08 &middot; Class 26 &middot; Intro to MVC
 >
-* [Intro to MVC](class/week3n4/26-introToMVC.md)
+* [Intro to MVC](class/week5n6/26-introToMVC.md)
 >
-> ### Class 27
+> ### 11.09 &middot; Class 27 &middot;
 >
 * [X](class/week5n6/27.md)
 >
-> ### Class 28
+> ### 11.10 &middot; Class 28 &middot;
 >
 * [X](class/week5n6/28.md)
 >
-> ### Class 29
+> ### 11.11 &middot; Class 29 &middot;
 >
 * [X](class/week5n6/29.md)
 >
-> ### Class 30
+> ### 11.12 &middot; Class 30
 >
 * [X](class/week5n6/30.md)
 

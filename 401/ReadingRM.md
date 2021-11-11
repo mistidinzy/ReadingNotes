@@ -61,9 +61,11 @@
 >
 > **19** [Roles, Claims, Tokens](read/19-RolesClaimsTokens.md)
 >
-> [**Midterm Project**](https://github.com/401-Midterm-Project)
->
-> **26** [Intro to MVC](read2/20-IntroToMVC.md)
+> **20-25** [Midterm Project](https://github.com/401-Midterm-Project)
+
+---
+
+> **26** [Intro to MVC](read2/26-IntroToMVC.md)
 >
 > **27** [MVC Forms](read2/)
 >
