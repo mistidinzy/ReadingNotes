@@ -73,7 +73,7 @@
 >
 > **29** [Azure Blobs](read2/29-AzureBlobs.md)
 >
-> **30** [Hash Tables](read2/)
+> **30** [Hash Tables](read2/30-HashTables.md)
 >
 > **31** [Razor Pages](read2/)
 >
