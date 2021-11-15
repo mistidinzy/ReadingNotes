@@ -1,4 +1,4 @@
-# Class 30: Hashtables
+# Class 35: Career Workshop & Graphs
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 

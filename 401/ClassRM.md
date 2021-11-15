@@ -126,39 +126,39 @@
 >
 * [Intro to MVC](class/week5n6/26-introToMVC.md)
 >
-> ### 11.09 &middot; Class 27 &middot;
+> ### 11.09 &middot; Class 27 &middot; Forms
 >
-* [X](class/week5n6/27.md)
+* [X](class/week5n6/27-Forms.md)
 >
-> ### 11.10 &middot; Class 28 &middot;
+> ### 11.10 &middot; Class 28 &middot; Authorization & Cookies
 >
-* [X](class/week5n6/28.md)
+* [X](class/week5n6/28-AuthAndCookies.md)
 >
-> ### 11.11 &middot; Class 29 &middot;
+> ### 11.11 &middot; Class 29 &middot; Azure Blob Storage
 >
-* [X](class/week5n6/29.md)
+* [X](class/week5n6/29-AzureBlobs.md)
 >
-> ### 11.12 &middot; Class 30
+> ### 11.12 &middot; Class 30 &middot; Career Workshop & Hashtables
 >
-* [X](class/week5n6/30.md)
+* [X](class/week5n6/30-Hashtables.md)
 
 ---
 
 ## Week Seven - Sprint 2
 
-> ### Class 31
+> ### Class 31 &middot; Razor Pages
 >
-* [X](class/week7n8/31.md)
+* [Razor Pages](class/week7n8/31-RazorPages.md)
 >
-> ### Class 32
+> ### Class 32 &middot; View Components
 >
 * [X](class/week7n8/32.md)
 >
-> ### Class 33
+> ### Class 33 &middot; Sendgrid
 >
 * [X](class/week7n8/33.md)
 >
-> ### Class 34
+> ### Class 34 &middot; Payment Processing
 >
 * [X](class/week7n8/34.md)
 >
