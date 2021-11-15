@@ -75,19 +75,19 @@
 >
 > **30** [Hash Tables](read2/30-HashTables.md)
 >
-> **31** [Razor Pages](read2/)
+> **31** [Razor Pages](read2/31-RazorPages.md)
 >
-> **32** [View Components](read2/)
+> **32** [View Components](read2/32-ViewComponents.md)
 >
-> **33** [Sendgrid](read2/)
+> **33** [Sendgrid](read2/33-Sendgrid.md)
 >
-> **34** [Payment Processing](read2/)
+> **34** [Payment Processing](read2/34-PaymentProcessing.md)
 >
-> **35** [Graphs](read2/)
+> **35** [Graphs](read2/35-Graphs.md)
 >
-> **36** [Xamarin](read2/)
+> **36** [Xamarin](read2/36-Xamarin.md)
 >
-> **37** [Xamarin Forms](read2/)
+> **37** [Xamarin Forms](read2/37-XamarinForms.md)
 >
 > **41** [Unity](read2/)
 >
