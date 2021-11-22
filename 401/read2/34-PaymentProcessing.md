@@ -7,9 +7,13 @@
 ## Reading Links
 
 [How to read technical documentation](https://bit.ly/3HIX5Gc)
+
 [How Credit Card Processing Works](https://bit.ly/3l0FKP3)
+
 [How ONLINE Credit Card Processing Works](https://bit.ly/3nEEBhW)
+
 [Authorize.net Developer Docs](https://bit.ly/3HJzJjr)
+
 [Authorize.net .NET SDK](https://bit.ly/3FCklno)
 
 ---
@@ -64,5 +68,11 @@ Some of these are:
 * One-time setup fee ($100-200)
 * Recurring monthly fees ($20-60)
 * Per-transaction fees -- **which may either be fixed or a percentage**
+
+---
+
+![Process Stage 1 - Authorization](card01.png)
+![Process Stage 2 - Authetication](card02.png)
+![Process Stage 3 - Clearing & Settlement](card03.png)
 
 ---
