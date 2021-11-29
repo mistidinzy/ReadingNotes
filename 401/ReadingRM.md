@@ -81,15 +81,19 @@
 >
 > **33** [Sendgrid](read2/33-Sendgrid.md)
 >
-> **34** [Payment Processing](read2/34-PaymentProcessing.md)
+> **34** [Graphs](read2/34-Graphs.md)
 >
-> **35** [Graphs](read2/34a-Graphs.md)
+> **35** [Payment Processing](read2/35-PaymentProcessing.md)
 >
-> **36** [Xamarin](read2/36-Xamarin.md)
+> **36** [JamStack](read2/36-JamStack.md)
 >
-> **37** [Xamarin Forms](read2/37-XamarinForms.md)
+> **37** [React Refresh](read2/37-ReactRefresh.md)
+>
+> **38** [Xamarin](read2/37-Xamarin.md)
 >
 > **41** [Unity](read2/)
+>
+> **42** [Ethics in Tech](read2/)
 >
 > **42** [Unity](read2/)
 >
