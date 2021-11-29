@@ -80,6 +80,7 @@ If you are serving an HTML file, without it having to be compiled on a server at
 - [Nift](https://www.nift.cc/)
 - [Scully](https://github.com/scullyio/scully)
 - [Next.js](https://jamstack.org/generators/next/)
+
 - [Several Others](https://jamstack.org/generators/)
 
 ---
