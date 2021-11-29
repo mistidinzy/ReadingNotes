@@ -72,7 +72,7 @@ Some of these are:
 ---
 
 ![Process Stage 1 - Authorization](card01.png)
-![Process Stage 2 - Authetication](card02.png)
+![Process Stage 2 - Authentication](card02.png)
 ![Process Stage 3 - Clearing & Settlement](card03.png)
 
 ---
