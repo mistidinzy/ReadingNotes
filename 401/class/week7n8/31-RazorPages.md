@@ -15,7 +15,11 @@
 
 ---
 
-Razor Pages is a newer, simplified web application programming model. It removes much of the ceremony of ASP.NET MVC by adopting a file-based routing approach. Each Razor Pages file found under the Pages directory equates to an endpoint.
+Razor Pages is a newer, simplified web application programming model.
+
+It removes much of the ceremony of ASP.NET MVC by adopting a file-based routing approach.
+
+Each Razor Pages file found under the Pages directory equates to an endpoint.
 
 ## Learning Objectives
 

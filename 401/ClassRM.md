@@ -19,7 +19,7 @@
 
 ---
 
-## Week One - Fundamentals
+## Week 01 &middot; C# Fundamentals
 
 > ### Class 01 - Intro to C\#
 >
@@ -47,7 +47,7 @@
 
 ---
 
-## Week Two - Advanced Concepts
+## Week 02 &middot; C# Advanced Concepts
 
 > ### Class 06 - Object-Oriented Principles
 >
@@ -72,7 +72,7 @@
 
 ---
 
-## Week Three - MVC & Entity Framework Core
+## Week 03 &middot; MVC & Entity Framework Core
 
 > ### Class 11 - Introduction to Databases and ERDs
 >
@@ -98,7 +98,7 @@
 
 ---
 
-## Week Four - Repository Design Pattern & APIs
+## Week 04 &middot; Repository Design Pattern & APIs
 
 > ### Class 16 - Data Transfer Objects (DTOs)
 >
@@ -120,7 +120,7 @@
 
 ---
 
-## Week Six - Sprint 1: Authentication/Authorization
+## Week 06 &middot; ECommerce Sprint 1
 
 > ### 11.08 &middot; Class 26 &middot; Intro to MVC
 >
@@ -128,23 +128,23 @@
 >
 > ### 11.09 &middot; Class 27 &middot; Forms
 >
-* [X](class/week5n6/27-Forms.md)
+* [](class/week5n6/27-Forms.md)
 >
 > ### 11.10 &middot; Class 28 &middot; Authorization & Cookies
 >
-* [X](class/week5n6/28-AuthAndCookies.md)
+* [Authorization & Cookies](class/week5n6/28-AuthAndCookies.md)
 >
 > ### 11.11 &middot; Class 29 &middot; Azure Blob Storage
 >
-* [X](class/week5n6/29-AzureBlobs.md)
+* [Azure Blob Storage](class/week5n6/29-AzureBlobs.md)
 >
 > ### 11.12 &middot; Class 30 &middot; Career Workshop & Hashtables
 >
-* [X](class/week5n6/30-Hashtables.md)
+* [Career Workshop and Hashtables](class/week5n6/30-Hashtables.md)
 
 ---
 
-## Week Seven - Sprint 2
+## Week 07 &middot; ECommerce Sprint 2
 
 > ### Class 31 &middot; Razor Pages
 >
@@ -152,31 +152,31 @@
 >
 > ### Class 32 &middot; View Components
 >
-* [X](class/week7n8/32.md)
+* [View Components](class/week7n8/32-ViewComponents.md)
 >
 > ### Class 33 &middot; Sendgrid
 >
-* [X](class/week7n8/33.md)
+* [Sendgrid](class/week7n8/33-Sendgrid.md)
 >
 > ### Class 34 &middot; Payment Processing
 >
-* [X](class/week7n8/34.md)
+* [Payment Processing](class/week7n8/34-PaymentProcessing.md)
 >
-> ### Class 35
+> ### Class 35 &middot; Graphs
 >
-* [X](class/week7n8/35.md)
+* [Career Workshop & Graphs](class/week7n8/35-CWandGraphs.md)
 
 ---
 
-## Week Eight - Sprint 3: Azure
+## Week 08 &middot; React Refresh
 
 > ### Class 36
 >
-* [X](class/week7n8/36.md)
+* [React Refresh](class/week7n8/36.md)
 >
 > ### Class 37
 >
-* [X](class/week7n8/37.md)
+* [React Hooks](class/week7n8/37.md)
 >
 > ### Class 38
 >
@@ -192,7 +192,7 @@
 
 ---
 
-## Week Nine - MISC
+## Week Nine &middot; MISC
 
 > ### Class 41
 >
@@ -216,6 +216,6 @@
 
 ---
 
-## Week 10 - Final Project Week
+## Week 10 &middot; Final Project Week
 
 ---
