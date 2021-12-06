@@ -122,23 +122,23 @@
 
 ## Week 06 &middot; ECommerce Sprint 1
 
-> ### 11.08 &middot; Class 26 &middot; Intro to MVC
+> ### Class 26 &middot; Intro to MVC
 >
 * [Intro to MVC](class/week5n6/26-introToMVC.md)
 >
-> ### 11.09 &middot; Class 27 &middot; Forms
+> ### Class 27 &middot; Forms
 >
 * [](class/week5n6/27-Forms.md)
 >
-> ### 11.10 &middot; Class 28 &middot; Authorization & Cookies
+> ### Class 28 &middot; Authorization & Cookies
 >
 * [Authorization & Cookies](class/week5n6/28-AuthAndCookies.md)
 >
-> ### 11.11 &middot; Class 29 &middot; Azure Blob Storage
+> ### Class 29 &middot; Azure Blob Storage
 >
 * [Azure Blob Storage](class/week5n6/29-AzureBlobs.md)
 >
-> ### 11.12 &middot; Class 30 &middot; Career Workshop & Hashtables
+> ### Class 30 &middot; Career Workshop & Hashtables
 >
 * [Career Workshop and Hashtables](class/week5n6/30-Hashtables.md)
 
@@ -170,25 +170,25 @@
 
 ## Week 08 &middot; React Refresh
 
-> ### Class 36
+> ### Class 36 &middot; React Function Components
 >
-* [React Refresh](class/week7n8/36.md)
+* [React Function Components](class/week7n8/36.md)
 >
-> ### Class 37
+> ### Class 37 &middot; React Hooks
 >
 * [React Hooks](class/week7n8/37.md)
 >
-> ### Class 38
+> ### Class 38 &middot; React Context (Auth)
 >
-* [X](class/week7n8/38.md)
+* [React Context (Auth)](class/week7n8/38.md)
 >
-> ### Class 39
+> ### Class 39 &middot; React Authenticated API
 >
-* [X](class/week7n8/39.md)
+* [React Authenticated API](class/week7n8/39-ReactAPI.md)
 >
-> ### Class 40
+> ### Class 40 &middot; Career Workshop Presentation Day
 >
-* [X](class/week7n8/40.md)
+* [Career Workshop - Presentation Day](class/week7n8/career/presentations.md)
 
 ---
 
