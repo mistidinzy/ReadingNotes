@@ -13,9 +13,7 @@
 [DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
----
-
-> [Keith Notes](https://bit.ly/311v6kd)
+<!-- > [Keith Notes](https://bit.ly/311v6kd) -->
 
 ---
 
@@ -128,7 +126,7 @@
 >
 > ### Class 27 &middot; Forms
 >
-* [](class/week5n6/27-Forms.md)
+* [Forms](class/week5n6/27-Forms.md)
 >
 > ### Class 28 &middot; Authorization & Cookies
 >
@@ -172,15 +170,15 @@
 
 > ### Class 36 &middot; React Function Components
 >
-* [React Function Components](class/week7n8/36.md)
+* [React Function Components](class/week7n8/36-ReactRefresh.md)
 >
 > ### Class 37 &middot; React Hooks
 >
-* [React Hooks](class/week7n8/37.md)
+* [React Hooks](class/week7n8/37-ReactHooks.md)
 >
 > ### Class 38 &middot; React Context (Auth)
 >
-* [React Context (Auth)](class/week7n8/38.md)
+* [React Context (Auth)](class/week7n8/38-ReactContext.md)
 >
 > ### Class 39 &middot; React Authenticated API
 >
@@ -194,25 +192,25 @@
 
 ## Week Nine &middot; MISC
 
-> ### Class 41
+> ### Class 41 - React Native
 >
-* [X](class/week9n10/41.md)
+* [React Native](class/week9n10/41-ReactNative.md)
 >
-> ### Class 42
+> ### Class 42 - React Native
 >
-* [X](class/week9n10/42.md)
+* [React Native](class/week9n10/42-ReactNative2.md)
 >
-> ### Class 43
+> ### Class 43 - Teach Yourself Something New
 >
-* [X](class/week9n10/43.md)
+* [Teach Yourself Something New](class/week9n10/43-TeachYourself.md)
 >
-> ### Class 44
+> ### Class 44 - Teach The Class
 >
-* [X](class/week9n10/44.md)
+* [Teach Yourself](class/week9n10/44-TeachYourself.md)
 >
-> ### Class 45
+> ### Class 45 - Teach The Class What You Learned
 >
-* [X](class/week9n10/45.md)
+* [Teach The Class](class/week9n10/45-TeachTheClass.md)
 
 ---
 
