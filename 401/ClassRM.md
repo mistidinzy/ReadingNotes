@@ -13,8 +13,6 @@
 [DSA Code Challenges](https://bit.ly/3GjNoNG)
 >
 
-<!-- > [Keith Notes](https://bit.ly/311v6kd) -->
-
 ---
 
 ## Week 01 &middot; C# Fundamentals
@@ -204,6 +202,10 @@
 >
 * [Teach Yourself Something New](class/week9n10/43-TeachYourself.md)
 >
+* [Writing Documentation](class/week9n10/LearnTeach/Docs.md)
+>
+* [Python](class/week9n10/LearnTeach.Python.md)
+>
 > ### Class 44 - Teach The Class
 >
 * [Teach Yourself](class/week9n10/44-TeachYourself.md)
@@ -215,5 +217,15 @@
 ---
 
 ## Week 10 &middot; Final Project Week
+
+* [DaytaCare Organization on GitHub](https://github.com/DaytaCare)
+
+* [DaytaCare Planning Repo](https://github.com/DaytaCare/ProjectPlanning)
+
+* [DaytaCare Front End Repo](https://github.com/DaytaCare/DaytaCare-FrontEnd)
+
+* [DaytaCare Back End Repo](https://github.com/DaytaCare/DaytaCare)
+
+* [DaytaCare Deployed Site](https://daytacare.azurewebsites.net/)
 
 ---
