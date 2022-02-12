@@ -22,7 +22,7 @@
 >
 > 🧮 [Computer Architecture & Logic](comparchlogic.md)
 
-_____
+---
 
 ### What is JavaScript
 
@@ -35,9 +35,9 @@ A programming language for adding more complex things on your webpages. Can be u
 3. Write the JavaScript to make it do the things.
 
 APIs: Application Programming Interfaces. Ready-made code blocks that help devs implement programs that would be difficult or impossible to implement otherwise. Usually in one of two categories: Browser APIs and Third-Party APIs.
-    Browser API:
-    Third-Party API:
+Browser API:
+Third-Party API:
 
 Browser will run a block of JavaScript from top to bottom so you have to be mindful of what order you write things in.
 
-_____
+---

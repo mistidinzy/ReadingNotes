@@ -75,6 +75,7 @@ We can initialize an object on creation. This saves space when coding, and somet
 10. Property:
 
 ---
+
 ✨ Common Q - Should something be a Property or a Method?
 
 ---
