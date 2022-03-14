@@ -22,7 +22,7 @@
 >
 > 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
 
-_____
+---
 
 ## Expressions
 
@@ -51,6 +51,10 @@ Javascript has a ton of types of operators.
     - Unary
     - Relational
 
+See more on [Operators & Loops](102/09-OperatorsLoops.md)
+
+---
+
 ## Functions
 
 Functions are a series of statements that form a specific task when together.
@@ -71,4 +75,4 @@ That will look like this:
 
         function hello()
 
-_____
+---
