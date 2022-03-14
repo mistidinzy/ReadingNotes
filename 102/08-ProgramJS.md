@@ -73,6 +73,8 @@ To **call** a function, use the function's name followed by paranthesis.
 
 That will look like this:
 
-        function hello()
+```javascript
+function hello()
+```
 
 ---
