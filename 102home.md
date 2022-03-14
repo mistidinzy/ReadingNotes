@@ -2,25 +2,25 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> 💭 [Growth Mindset](102/growthmindset.md)
+> 💭 [Growth Mindset](102/01-GrowthMindset.md)
 >
-> ✍️ [Learning Markdown](102/learningmarkdown.md)
+> ✍️ [Learning Markdown](102/02-LearningMarkdown.md)
 >
-> 💻 [Coder's Computer](102/coderscomputer.md)
+> 💻 [Coder's Computer](102/03-CodersComputer.md)
 >
-> 🌩️ [Revisions & the Cloud](102/revisionscloud.md)
+> 🌩️ [Revisions & the Cloud](102/04-RevisionsCloud.md)
 >
-> 🏗️ [Structure Webpages with HTML](102/structure.md)
+> 🏗️ [Structure Webpages with HTML](102/05-Structure.md)
 >
-> 🎨 [Design Webpages with CSS](102/designcss.md)
+> 🎨 [Design Webpages with CSS](102/06-DesignCSS.md)
 >
-> ☕ [Dynamic Webpages with JavaScript](102/dynamicjava.md)
+> ☕ [Dynamic Webpages with JavaScript](102/07-DynamicJavascript.md)
 >
-> 🌵 [Programming with JavaScript](102/programjs.md)
+> 🌵 [Programming with JavaScript](102/08-ProgramJS.md)
 >
-> 🤖 [Operators & Loops](102/operloops.md)
+> 🤖 [Operators & Loops](102/09-OperatorsLoops.md)
 >
-> 🧮 [Computer Architecture & Logic](102/comparchlogic.md)
+> 🧮 [Computer Architecture & Logic](102/10-CompArchLogic.md)
 
 _____
 
