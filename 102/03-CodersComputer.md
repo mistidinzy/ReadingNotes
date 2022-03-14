@@ -1,47 +1,47 @@
 # Coder's Computer
-  
+
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> 💭 [Growth Mindset](growthmindset.md)
+> 💭 [Growth Mindset](01-GrowthMindset.md)
 >
-> ✍️ [Learning Markdown](learningmarkdown.md)
+> ✍️ [Learning Markdown](02-LearningMarkdown.md)
 >
-> 💻 [Coder's Computer](coderscomputer.md)
+> 💻 [Coder's Computer](03-CodersComputer.md)
 >
-> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+> 🌩️ [Revisions & the Cloud](04-RevisionsCloud.md)
 >
-> 🏗️ [Structure Webpages with HTML](structure.md)
+> 🏗️ [Structure Webpages with HTML](05-Structure.md)
 >
-> 🎨 [Design Webpages with CSS](designcss.md)
+> 🎨 [Design Webpages with CSS](06-DesignCSS.md)
 >
-> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+> ☕ [Dynamic Webpages with JavaScript](07-DynamicJavascript.md)
 >
-> 🌵 [Programming with JavaScript](programjs.md)
+> 🌵 [Programming with JavaScript](08-ProgramJS.md)
 >
-> 🤖 [Operators & Loops](operloops.md)
+> 🤖 [Operators & Loops](09-OperatorsLoops.md)
 >
-> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
 
 _____
-  
+
 ## InstallFest
 
   Class Two is all about optimizing my computer for coding. I setup my Terminal and installed several programs to help me get started.
-  
+
   **The Terminal I am using is called Windows Powershell ISE.**
 
-  It is an "integrated scripting environment" within Windows that allows me to input code that will make changes on my computer.  
+  It is an "integrated scripting environment" within Windows that allows me to input code that will make changes on my computer.
 
   **WSL (Windows Subsystem for Linux):**
-  
+
   An add-on feature which allows me to use a Linux-based operating system, (such as Ubuntu) connected directly to my terminal.
 
   **Homebrew:**
-  
+
   An add-on tool that makes it easier to install applications onto my computer, right from my terminal.
-  
+
   **Node.js:** Used for building applications with JavaScript.
-  
+
   [Here is a useful guide I found from the Node.js website](https://nodejs.dev/learn)<br>
 
   **NPM:** Another tool used for installing applications/Node.js packages.
@@ -50,15 +50,15 @@ _____
     [What is Git? Explained in 2 minutes!](https://www.youtube.com/watch?v=2ReR1YJrNOM)
 
   I configured Git to connect to my GitHub profile as well.
-  
+
   **Tree:** An add-on I installed that lets me use the command 'tree', so that I can see my files in a tree format.
-  
+
   **ESLint:** A tool used for analyzing my code to help me find and fix errors within that code.
-  
+
   **VSCode:** A code editor made by Microsoft, loaded with helpful extensions I can install that make coding faster, easier, more accurate, etc.
-  
-_____  
-  
+
+_____
+
 ### After InstallFest, I ran the following codes to verify that everything was setup correctly
 
 * code --version
@@ -74,9 +74,9 @@ _____
 
 ## Next
 
-> * [Choosing a Text Editor](/texteditor.md)
-> * [The Command Line](/thecommandline.md)
-> * [Basic Navigation](/basicnavigation.md)
-> * [More About Files](/moreaboutfiles.md)
+> * [Choosing a Text Editor](03a-TextEditor.md)
+> * [The Command Line](03b-TheCommandLine.md)
+> * [Basic Navigation](03c-BasicNavigation.md)
+> * [More About Files](03d-MoreAboutFiles.md)
 
 _____

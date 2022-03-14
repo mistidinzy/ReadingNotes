@@ -2,25 +2,25 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> 💭 [Growth Mindset](growthmindset.md)
+> 💭 [Growth Mindset](01-GrowthMindset.md)
 >
-> ✍️ [Learning Markdown](learningmarkdown.md)
+> ✍️ [Learning Markdown](02-LearningMarkdown.md)
 >
-> 💻 [Coder's Computer](coderscomputer.md)
+> 💻 [Coder's Computer](03-CodersComputer.md)
 >
-> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+> 🌩️ [Revisions & the Cloud](04-RevisionsCloud.md)
 >
-> 🏗️ [Structure Webpages with HTML](structure.md)
+> 🏗️ [Structure Webpages with HTML](05-Structure.md)
 >
-> 🎨 [Design Webpages with CSS](designcss.md)
+> 🎨 [Design Webpages with CSS](06-DesignCSS.md)
 >
-> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+> ☕ [Dynamic Webpages with JavaScript](07-DynamicJavascript.md)
 >
-> 🌵 [Programming with JavaScript](programjs.md)
+> 🌵 [Programming with JavaScript](08-ProgramJS.md)
 >
-> 🤖 [Operators & Loops](operloops.md)
+> 🤖 [Operators & Loops](09-OperatorsLoops.md)
 >
-> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
 
 _____
 
@@ -51,24 +51,24 @@ _____
   ```
 
 ### Wireframe - Rough draft of a web page interface
-  
+
   Can be handdrawn or made using a software depending on designer's preference.
-  
+
   You will also want to create your "user flow",  to get an idea of how someone on your website will   be able to navigate on their own.
-  
+
   Get inspiration from resources such as:
 
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 
-### Semantics - What is the **meaning** of a piece of code  
+### Semantics - What is the **meaning** of a piece of code
 
    Benefits from using correct semantics:
 
 * Search engines use as important keywords to determine a page's search rankings
 * Screen readers use them to help visually impaired users navigate
 * Makes it easier to find meaningful blocks of code
-  
+
   Questions to ask yourself about Semantics:
 
 * What element will best describe the data that I'm going to include?

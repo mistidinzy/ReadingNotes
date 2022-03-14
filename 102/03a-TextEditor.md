@@ -2,28 +2,27 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> 💭 [Growth Mindset](growthmindset.md)
+> 💭 [Growth Mindset](01-GrowthMindset.md)
 >
-> ✍️ [Learning Markdown](learningmarkdown.md)
+> ✍️ [Learning Markdown](02-LearningMarkdown.md)
 >
-> 💻 [Coder's Computer](coderscomputer.md)
+> 💻 [Coder's Computer](03-CodersComputer.md)
 >
-> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+> 🌩️ [Revisions & the Cloud](04-RevisionsCloud.md)
 >
-> 🏗️ [Structure Webpages with HTML](structure.md)
+> 🏗️ [Structure Webpages with HTML](05-Structure.md)
 >
-> 🎨 [Design Webpages with CSS](designcss.md)
+> 🎨 [Design Webpages with CSS](06-DesignCSS.md)
 >
-> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+> ☕ [Dynamic Webpages with JavaScript](07-DynamicJavascript.md)
 >
-> 🌵 [Programming with JavaScript](programjs.md)
+> 🌵 [Programming with JavaScript](08-ProgramJS.md)
 >
-> 🤖 [Operators & Loops](operloops.md)
+> 🤖 [Operators & Loops](09-OperatorsLoops.md)
 >
-> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
 
 _____
-
 ## Text Editor vs. Source Code Editor vs. IDE
 
 _____
@@ -31,7 +30,7 @@ _____
 ### Text Editor
 
 A software usually on your computer or a website, used for writing & managing text. Usually text used to build a website.
-  
+
 Examples:
 >
 > * Notepad
@@ -71,10 +70,10 @@ Developers should be thoughtful when choosing a text editor because it is one of
 You want it to be one that you will be happy and comfortable using for several hours a day.
 Choosing a text editor with the right features will writing and managing your code much easier and faster.
 
-Useful Features to Look For:  
+Useful Features to Look For:
 >
 > * code completion
-> * syntax highlighting  
+> * syntax highlighting
 > * variety of theme options
 > * variety of extensions to add on
 > * Emmet shorthand
@@ -83,8 +82,9 @@ _____
 
 ## Next
 
-> * [The Command Line](/thecommandline.md)
-> * [Basic Navigation](/basicnavigation.md)
-> * [More About Files](/moreaboutfiles.md)
+> * [Choosing a Text Editor](03a-TextEditor.md)
+> * [The Command Line](03b-TheCommandLine.md)
+> * [Basic Navigation](03c-BasicNavigation.md)
+> * [More About Files](03d-MoreAboutFiles.md)
 
 _____

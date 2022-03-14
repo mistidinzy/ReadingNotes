@@ -2,25 +2,25 @@
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
-> 💭 [Growth Mindset](growthmindset.md)
+> 💭 [Growth Mindset](01-GrowthMindset.md)
 >
-> ✍️ [Learning Markdown](learningmarkdown.md)
+> ✍️ [Learning Markdown](02-LearningMarkdown.md)
 >
-> 💻 [Coder's Computer](coderscomputer.md)
+> 💻 [Coder's Computer](03-CodersComputer.md)
 >
-> 🌩️ [Revisions & the Cloud](revisionscloud.md)
+> 🌩️ [Revisions & the Cloud](04-RevisionsCloud.md)
 >
-> 🏗️ [Structure Webpages with HTML](structure.md)
+> 🏗️ [Structure Webpages with HTML](05-Structure.md)
 >
-> 🎨 [Design Webpages with CSS](designcss.md)
+> 🎨 [Design Webpages with CSS](06-DesignCSS.md)
 >
-> ☕ [Dynamic Webpages with JavaScript](dynamicjava.md)
+> ☕ [Dynamic Webpages with JavaScript](07-DynamicJavascript.md)
 >
-> 🌵 [Programming with JavaScript](programjs.md)
+> 🌵 [Programming with JavaScript](08-ProgramJS.md)
 >
-> 🤖 [Operators & Loops](operloops.md)
+> 🤖 [Operators & Loops](09-OperatorsLoops.md)
 >
-> 🧮 [Computer Architecture & Logic](comparchlogic.md)
+> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
 
 _____
 
@@ -28,7 +28,7 @@ _____
 
 Git was created by Linus Toralds, the creator of Linux.
 
-Git is a "distributed version control system" that creates "snapshots" of changes made to your project.  
+Git is a "distributed version control system" that creates "snapshots" of changes made to your project.
 
 A changed version of your project is called a **commit**.
 
@@ -43,7 +43,7 @@ _____
    You can then make changes to this copy and feed those through to your remote repo later.
    This can be especially useful in scenarios where you may not have a stable internet connection, but would like to keep working on your code!
 
-### To clone a Repo from GitHub to your computer  
+### To clone a Repo from GitHub to your computer
 
  1. Go to your Repo's page on GitHub.
  2. Click the green "Code" box.
@@ -61,11 +61,11 @@ Now you can:
 
 * Move into your clone repo's directory.
 
-       cd clonenamehere 
+       cd clonenamehere
 
 * Open VS Code to make changes to your files
 
-       code . 
+       code .
 
 * See ACP section below for how to save changes to your GitHub online repo.
 * Do a little dance.
@@ -87,8 +87,8 @@ Your local Git Repository has three components.
 This is the "life cycle" of your file.
 
  1. Modified - Git has noted that the file has changed in working directory, but not committed (saved).
- 2. Staged - Changed version has been flagged as "to be committed", it is now in the staging area.  
- 3. Committed - File data has been securely stored in database/repository.  
+ 2. Staged - Changed version has been flagged as "to be committed", it is now in the staging area.
+ 3. Committed - File data has been securely stored in database/repository.
 
 #### ACP
 
@@ -104,7 +104,7 @@ These are the steps to move your files between file states.
 
 # ⭐Add - Commit - Push ⭐
 
- **Note**: Using command **git status** before ACP is a very very good practice! It shows you all the changes you have made since your last commit.  
+ **Note**: Using command **git status** before ACP is a very very good practice! It shows you all the changes you have made since your last commit.
 
     git status
 
@@ -112,7 +112,7 @@ These are the steps to move your files between file states.
 
  Add file individually:
 
-    git add 'filenamehere' 
+    git add 'filenamehere'
 
  or
 
