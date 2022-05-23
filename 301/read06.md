@@ -1,4 +1,4 @@
-# NODE.JS ∙ npm ∙ Pair Programming
+# Read 06: NODE.JS ∙ npm ∙ Pair Programming
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -112,7 +112,7 @@ _____
 
 ### The ***async*** Keyword
 
-> An ***async*** function is a function that knows how to expect the possibility of the ***await*** keyword being used to invoke asynchronous code. 
+> An ***async*** function is a function that knows how to expect the possibility of the ***await*** keyword being used to invoke asynchronous code.
 
 [Asynchronous?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Concepts#asynchronous)
 

@@ -1,4 +1,4 @@
-# Passing Functions as Props
+# Read 03: Passing Functions as Props
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -39,7 +39,7 @@ What does .map() return?
 
 If I want to loop through an array and display each value in JSX, how do I do that in React?
 > Use 'forEach'(?). Unclear.
-  
+
 Each list item needs a unique __?
 > **key**.
 

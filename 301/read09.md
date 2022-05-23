@@ -1,4 +1,4 @@
-# Functional Programming
+# Read 09: Functional Programming
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 

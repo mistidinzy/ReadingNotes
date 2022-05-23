@@ -1,4 +1,4 @@
-# Diversity & Inclusion in the Tech Industry
+# Read 13: Diversity & Inclusion in the Tech Industry
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 

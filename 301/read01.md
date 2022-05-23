@@ -1,4 +1,4 @@
-# Introduction to React and Components
+# Read 01: Introduction to React and Components
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -48,7 +48,7 @@ _____
   Components are similar to functions, that create HTML elements. They are independent, reusable bits of code.
 
 **What are the charactistics of a component?**
-  
+
     * Reusability - Can be reused for different situations or designed for a specific use.
 
     * Replaceable - Can be interchanged with other components.

@@ -1,4 +1,4 @@
-# State & Props
+# Read 02: State & Props
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 

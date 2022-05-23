@@ -1,4 +1,4 @@
-# Thinking in React
+# Read 05: Thinking in React
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -50,7 +50,7 @@ _____
   > Can you compute it based on any other state or props in your component? Probably not state.
 
 **How can you identify where state needs to live?**
-  
+
 First, you need to remember that React has a one-way data flow down the component hierarchy. To try to figure out which component should own which state, follow these steps:
 
   > * Identify every component that renders something based on that state.

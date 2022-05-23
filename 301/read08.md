@@ -1,4 +1,4 @@
-# APIs
+# Read 08: APIs
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
@@ -39,7 +39,7 @@ _____
 2. REST APIs are designed around a ____.
     >  Resource.
 3. What is an identifer of a resource? Give an example.
-    >  
+    >
 4. What are the most common HTTP verbs?
     >  GET POST PUT PATCH DELETE
 5. What should the URIs be based on?
