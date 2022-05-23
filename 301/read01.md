@@ -30,71 +30,80 @@
 >
 > **14** [Authentication](/read14.md)
 
-_____
+---
 
-React is a component-based library, used to build user interfaces.
+## **React is a component-based library, used to build user interfaces**
 
-  3 Fundamentals of React:
-    Components
-    Props
-    State
+---
 
-_____
+### 3 Fundamentals of React
 
-## Component Based Architecture
+- Components
+- Props
+- State
+
+---
+
+## Component-Based Architecture
 
 **What is a component?**
 
-  Components are similar to functions, that create HTML elements. They are independent, reusable bits of code.
+### **Components are similar to functions, in that they are independent, reusable bits of code.**
+
+---
 
 **What are the charactistics of a component?**
 
-    * Reusability - Can be reused for different situations or designed for a specific use.
+- **Reusability**: Can be reused for different situations or designed for a specific use.
 
-    * Replaceable - Can be interchanged with other components.
+- **Replaceable**: Can be interchanged with other components.
 
-    * Not context-specific - Can be used in different environments.
+- **Not context-specific**: Can be used in different environments.
 
-    * Extensible - Can be extended to provide a new behavior.
+- **Extensible**: Can be extended to provide a new behavior.
 
-    * Encapsulated - ?
+- **Encapsulated**: Data is enclosed within a class, which allows you to hide specific information and control access to the internal **state** of the object.
 
-    * Independent - Designed to have minimal dependencies on other components.
+- **Independent**: Designed to have minimal dependencies on other components.
+
+---
 
 **What are the advantages of using component based architecture?**
 
-    * Components are reusable and flexible.
-    * Easy to replace existing versions without impace on other components.
-    * Reduced cost.
+- Components are reusable and flexible.
+- Easy to replace existing versions without impace on other components.
+- Reduced cost.
 
-### Resources
+---
+
+## Resources
 
 [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-## Things I want to know more about
+### Things I want to know more about
 
   I would like to see this article translated into more layman's terms. The whole thing is pretty hard for me to follow in general.
 
-  What is meant in the "Encapsulated" characteristic bullet point.
+  What is meant in the "Encapsulated" characteristic bullet point (in the reading).
 
-_____
+---
 
-## What is Props and How to Use it in React
-
-**What is props short for?**
-
-  Properties.
-
-**How are props used in React?**
-
-  Props are used to pass data between components.
-
-**What is the flow of props?**
-
-  Data is passed in a read-only, uni-directional flow. One way, from parent to child.
-
-### Resources
+## **What is Props & How to use it in React**
 
 [What is Props & How to Use It](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
-_____
+### **What is props short for?**
+
+  Properties.
+
+### **How are props used in React?**
+
+  Props are used to pass data between components.
+
+### **What is the flow of props?**
+
+  Data is passed in a read-only, uni-directional flow.
+
+  One way, from parent to child.
+
+---
