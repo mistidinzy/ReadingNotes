@@ -19,8 +19,8 @@
 > 🌵 [Programming with JavaScript](102/08-ProgramJS.md)
 >
 > 🤖 [Operators & Loops](102/09-OperatorsLoops.md)
->
-> 🧮 [Computer Architecture & Logic](102/10-CompArchLogic.md)
+<!-- >
+> 🧮 [Computer Architecture & Logic](102/10-CompArchLogic.md) -->
 
 _____
 

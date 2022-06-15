@@ -19,8 +19,8 @@
 > 🌵 [Programming with JavaScript](08-ProgramJS.md)
 >
 > 🤖 [Operators & Loops](09-OperatorsLoops.md)
->
-> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md)
+<!-- >
+> 🧮 [Computer Architecture & Logic](10-CompArchLogic.md) -->
 
 _____
 
@@ -79,4 +79,3 @@ _____
 > * [More About Files](03d-MoreAboutFiles.md)
 
 _____
-
