@@ -22,21 +22,51 @@
 <!-- >
 > 🧮 [Computer Architecture & Logic](10-CompArchLogic.md) -->
 
-_____
+---
 
-## This is the second heading
+## Styling with Markdown
 
-### This is some practice Markdown
+    ## This is a second-level heading
+
+## This is a second-level heading
+
+---
+
+    ### This is **some** practice Markdown
+
+### This is **some** practice Markdown
+
+---
+
+    *This text will be italic*
 
 *This text will be italic*
 
+---
+
+    _This will also be italic_
+
 _This will also be italic_
 
-**This text will be bold**
+---
 
-__This will also be bold__
+    **This text will be bold**
 
-_You **can** combine them_
+#### **This text will be bold**
+
+---
+
+    __This will also be bold__
+
+#### __This will also be bold__
+
+---
+
+    _You **can** also combine them_
+
+_You **can** also combine them_
+
+---
 
 ## Making Lists
 

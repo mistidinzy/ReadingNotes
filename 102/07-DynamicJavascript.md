@@ -22,7 +22,7 @@
 <!-- >
 > 🧮 [Computer Architecture & Logic](10-CompArchLogic.md) -->
 
-_____
+---
 
 ### What is JavaScript
 
