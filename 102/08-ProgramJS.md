@@ -24,6 +24,10 @@
 
 ---
 
+## Variables
+
+![Assigning a Variable](images/assigningVariable.gif)
+
 ## Expressions
 
 An expression is any valid unit of code that resolves to a value.
@@ -73,9 +77,7 @@ To **call** a function, use the function's name followed by paranthesis.
 
 That will look like this:
 
-```javascript
-function hello()
-```
+        function hello()
 
 ---
 
