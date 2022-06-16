@@ -80,7 +80,7 @@ Your local Git Repository has three components.
 
  1. Working Directory: This is where your files are, and where you make your changes.
  2. Index: This is the staging area. Where your changed version goes when you add it to be committed.
- 3. Head: This is your remote directory where your changed files go once they have been saved/committed.
+ 3. Head: This is the remote directory where you are currently working. It's like a "You are Here" marker.
 
 #### File States
 
