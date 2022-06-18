@@ -28,6 +28,8 @@
 
 ![Assigning a Variable](images/assigningVariable.gif)
 
+---
+
 ## Expressions
 
 An expression is any valid unit of code that resolves to a value.
@@ -39,6 +41,8 @@ Categories:
     - Logical
     - Primary
     - Left-hand-side expressions
+
+---
 
 ## Operators
 
