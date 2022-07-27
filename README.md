@@ -13,6 +13,9 @@
 🔆 [**About Me**](https://mistidinzy.github.io/AboutMe/)
 |
 🐙 [**My GitHub**](https://github.com/mistidinzy)
-<!-- 🗃 [**Projects**](projects.md) -->
+
+_____
+
+![Ruby Logo](/Ruby/ruby.png) [**Ruby**](/Ruby/Ruby-001.md)
 
 _____
