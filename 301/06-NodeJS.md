@@ -92,11 +92,13 @@ _____
 
 ### **2. In your experience, which of these reasons have you found most beneficial?**
 
-*Learning from fellow students*
->When you work together in this way, you get a refresher on things that you might be fuzzy on, or have forgotten altogether. You get another view on the problems and what can be done to solve them.
+Learning from fellow students
 
-*Social skills*
->Coming into this program as a pretty hardcore introvert, the idea of pair programming sounded pretty horrific to me. Now I look forward to it, because getting to know my peers has been really enjoyable. Plus, it has helped calm my nerves and validate my worries, because I usually find out that we're usually all having very similar feelings.
+> When you work together in this way, you get a refresher on things that you might be fuzzy on, or have forgotten altogether. You get another view on the problems and what can be done to solve them.
+
+Social skills
+
+> Coming into this program as a pretty hardcore introvert, the idea of pair programming sounded pretty horrific to me. Now I look forward to it, because getting to know my peers has been really enjoyable. Plus, it has helped calm my nerves and validate my worries, because I usually find out that we're usually all having very similar feelings.
 
 ### **3. How does pair programming work?**
 
