@@ -1,4 +1,4 @@
-# Read 05: Thinking in React
+# Read 05: Thinking in React - Putting it all Together
 
 ## 🏡 [**Home**](https://mistidinzy.github.io/ReadingNotes/)
 
