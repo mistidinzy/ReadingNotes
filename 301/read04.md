@@ -34,37 +34,61 @@ _____
 
 [React Docs - Forms](https://reactjs.org/docs/forms.html)
 
-**What is a ‘Controlled Component’?**
+_____
 
-> An input form element whose value is controlled by React. In React, the component that renders a form also controls what happens in that form upon user input.
+In HTML, form elements such as `<input>`, `<textarea>`, and `<select>` typically maintain their own state and update it based on user input.
 
-**Should we wait to store the users responses from the form into state when they submit the form?**
+In React, mutable state is typically kept in the state property of components, and only updated with `setState()`.
 
-**OR**
+The React component that renders a form also controls what happens in that form on subsequent user input.
 
-**Should we update the state with their responses as soon as they enter them?**
+_____
 
-> Update the state as soon as they enter their responses.
+`What is a ‘Controlled Component’?`
 
-**Why?**
+An input form element whose value is controlled by React.
 
-> So we can control what happens in the form, depending on what they put into it.
+In React, the component that renders a form also controls what happens in that form upon user input.
 
-**How do we target what the user is entering if we have an event handler on an input field?**
+_____
 
-> Add a name attribute to each element and let the handler function choose what to do, based on the value of event.target.name
+Example:
+
+![Controlled Component Example](controlled-component.png)
+
+_____
+
+`Should we wait to store the users responses from the form into state when they submit the form?`
+
+`or`
+
+`Should we update the state with their responses as soon as they enter them?`
+
+Update the state as soon as they enter their responses.
+
+`Why?`
+
+So we can control what happens in the form, depending on what they put into it.
+
+_____
+
+`How do we target what the user is entering if we have an event handler on an input field?`
+
+Add a name attribute to each element and let the handler function choose what to do, based on the value of **event.target.name**
 
 _____
 
 [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
-**Why would we use a ternary operator?**
+`Why would we use a ternary operator?`
 
-> To simplify conditional expressions. Frequently used as a shortcut for the *if* statement.
+To simplify conditional expressions.
 
-**Rewrite the following statement using a ternary statement:**
+Frequently used as a shortcut for the `if` statement.
 
-   let ternary = (x===y ? console.log(true) : console.log(false);)
+`Rewrite the following statement using a ternary statement:`
+
+let ternary = (x===y ? console.log(true) : console.log(false); )
 
 _____
 
